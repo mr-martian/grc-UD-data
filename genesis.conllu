@@ -1646,7 +1646,7 @@
 3	ἡ	ὁ	DET	_	Case=Nom|Definite=Def|Gender=Fem|Number=Sing	4	det	_	Gloss=the
 4	γυνὴ	γυνή	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	2	nsubj	_	Gloss=woman,wife
 5	τῷ	ὁ	DET	_	Case=Dat|Definite=Def|Gender=Masc,Neut|Number=Sing	6	det	_	Gloss=the
-6	ὄφει	ὄφις	NOUN	_	Case=Dat|Gender=Masc|Number=Sing	2	obl	_	Gloss=snake,serpent|SpaceAfter=No
+6	ὄφει	ὄφις	NOUN	_	Case=Dat|Gender=Masc|Number=Sing	2	iobj	_	Gloss=snake,serpent|SpaceAfter=No
 7	,	,	PUNCT	_	_	8	punct	_	_
 8	ἀπὸ	ἀπό	ADP	_	_	9	case	_	Gloss=from,away-from
 9	καρποῦ	καρπός	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	13	obl	_	Gloss=fruit
@@ -1695,7 +1695,7 @@
 3	ὁ	ὁ	DET	_	Case=Nom|Gender=Masc|Number=Sing	4	det	_	Gloss=the;-oh
 4	ὄφις	ὄφις	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	2	nsubj	_	Gloss=snake,serpent
 5	τῇ	ὁ	DET	_	Case=Dat|Definite=Def|Gender=Fem|Number=Sing	6	det	_	Gloss=the
-6	γυναικί	γυνή	NOUN	_	Case=Dat|Gender=Fem|Number=Sing	2	obl	_	Gloss=wife,woman|SpaceAfter=No
+6	γυναικί	γυνή	NOUN	_	Case=Dat|Gender=Fem|Number=Sing	2	iobj	_	Gloss=wife,woman|SpaceAfter=No
 7	·	·	PUNCT	_	_	8	punct	_	_
 8	οὐ	οὐ	ADV	_	Polarity=Neg	10	advmod	_	Gloss=no,not
 9	θανάτῳ	θάνατος	NOUN	_	Case=Dat|Gender=Masc|Number=Sing	10	obl:npmod	_	Gloss=death
@@ -1850,15 +1850,15 @@
 4	ὁ	ὁ	DET	_	Case=Nom|Gender=Masc|Number=Sing	5	det	_	Gloss=the;-oh
 5	θεὸς	θεός	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	3	appos	_	Gloss=god
 6	τὸν	ὁ	DET	_	Case=Acc|Definite=Def|Gender=Masc|Number=Sing	7	det	_	Gloss=the
-7	Ἀδάμ	Ἀδάμ	PROPN	_	_	2	obl	_	Gloss=Adam|SpaceAfter=No
+7	Ἀδάμ	Ἀδάμ	PROPN	_	_	2	obj	_	Gloss=Adam|SpaceAfter=No
 8	,	,	PUNCT	_	_	9	punct	_	_
 9	καὶ	καί	CCONJ	_	_	10	cc	_	Gloss=and,also,even,then,next
 10	εἶπεν	εἶπον	VERB	_	Aspect=Aor|Mood=Ind|Number=Sing|Person=3|Voice=Act	2	conj	_	Gloss=to-say
 11	αὐτῷ	αὐτός	PRON	_	Case=Dat|Gender=Masc,Neut|Number=Sing|PronType=Prs	10	iobj	_	Gloss=he,she,it,-self,same|SpaceAfter=No
 12	·	·	PUNCT	_	_	13	punct	_	_
-13	Ἀδὰμ	Ἀδὰμ	PROPN	_	_	10	ccomp	_	Gloss=Adam
+13	Ἀδὰμ	Ἀδὰμ	PROPN	_	_	14	vocative	_	Gloss=Adam
 14	ποῦ	ποῦ	PART	_	_	10	ccomp	_	Gloss=where?
-15	εἶ	εἰμί	AUX	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres|Voice=Act	14	nsubj	_	Gloss=to-be|SpaceAfter=No
+15	εἶ	εἰμί	AUX	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres|Voice=Act	14	cop	_	Gloss=to-be|SpaceAfter=No
 16	;	;	PUNCT	_	_	15	punct	_	_
 
 # sent_id = lxx/genesis03_v10
@@ -1902,14 +1902,14 @@
 14	μὴ	μή	ADV	_	Polarity=Neg	29	advmod	_	Gloss=no,not
 15	ἀπὸ	ἀπό	ADP	_	_	17	case	_	Gloss=from,away-from
 16	τοῦ	ὁ	DET	_	Case=Gen|Definite=Def|Gender=Masc,Neut|Number=Sing	17	det	_	Gloss=the
-17	ξύλου	ξύλον	NOUN	_	Case=Gen|Gender=Neut|Number=Sing	29	obl	_	Gloss=tree,wood|SpaceAfter=No
+17	ξύλου	ξύλον	NOUN	_	Case=Gen|Gender=Neut|Number=Sing	29	dislocated	_	Gloss=tree,wood|SpaceAfter=No
 18	,	,	PUNCT	_	_	19	punct	_	_
 19	οὗ	ὅς	PRON	_	Case=Gen|Gender=Masc,Neut|Number=Sing|PronType=Rel	20	mark	_	Gloss=where;-who,which,that
 20	ἐνετειλάμην	ἐντέλλω	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Aor|Voice=Mid	17	acl:relcl	_	Gloss=to-charge,command
 21	σοι	σύ	PRON	_	Case=Dat|Number=Sing|Person=2|PronType=Prs	20	obj	_	Gloss=you|Unknown=Enclitic
-22	τούτου	οὗτος	PRON	_	Case=Gen|Gender=Masc,Neut|Number=Sing|PronType=Dem	_	_	_	Gloss=this
-23	μόνου	μόνος	ADJ	_	Case=Gen|Gender=Masc,Neut|Number=Sing	_	_	_	Gloss=only,alone
-24	μὴ	μή	ADV	_	Polarity=Neg	25	obl	_	Gloss=no,not
+22	τούτου	οὗτος	PRON	_	Case=Gen|Gender=Masc,Neut|Number=Sing|PronType=Dem	25	obl	_	Gloss=this
+23	μόνου	μόνος	ADJ	_	Case=Gen|Gender=Masc,Neut|Number=Sing	22	amod	_	Gloss=only,alone
+24	μὴ	μή	ADV	_	Polarity=Neg	25	advmod	_	Gloss=no,not
 25	φαγεῖν	ἐσθίω	VERB	_	Aspect=Aor|VerbForm=Inf|Voice=Act	20	xcomp	_	Gloss=to-eat|SpaceAfter=No
 26	,	,	PUNCT	_	_	27	punct	_	_
 27	ἀπ᾿	ἀπό	ADP	_	_	28	case	_	Gloss=from,away-from
@@ -1932,7 +1932,7 @@
 12	ἐμοῦ	ἐμός	PRON	_	Case=Gen|Gender=Masc,Neut|Number=Sing|Person=1	10	obl	_	Gloss=me|SpaceAfter=No|Unknown=Possessive
 13	,	,	PUNCT	_	_	14	punct	_	_
 14	αὕτη	οὗτος	PRON	_	Case=Nom|Gender=Fem|Number=Sing|PronType=Dem	16	nsubj	_	Gloss=this
-15	μοι	ἐγώ	PRON	_	Case=Dat|Number=Sing|Person=1|PronType=Prs	_	_	_	Gloss=me
+15	μοι	ἐγώ	PRON	_	Case=Dat|Number=Sing|Person=1|PronType=Prs	16	iobj	_	Gloss=me
 16	ἔδωκεν	δίδωμι	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Aor|Voice=Act	2	ccomp	_	Gloss=to-give
 17	ἀπὸ	ἀπό	ADP	_	_	19	case	_	Gloss=from,away-from
 18	τοῦ	ὁ	DET	_	Case=Gen|Definite=Def|Gender=Masc,Neut|Number=Sing	19	det	_	Gloss=the
