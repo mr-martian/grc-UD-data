@@ -3016,10 +3016,10 @@
 23	.	.	PUNCT	_	_	22	punct	_	_
 
 # sent_id = lxx/genesis05_v1
-1	Αὕτη	οὗτος	PRON	_	Case=Nom|Gender=Fem|Number=Sing|PronType=Dem	_	_	_	Gloss=this
+1	Αὕτη	οὗτος	PRON	_	Case=Nom|Gender=Fem|Number=Sing|PronType=Dem	3	nsubj	_	Gloss=this
 2	ἡ	ὁ	DET	_	Case=Nom|Definite=Def|Gender=Fem|Number=Sing	3	det	_	Gloss=the
-3	βίβλος	βίβλος	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	_	_	_	Gloss=book
-4	γενέσεως	γένεσις	NOUN	_	Case=Gen|Gender=Fem|Number=Sing	_	_	_	Gloss=generation,origin
+3	βίβλος	βίβλος	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	0	root	_	Gloss=book
+4	γενέσεως	γένεσις	NOUN	_	Case=Gen|Gender=Fem|Number=Sing	3	nmod:poss	_	Gloss=generation,origin
 5	ἀνθρώπων	ἄνθρωπος	NOUN	_	Case=Gen|Gender=Masc|Number=Plur	4	nmod:poss	_	Gloss=man|SpaceAfter=No
 6	·	·	PUNCT	_	_	7	punct	_	_
 7	ᾗ	ὅς	PRON	_	Case=Dat|Gender=Fem|Number=Sing|PronType=Rel	8	case	_	Gloss=who,which,that
@@ -3077,10 +3077,10 @@
 13	ἰδέαν	ἰδέα	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	10	obl	_	Gloss=form,shape
 14	αὐτοῦ	αὐτός	PRON	_	Case=Gen|Gender=Masc,Neut|Number=Sing|PronType=Prs	13	nmod:poss	_	Gloss=he,she,it,-self,same|SpaceAfter=No
 15	,	,	PUNCT	_	_	16	punct	_	_
-16	καὶ	καί	CCONJ	_	_	_	_	_	Gloss=and,also,even,then,next
+16	καὶ	καί	CCONJ	_	_	19	cc	_	Gloss=and,also,even,then,next
 17	κατὰ	κατά	ADP	_	_	19	case	_	Gloss=+G=down-from/upon;-+A=according-to,along
 18	τὴν	ὁ	DET	_	Case=Acc|Definite=Def|Gender=Fem|Number=Sing	19	det	_	Gloss=the
-19	εἰκόνα	εἰκών	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	10	obl	_	Gloss=likeness,image
+19	εἰκόνα	εἰκών	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	13	conj	_	Gloss=likeness,image
 20	αὐτοῦ	αὐτός	PRON	_	Case=Gen|Gender=Masc,Neut|Number=Sing|PronType=Prs	19	nmod:poss	_	Gloss=he,she,it,-self,same|SpaceAfter=No
 21	,	,	PUNCT	_	_	22	punct	_	_
 22	καὶ	καί	CCONJ	_	_	23	cc	_	Gloss=and,also,even,then,next
@@ -3099,11 +3099,11 @@
 4	ἡμέραι	ἡμέρα	NOUN	_	Case=Nom|Gender=Fem|Number=Plur	1	nsubj	_	Gloss=days
 5	Ἀδάμ	Ἀδάμ	PROPN	_	_	4	nmod:poss	_	Gloss=Adam|SpaceAfter=No
 6	,	,	PUNCT	_	_	7	punct	_	_
-7	ἃς	ὅς	PRON	_	Case=Acc|Gender=Fem|Number=Plur|PronType=Rel	_	_	_	Gloss=who,which
-8	ἔζησεν	ζάω	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Aor|Voice=Act	_	_	_	Gloss=to-live
+7	ἃς	ὅς	PRON	_	Case=Acc|Gender=Fem|Number=Plur|PronType=Rel	8	obj	_	Gloss=who,which
+8	ἔζησεν	ζάω	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Aor|Voice=Act	4	acl:relcl	_	Gloss=to-live
 9	μετὰ	μετά	ADP	_	_	11	case	_	Gloss=+G=with;-+A=after
 10	τὸ	ὁ	DET	_	Case=Nom,Acc|Definite=Def|Gender=Neut|Number=Sing	11	det	_	Gloss=the
-11	γεννῆσαι	γεννάω	VERB	_	Aspect=Aor|VerbForm=Inf|Voice=Act	17	obl	_	Gloss=to-beget
+11	γεννῆσαι	γεννάω	VERB	_	Aspect=Aor|VerbForm=Inf|Voice=Act	8	obl	_	Gloss=to-beget
 12	αὐτὸν	αὐτός	PRON	_	Case=Acc|Gender=Masc|Number=Sing|PronType=Prs	11	nsubj	_	Gloss=he,she,it,-self,same
 13	τὸν	ὁ	DET	_	Case=Acc|Definite=Def|Gender=Masc|Number=Sing	14	det	_	Gloss=the
 14	Σήθ	Σήθ	PROPN	_	_	11	obj	_	Gloss=Seth|SpaceAfter=No
@@ -3112,7 +3112,7 @@
 17	ἔτη	ἔτος	NOUN	_	Case=Nom,Acc|Gender=Neut|Number=Plur	1	obj	_	Gloss=years|SpaceAfter=No
 18	·	·	PUNCT	_	_	19	punct	_	_
 19	καὶ	καί	CCONJ	_	_	20	cc	_	Gloss=and,also,even,then,next
-20	ἐγέννησεν	γεννάω	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Aor|Voice=Act	17	conj	_	Gloss=to-give-birth
+20	ἐγέννησεν	γεννάω	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Aor|Voice=Act	1	conj	_	Gloss=to-give-birth
 21	υἱοὺς	υἱός	NOUN	_	Case=Acc|Gender=Masc|Number=Plur	20	obj	_	Gloss=sons
 22	καὶ	καί	CCONJ	_	_	23	cc	_	Gloss=and,also,even,then,next
 23	θυγατέρας	θυγάτηρ	NOUN	_	Case=Acc|Gender=Fem|Number=Plur	21	conj	_	Gloss=daughters|SpaceAfter=No
