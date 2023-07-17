@@ -3193,15 +3193,15 @@
 14	.	.	PUNCT	_	_	13	punct	_	_
 
 # sent_id = lxx/genesis05_v9
-1	καὶ	καί	CCONJ	_	_	4	cc	_	Gloss=and,also,even,then,next
+1	καὶ	καί	CCONJ	_	_	2	cc	_	Gloss=and,also,even,then,next
 2	ἔζησεν	ζάω	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Aor|Voice=Act	0	root	_	Gloss=to-live
-3	Ἐνὼς	Ἐνὼς	PROPN	_	_	4	nsubj	_	Gloss=Enosh
-4	ἑκατὸν	ἑκατόν	NUM	_	NumType=Card	0	root	_	Gloss=100
+3	Ἐνὼς	Ἐνὼς	PROPN	_	_	2	nsubj	_	Gloss=Enosh
+4	ἑκατὸν	ἑκατόν	NUM	_	NumType=Card	6	nummod	_	Gloss=100
 5	ἐνενήκοντα	ἐνενήκοντα	NUM	_	_	4	conj	_	Gloss=90|Unknown=Indeclined
-6	ἔτη	ἔτος	NOUN	_	Case=Nom,Acc|Gender=Neut|Number=Plur	4	obl	_	Gloss=years|SpaceAfter=No
+6	ἔτη	ἔτος	NOUN	_	Case=Nom,Acc|Gender=Neut|Number=Plur	2	obj	_	Gloss=years|SpaceAfter=No
 7	·	·	PUNCT	_	_	8	punct	_	_
 8	καὶ	καί	CCONJ	_	_	9	cc	_	Gloss=and,also,even,then,next
-9	ἐγέννησεν	γεννάω	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Aor|Voice=Act	4	conj	_	Gloss=to-give-birth
+9	ἐγέννησεν	γεννάω	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Aor|Voice=Act	2	conj	_	Gloss=to-give-birth
 10	τὸν	ὁ	DET	_	Case=Acc|Definite=Def|Gender=Masc|Number=Sing	11	det	_	Gloss=the
 11	Καϊνᾶν	Καϊνᾶν	PROPN	_	_	9	obj	_	Gloss=Cainan|SpaceAfter=No
 12	.	.	PUNCT	_	_	11	punct	_	_
@@ -3285,15 +3285,15 @@
 
 # sent_id = lxx/genesis05_v14
 1	καὶ	καί	CCONJ	_	_	2	cc	_	Gloss=and,also,even,then,next
-2	ἐγένοντο	γίνομαι	VERB	_	Aspect=Aor|Mood=Ind|Number=Plur|Person=3|Voice=Mid	10	nummod	_	Gloss=to-become,come-to-be
+2	ἐγένοντο	γίνομαι	VERB	_	Aspect=Aor|Mood=Ind|Number=Plur|Person=3|Voice=Mid	0	root	_	Gloss=to-become,come-to-be
 3	πᾶσαι	πᾶς	ADJ	_	Case=Nom|Gender=Fem|Number=Plur	5	amod	_	Gloss=all
 4	αἱ	ὁ	DET	_	Case=Nom|Gender=Fem|Number=Plur	5	det	_	Gloss=the
 5	ἡμέραι	ἡμέρα	NOUN	_	Case=Nom|Gender=Fem|Number=Plur	2	nsubj	_	Gloss=days
 6	Καϊνᾶν	Καϊνᾶν	PROPN	_	_	5	nmod:poss	_	Gloss=Cainan
-7	ἐννακόσια	ἐννακόσιοι	NUM	_	Case=Nom,Acc|Gender=Neut|Number=Plur	2	obj	_	Gloss=900
-8	καὶ	καί	CCONJ	_	_	10	cc	_	Gloss=and,also,even,then,next
-9	δέκα	δέκ᾿	NUM	_	_	10	nummod	_	Gloss=ten
-10	ἔτη	ἔτος	NOUN	_	Case=Nom,Acc|Gender=Neut|Number=Plur	0	root	_	Gloss=years|SpaceAfter=No
+7	ἐννακόσια	ἐννακόσιοι	NUM	_	Case=Nom,Acc|Gender=Neut|Number=Plur	10	nummod	_	Gloss=900
+8	καὶ	καί	CCONJ	_	_	9	cc	_	Gloss=and,also,even,then,next
+9	δέκα	δέκ᾿	NUM	_	_	7	conj	_	Gloss=ten
+10	ἔτη	ἔτος	NOUN	_	Case=Nom,Acc|Gender=Neut|Number=Plur	2	obj	_	Gloss=years|SpaceAfter=No
 11	·	·	PUNCT	_	_	12	punct	_	_
 12	καὶ	καί	CCONJ	_	_	13	cc	_	Gloss=and,also,even,then,next
 13	ἀπέθανεν	ἀποθνήσκω	VERB	_	Aspect=Aor|Mood=Ind|Number=Sing|Person=3|Voice=Act	2	conj	_	Gloss=to-die|SpaceAfter=No
@@ -3469,14 +3469,14 @@
 2	εὐηρέστησεν	εὐαρεστέω	VERB	_	Aspect=Aor|Mood=Ind|Number=Sing|Person=3|Voice=Act	0	root	_	Gloss=to-please
 3	Ἐνὼχ	Ἐνὼχ	PROPN	_	_	2	nsubj	_	Gloss=Enoch
 4	τῷ	ὁ	DET	_	Case=Dat|Definite=Def|Gender=Masc,Neut|Number=Sing	5	det	_	Gloss=the
-5	θεῷ	θεός	NOUN	_	Case=Dat|Gender=Masc|Number=Sing	2	obl	_	Gloss=god|SpaceAfter=No
+5	θεῷ	θεός	NOUN	_	Case=Dat|Gender=Masc|Number=Sing	2	iobj	_	Gloss=god|SpaceAfter=No
 6	·	·	PUNCT	_	_	7	punct	_	_
-7	καὶ	καί	CCONJ	_	_	8	cc	_	Gloss=and,also,even,then,next
-8	οὐχ	οὐ	ADV	_	Polarity=Neg	2	conj	_	Gloss=no,not
-9	ηὑρίσκετο	εὑρίσκω	VERB	_	Aspect=Impf|Mood=Ind|Number=Sing|Person=3|Voice=Mid,Pass	8	nsubj	_	Gloss=to-find|SpaceAfter=No
+7	καὶ	καί	CCONJ	_	_	9	cc	_	Gloss=and,also,even,then,next
+8	οὐχ	οὐ	ADV	_	Polarity=Neg	9	advmod	_	Gloss=no,not
+9	ηὑρίσκετο	εὑρίσκω	VERB	_	Aspect=Impf|Mood=Ind|Number=Sing|Person=3|Voice=Mid,Pass	2	conj	_	Gloss=to-find|SpaceAfter=No
 10	,	,	PUNCT	_	_	11	punct	_	_
 11	ὅτι	ὅτι	SCONJ	_	_	12	mark	_	Gloss=because,that-for
-12	μετέθηκεν	μετατίθημι	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Aor|Voice=Act	8	advcl	_	Gloss=to-translate
+12	μετέθηκεν	μετατίθημι	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Aor|Voice=Act	9	advcl	_	Gloss=to-translate
 13	αὐτὸν	αὐτός	PRON	_	Case=Acc|Gender=Masc|Number=Sing|PronType=Prs	12	obj	_	Gloss=he,she,it,-self,same
 14	ὁ	ὁ	DET	_	Case=Nom|Gender=Masc|Number=Sing	15	det	_	Gloss=the;-oh
 15	θεός	θεός	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	12	nsubj	_	Gloss=god|SpaceAfter=No
@@ -3579,16 +3579,16 @@
 22	χειρῶν	χείρ	NOUN	_	Case=Gen|Gender=Fem|Number=Plur	20	nmod:poss	_	Gloss=hand
 23	ἡμῶν	ἡμεῖς	PRON	_	Case=Gen|Number=Plur|Person=1|PronType=Prs	22	nmod:poss	_	Gloss=us,our|SpaceAfter=No
 24	,	,	PUNCT	_	_	25	punct	_	_
-25	καὶ	καί	CCONJ	_	_	_	_	_	Gloss=and,also,even,then,next
+25	καὶ	καί	CCONJ	_	_	28	cc	_	Gloss=and,also,even,then,next
 26	ἀπὸ	ἀπό	ADP	_	_	28	case	_	Gloss=from,away-from
 27	τῆς	ὁ	DET	_	Case=Gen|Definite=Def|Gender=Fem|Number=Sing	28	det	_	Gloss=the
-28	γῆς	γῆ	NOUN	_	Case=Gen|Gender=Fem|Number=Sing	10	obl	_	Gloss=earth,land|SpaceAfter=No
+28	γῆς	γῆ	NOUN	_	Case=Gen|Gender=Fem|Number=Sing	14	obl	_	Gloss=earth,land|SpaceAfter=No
 29	,	,	PUNCT	_	_	30	punct	_	_
 30	ἧς	ὅς	PRON	_	Case=Gen|Gender=Fem|Number=Sing|PronType=Rel	31	obl	_	Gloss=who,which,that
 31	κατηράσατο	καταράομαι	VERB	_	Aspect=Aor|Number=Sing|Person=3|Voice=Mid	28	acl:relcl	_	Gloss=curse|Unknown=Ind/Imperative
 32	κύριος	κύριος	ADJ	_	Case=Nom|Gender=Masc|Number=Sing	31	nsubj	_	Gloss=lord
 33	ὁ	ὁ	DET	_	Case=Nom|Gender=Masc|Number=Sing	34	det	_	Gloss=the;-oh
-34	θεός	θεός	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	31	nsubj	_	Gloss=god|SpaceAfter=No
+34	θεός	θεός	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	32	appos	_	Gloss=god|SpaceAfter=No
 35	.	.	PUNCT	_	_	34	punct	_	_
 
 # sent_id = lxx/genesis05_v30
@@ -3645,10 +3645,10 @@
 9	[	[	PUNCT	_	_	10	punct	_	_
 10	Νῶε	Νῶε	PROPN	_	_	8	nsubj	_	Gloss=Noah|SpaceAfter=No
 11	]	]	PUNCT	_	_	12	punct	_	_
-12	τρεῖς	τρεῖς	NUM	_	Case=Nom|Gender=Masc,Fem|Number=Plur	8	nsubj	_	Gloss=three
-13	υἱούς	υἱός	NOUN	_	Case=Acc|Gender=Masc|Number=Plur	_	_	_	Gloss=sons
+12	τρεῖς	τρεῖς	NUM	_	Case=Nom|Gender=Masc,Fem|Number=Plur	13	nummod	_	Gloss=three
+13	υἱούς	υἱός	NOUN	_	Case=Acc|Gender=Masc|Number=Plur	8	obj	_	Gloss=sons
 14	τὸν	ὁ	DET	_	Case=Acc|Definite=Def|Gender=Masc|Number=Sing	15	det	_	Gloss=the
-15	Σήμ	Σήμ	PROPN	_	_	8	obj	_	Gloss=Shem|SpaceAfter=No
+15	Σήμ	Σήμ	PROPN	_	_	13	appos	_	Gloss=Shem|SpaceAfter=No
 16	.	.	PUNCT	_	_	17	punct	_	_
 17	τὸν	ὁ	DET	_	Case=Acc|Definite=Def|Gender=Masc|Number=Sing	18	det	_	Gloss=the
 18	Χάμ	Χάμ	PROPN	_	_	15	conj	_	Gloss=Ham|SpaceAfter=No
