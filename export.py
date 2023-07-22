@@ -90,4 +90,4 @@ for book, ranges in dests:
 
 for k, v in output.items():
     with open(f'UD_Ancient_Greek-PTNK/grc_ptnk-ud-{k}.conllu', 'w') as fout:
-        fout.write('\n\n'.join(v) + '\n')
+        fout.write('\n\n'.join(v) + '\n\n')
