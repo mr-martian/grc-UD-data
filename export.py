@@ -18,6 +18,13 @@ book_names = {
     'ruth': 'Ruth',
 }
 
+fixes = [
+    ('obl:tmod', 'obl'),
+    ('PronType=Art', 'PronType=Dem'),
+    ('obl:npmod', 'obl'),
+    ('nmod:poss', 'nmod'),
+]
+
 def parse_verse(sid, verse_re, book):
     m = verse_re.match(sid)
     if not m:
@@ -57,6 +64,8 @@ def process_sentence(sid, block, ranges, book, verse_re):
         if '-' in ls[0]:
             skip_to = ls[0].split('-')[1]
     out = '\n'.join([nsid, f'# text = {text.strip()}'] + block)
+    for a, b in fixes:
+        out = out.replace(a, b)
     for a, b, d in ranges:
         if a <= chs <= b:
             output[d].append(out)
