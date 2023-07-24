@@ -3807,11 +3807,11 @@
 16	,	,	PUNCT	_	_	17	punct	_	_
 17	καὶ	καί	CCONJ	_	_	28	cc	_	Gloss=and,also,even,then,next
 18	πᾶς	πᾶς	ADJ	_	Case=Nom|Gender=Masc|Number=Sing	28	nsubj	_	Gloss=every,all
-19	τις	τίς	PRON	_	Case=Nom|Gender=Fem,Masc|Number=Sing|PronType=Int	20	nsubj	_	Gloss=someone,something
-20	διανοεῖται	διανοέομαι	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid,Pass	19	nmod	_	Gloss=to-intend,purpose
+19	τις	τίς	PRON	_	Case=Nom|Gender=Fem,Masc|Number=Sing|PronType=Int	20	nsubj:pass	_	Gloss=someone,something
+20	διανοεῖται	διανοέομαι	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid,Pass	18	acl:relcl	_	Gloss=to-intend,purpose
 21	ἐν	ἐν	ADP	_	_	23	case	_	Gloss=in,on,by,with,to
 22	τῇ	ὁ	DET	_	Case=Dat|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	23	det	_	Gloss=the
-23	καρδίᾳ	καρδία	NOUN	_	Case=Dat|Gender=Fem|Number=Sing	19	nmod	_	Gloss=heart
+23	καρδίᾳ	καρδία	NOUN	_	Case=Dat|Gender=Fem|Number=Sing	20	obl	_	Gloss=heart
 24	αὐτοῦ	αὐτός	PRON	_	Case=Gen|Gender=Masc,Neut|Number=Sing|PronType=Prs	23	nmod:poss	_	Gloss=he,she,it,-self,same
 25	ἐπιμελῶς	ἐπιμελῶς	ADV	_	_	28	advmod	_	Gloss=diligently,carefully
 26	ἐπὶ	ἐπί	ADP	_	_	28	case	_	Gloss=on,upon,against
@@ -29333,7 +29333,7 @@
 
 # sent_id = lxx/genesis38_v14
 1	καὶ	καί	CCONJ	_	_	9	cc	_	Gloss=and,also,even,then,next
-2	περιελομένη	περιαιρέω	VERB	_	Aspect=Perf|Case=Nom|Gender=Fem|Number=Sing|VerbForm=Part|Voice=Mid	9	root	_	Gloss=to-take-away,remove
+2	περιελομένη	περιαιρέω	VERB	_	Aspect=Perf|Case=Nom|Gender=Fem|Number=Sing|VerbForm=Part|Voice=Mid	9	advcl	_	Gloss=to-take-away,remove
 3	τὰ	ὁ	DET	_	Case=Acc|Definite=Def|Gender=Neut|Number=Plur|PronType=Art	4	det	_	Gloss=the
 4	ἱμάτια	ἱμάτιον	NOUN	_	Case=Acc|Gender=Neut|Number=Plur	2	obj	_	Gloss=clothing
 5	τῆς	ὁ	DET	_	Case=Gen|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	6	det	_	Gloss=the
@@ -29375,7 +29375,7 @@
 
 # sent_id = lxx/genesis38_v15
 1	καὶ	καί	CCONJ	_	_	5	cc	_	Gloss=and,also,even,then,next
-2	ἰδὼν	εἴδω	VERB	_	Aspect=Perf|Case=Nom|Gender=Masc|Number=Sing|VerbForm=Part|Voice=Act	5	root	_	Gloss=to-behold,see,know
+2	ἰδὼν	εἴδω	VERB	_	Aspect=Perf|Case=Nom|Gender=Masc|Number=Sing|VerbForm=Part|Voice=Act	5	advcl	_	Gloss=to-behold,see,know
 3	αὐτὴν	αὐτός	PRON	_	Case=Acc|Gender=Fem|Number=Sing|PronType=Prs	2	obj	_	Gloss=she,-self,same
 4	Ἰούδας	Ἰούδας	PROPN	_	_	2	nsubj	_	Gloss=Judah
 5	ἔδοξεν	δοκέω	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	Gloss=to-think,suppose
