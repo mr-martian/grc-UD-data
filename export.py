@@ -26,6 +26,12 @@ fixes = [
     ('NumType=Card', ''),
     ('\t\t', '\t_\t'),
     ('|\t', '\t'),
+    ('cc:preconj', 'cc'),
+    ('advcl:relcl', 'advcl'),
+    ('dislocated:relcl', 'dislocated'),
+    ('cop:outer', 'cop'),
+    ('nmod:relcl', 'nmod'),
+    ('obj:relcl', 'obj'),
 ]
 
 def parse_verse(sid, verse_re, book):
