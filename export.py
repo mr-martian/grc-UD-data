@@ -23,6 +23,9 @@ fixes = [
     ('PronType=Art', 'PronType=Dem'),
     ('obl:npmod', 'obl'),
     ('nmod:poss', 'nmod'),
+    ('NumType=Card', ''),
+    ('\t\t', '\t_\t'),
+    ('|\t', '\t'),
 ]
 
 def parse_verse(sid, verse_re, book):
