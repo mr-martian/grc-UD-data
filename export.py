@@ -24,6 +24,7 @@ fixes = [
     ('obl:npmod', 'obl'),
     ('nmod:poss', 'nmod'),
     ('NumType=Card', ''),
+    ('NumType=Ord', ''),
     ('\t\t', '\t_\t'),
     ('|\t', '\t'),
     ('cc:preconj', 'cc'),
