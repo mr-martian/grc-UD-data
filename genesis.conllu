@@ -8591,8 +8591,8 @@
 19	Σεβωῒμ	Σεβωῒμ	PROPN	_	Case=Gen	18	nmod:poss	_	Gloss=Zeboiim
 20	καὶ	καί	CCONJ	_	_	21	cc	_	Gloss=and,also,even,then,next
 21	βασιλέως	βασιλεύς	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	4	conj	_	Gloss=king
-22	Βαλὰκ	Βαλάκ	PROPN	_	Case=Gen|Gender=Fem|Number=Sing	21	nmod:poss	_	Gloss=Bela|SpaceAfter=No
-23	(	(	PUNCT	_	_	24	punct	_	_
+22	Βαλὰκ	Βαλάκ	PROPN	_	Case=Gen|Gender=Fem|Number=Sing	21	nmod:poss	_	Gloss=Bela
+23	(	(	PUNCT	_	_	24	punct	_	SpaceAfter=No
 24	αὕτη	οὗτος	PRON	_	Case=Nom|Gender=Fem|Number=Sing|PronType=Dem	26	nsubj	_	Gloss=this
 25	ἐστὶν	εἰμί	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	26	cop	_	Gloss=to-be
 26	Σηγὼρ	Σηγὼρ	PROPN	_	_	22	parataxis	_	Gloss=Zoar|SpaceAfter=No
@@ -8693,8 +8693,8 @@
 5	τὴν	ὁ	DET	_	Case=Acc|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	6	det	_	Gloss=the
 6	πηγὴν	πηγή	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	3	obl	_	Gloss=fountain,well
 7	τῆς	ὁ	DET	_	Case=Gen|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	8	det	_	Gloss=the
-8	κρίσεως	κρίσις	NOUN	_	Case=Gen|Gender=Fem|Number=Sing	6	nmod:poss	_	Gloss=judgment,accusation|SpaceAfter=No
-9	(	(	PUNCT	_	_	10	punct	_	_
+8	κρίσεως	κρίσις	NOUN	_	Case=Gen|Gender=Fem|Number=Sing	6	nmod:poss	_	Gloss=judgment,accusation
+9	(	(	PUNCT	_	_	10	punct	_	SpaceAfter=No
 10	αὕτη	οὗτος	PRON	_	Case=Nom|Gender=Fem|Number=Sing|PronType=Dem	12	nsubj	_	Gloss=this
 11	ἐστὶν	εἰμί	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	12	cop	_	Gloss=to-be
 12	Κάδης	Κάδης	PROPN	_	_	6	parataxis	_	Gloss=Kadesh|SpaceAfter=No
@@ -8730,8 +8730,8 @@
 13	Σεβωῒμ	Σεβωῒμ	PROPN	_	Case=Gen	12	nmod:poss	_	Gloss=Zeboiim
 14	καὶ	καί	CCONJ	_	_	15	cc	_	Gloss=and,also,even,then,next
 15	βασιλεὺς	βασιλεύς	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	3	conj	_	Gloss=king
-16	Βαλὰκ	Βαλάκ	PROPN	_	Case=Gen|Gender=Fem|Number=Sing	15	nmod:poss	_	Gloss=Bela|SpaceAfter=No
-17	(	(	PUNCT	_	_	18	punct	_	_
+16	Βαλὰκ	Βαλάκ	PROPN	_	Case=Gen|Gender=Fem|Number=Sing	15	nmod:poss	_	Gloss=Bela
+17	(	(	PUNCT	_	_	18	punct	_	SpaceAfter=No
 18	αὕτη	οὗτος	PRON	_	Case=Nom|Gender=Fem|Number=Sing|PronType=Dem	20	nsubj	_	Gloss=this
 19	ἐστὶν	εἰμί	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	20	cop	_	Gloss=to-be
 20	Σηγὼρ	Σηγὼρ	PROPN	_	_	16	parataxis	_	Gloss=Zoar|SpaceAfter=No
@@ -14734,8 +14734,8 @@
 9	ἐστιν	εἰμί	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	12	cop	_	Gloss=to-be
 10	ἐν	ἐν	ADP	_	_	12	case	_	Gloss=in,on,by,with,to
 11	τῷ	ὁ	DET	_	Case=Dat|Definite=Def|Gender=Masc,Neut|Number=Sing|PronType=Art	12	det	_	Gloss=the
-12	κοιλώματι	κοίλωμα	NOUN	_	Case=Dat|Gender=Neut|Number=Sing	5	acl:relcl	_	Gloss=hollow,valley|SpaceAfter=No
-13	(	(	PUNCT	_	_	14	punct	_	_
+12	κοιλώματι	κοίλωμα	NOUN	_	Case=Dat|Gender=Neut|Number=Sing	5	acl:relcl	_	Gloss=hollow,valley
+13	(	(	PUNCT	_	_	14	punct	_	SpaceAfter=No
 14	αὕτη	οὗτος	PRON	_	Case=Nom|Gender=Fem|Number=Sing|PronType=Dem	16	nsubj	_	Gloss=this
 15	ἐστὶν	εἰμί	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	16	cop	_	Gloss=to-be
 16	Χεβρὼν	Χεβρὼν	PROPN	_	_	12	parataxis	_	Gloss=Hebron|SpaceAfter=No
@@ -15201,8 +15201,8 @@
 17	ὅ	ὁ	DET	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Art	20	nsubj	_	Gloss=who,which,that;-+enclitic=the
 18	ἐστιν	εἰμί	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	20	cop	_	Gloss=to-be
 19	ἀπέναντι	ἀπέναντι	ADP	_	_	20	case	_	Gloss=before
-20	Μαμβρῆ	Μαμβρῆ	PROPN	_	Case=Nom	11	acl:relcl	_	Gloss=Mamre|SpaceAfter=No
-21	(	(	PUNCT	_	_	22	punct	_	_
+20	Μαμβρῆ	Μαμβρῆ	PROPN	_	Case=Nom	11	acl:relcl	_	Gloss=Mamre
+21	(	(	PUNCT	_	_	22	punct	_	SpaceAfter=No
 22	αὕτη	οὗτος	PRON	_	Case=Nom|Gender=Fem|Number=Sing|PronType=Dem	24	nsubj	_	Gloss=this
 23	ἐστὶν	εἰμί	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	24	cop	_	Gloss=to-be
 24	Χεβρὼν	Χεβρὼν	PROPN	_	_	20	parataxis	_	Gloss=Hebron|SpaceAfter=No
@@ -34576,8 +34576,8 @@
 2	δὲ	δέ	CCONJ	_	_	1	cc	_	Gloss=but,and,however
 3	αὐτῶν	αὐτός	PRON	_	Case=Gen|Gender=Fem,Masc,Neut|Number=Plur|PronType=Prs	1	nsubj	_	Gloss=he,she,it,-self,same
 4	τὴν	ὁ	DET	_	Case=Acc|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	5	det	_	Gloss=the
-5	πόλιν	πόλις	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	1	obj	_	Gloss=city|SpaceAfter=No
-6	(	(	PUNCT	_	_	7	punct	_	_
+5	πόλιν	πόλις	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	1	obj	_	Gloss=city
+6	(	(	PUNCT	_	_	7	punct	_	SpaceAfter=No
 7	οὐκ	οὐ	ADV	_	Polarity=Neg	8	advmod	_	Gloss=no,not
 8	ἀπέσχον	ἀπέχω	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	1	parataxis	_	Gloss=to-be-distant
 9	μακράν	μακράν	ADJ	_	Case=Acc|Gender=Fem|Number=Sing	8	xcomp	_	Gloss=far-off|SpaceAfter=No
