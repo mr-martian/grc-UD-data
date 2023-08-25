@@ -6279,21 +6279,21 @@
 1	υἱοὶ	υἱός	NOUN	_	Case=Nom,Voc|Gender=Masc|Number=Plur	4	nsubj	_	Gloss=sons
 2	Ἰάφεθ	Ἰάφεθ	PROPN	_	Case=Gen|Gender=Masc|Number=Sing	1	nmod:poss	_	Gloss=Japheth|SpaceAfter=No
 3	·	·	PUNCT	_	_	4	punct	_	_
-4	Γαμὲρ	Γαμὲρ	PROPN	_	_	0	root	_	Gloss=Gomer
+4	Γαμὲρ	Γαμὲρ	PROPN	_	Gender=Masc	0	root	_	Gloss=Gomer
 5	καὶ	καί	CCONJ	_	_	6	cc	_	Gloss=and,also,even,then,next
-6	Μαγὼγ	Μαγὼγ	PROPN	_	_	4	conj	_	Gloss=Magog
+6	Μαγὼγ	Μαγὼγ	PROPN	_	Gender=Masc	4	conj	_	Gloss=Magog
 7	καὶ	καί	CCONJ	_	_	8	cc	_	Gloss=and,also,even,then,next
-8	Μαδαὶ	Μαδαὶ	PROPN	_	_	4	conj	_	Gloss=Madai
+8	Μαδαὶ	Μαδαὶ	PROPN	_	Gender=Masc	4	conj	_	Gloss=Madai
 9	καὶ	καί	CCONJ	_	_	10	cc	_	Gloss=and,also,even,then,next
-10	Ἰωϋάν	Ἰωϋάν	PROPN	_	_	4	conj	_	Gloss=Javan
+10	Ἰωϋάν	Ἰωϋάν	PROPN	_	Gender=Masc	4	conj	_	Gloss=Javan
 11	καὶ	καί	CCONJ	_	_	12	cc	_	Gloss=and,also,even,then,next
-12	Ἐλισὰ	Ἐλισὰ	PROPN	_	_	4	conj	_	Gloss=Elishah
+12	Ἐλισὰ	Ἐλισὰ	PROPN	_	Gender=Masc	4	conj	_	Gloss=Elishah
 13	καὶ	καί	CCONJ	_	_	14	cc	_	Gloss=and,also,even,then,next
-14	Θοβέλ	Θοβέλ	PROPN	_	_	4	conj	_	Gloss=Tubal
+14	Θοβέλ	Θοβέλ	PROPN	_	Gender=Masc	4	conj	_	Gloss=Tubal
 15	καὶ	καί	CCONJ	_	_	16	cc	_	Gloss=and,also,even,then,next
-16	Μοσὸχ	Μοσὸχ	PROPN	_	_	4	conj	_	Gloss=Meshech
+16	Μοσὸχ	Μοσὸχ	PROPN	_	Gender=Masc	4	conj	_	Gloss=Meshech
 17	καὶ	καί	CCONJ	_	_	18	cc	_	Gloss=and,also,even,then,next
-18	Θίρας	Θίρας	PROPN	_	_	4	conj	_	Gloss=Tiras|SpaceAfter=No
+18	Θίρας	Θίρας	PROPN	_	Gender=Masc	4	conj	_	Gloss=Tiras|SpaceAfter=No
 19	.	.	PUNCT	_	_	18	punct	_	_
 
 # sent_id = lxx/genesis10_v3
@@ -6301,11 +6301,11 @@
 2	υἱοὶ	υἱός	NOUN	_	Case=Nom,Voc|Gender=Masc|Number=Plur	5	nsubj	_	Gloss=sons
 3	Γαμέρ	Γαμέρ	PROPN	_	Case=Gen	2	nmod:poss	_	Gloss=Gomer|SpaceAfter=No
 4	·	·	PUNCT	_	_	5	punct	_	_
-5	Ἀσχανὰζ	Ἀσχανὰζ	PROPN	_	_	0	root	_	Gloss=Ashkenaz
+5	Ἀσχανὰζ	Ἀσχανὰζ	PROPN	_	Gender=Masc	0	root	_	Gloss=Ashkenaz
 6	καὶ	καί	CCONJ	_	_	7	cc	_	Gloss=and,also,even,then,next
-7	Ῥιφὰθ	Ῥιφὰθ	PROPN	_	_	5	conj	_	Gloss=Riphath
+7	Ῥιφὰθ	Ῥιφὰθ	PROPN	_	Gender=Masc	5	conj	_	Gloss=Riphath
 8	καὶ	καί	CCONJ	_	_	9	cc	_	Gloss=and,also,even,then,next
-9	Θοργαμά	Θοργαμά	PROPN	_	_	5	conj	_	Gloss=Togarmah|SpaceAfter=No
+9	Θοργαμά	Θοργαμά	PROPN	_	Gender=Masc	5	conj	_	Gloss=Togarmah|SpaceAfter=No
 10	.	.	PUNCT	_	_	9	punct	_	_
 
 # sent_id = lxx/genesis10_v4
@@ -6313,13 +6313,13 @@
 2	υἱοὶ	υἱός	NOUN	_	Case=Nom,Voc|Gender=Masc|Number=Plur	5	nsubj	_	Gloss=sons
 3	Ἰωϋάν	Ἰωϋάν	PROPN	_	Case=Gen	2	nmod:poss	_	Gloss=Javan|SpaceAfter=No
 4	·	·	PUNCT	_	_	5	punct	_	_
-5	Ἐλισὰ	Ἐλισὰ	PROPN	_	_	0	root	_	Gloss=Elishah
+5	Ἐλισὰ	Ἐλισὰ	PROPN	_	Gender=Masc	0	root	_	Gloss=Elishah
 6	καὶ	καί	CCONJ	_	_	7	cc	_	Gloss=and,also,even,then,next
-7	Θαρσίς	Θαρσίς	PROPN	_	_	5	conj	_	Gloss=Tarshish|SpaceAfter=No
+7	Θαρσίς	Θαρσίς	PROPN	_	Gender=Masc	5	conj	_	Gloss=Tarshish|SpaceAfter=No
 8	,	,	PUNCT	_	_	9	punct	_	_
-9	Κίτιοι	Κίτιοι	PROPN	_	_	5	conj	_	Gloss=Kittim|SpaceAfter=No
+9	Κίτιοι	Κίτιοι	PROPN	_	Gender=Masc	5	conj	_	Gloss=Kittim|SpaceAfter=No
 10	,	,	PUNCT	_	_	11	punct	_	_
-11	Ῥόδιοι	Ῥόδιοι	PROPN	_	_	5	conj	_	Gloss=Dodanim|SpaceAfter=No
+11	Ῥόδιοι	Ῥόδιοι	PROPN	_	Gender=Masc	5	conj	_	Gloss=Dodanim|SpaceAfter=No
 12	.	.	PUNCT	_	_	11	punct	_	_
 
 # sent_id = lxx/genesis10_v5
@@ -6353,13 +6353,13 @@
 2	δὲ	δέ	CCONJ	_	_	5	cc	_	Gloss=but,and,however
 3	Χάμ	Χάμ	PROPN	_	Case=Gen|Gender=Masc|Number=Sing	1	nmod:poss	_	Gloss=Ham|SpaceAfter=No
 4	·	·	PUNCT	_	_	5	punct	_	_
-5	Χοὺς	Χοὺς	PROPN	_	_	0	root	_	Gloss=Cush
+5	Χοὺς	Χοὺς	PROPN	_	Gender=Masc	0	root	_	Gloss=Cush
 6	καὶ	καί	CCONJ	_	_	7	cc	_	Gloss=and,also,even,then,next
-7	Μεσραΐμ	Μεσραΐμ	PROPN	_	_	5	conj	_	Gloss=Mizraim|SpaceAfter=No
+7	Μεσραΐμ	Μεσραΐμ	PROPN	_	Gender=Masc	5	conj	_	Gloss=Mizraim|SpaceAfter=No
 8	,	,	PUNCT	_	_	9	punct	_	_
-9	Φοὺδ	Φοὺδ	PROPN	_	_	5	conj	_	Gloss=Put
+9	Φοὺδ	Φοὺδ	PROPN	_	Gender=Masc	5	conj	_	Gloss=Put
 10	καὶ	καί	CCONJ	_	_	11	cc	_	Gloss=and,also,even,then,next
-11	Χαναάν	Χαναάν	PROPN	_	_	5	conj	_	Gloss=Canaan|SpaceAfter=No
+11	Χαναάν	Χαναάν	PROPN	_	Gender=Masc	5	conj	_	Gloss=Canaan|SpaceAfter=No
 12	.	.	PUNCT	_	_	11	punct	_	_
 
 # sent_id = lxx/genesis10_v7
@@ -6367,23 +6367,23 @@
 2	δὲ	δέ	CCONJ	_	_	5	cc	_	Gloss=but,and,however
 3	Χούς	Χούς	PROPN	_	Case=Gen	1	nmod:poss	_	Gloss=Cush|SpaceAfter=No
 4	·	·	PUNCT	_	_	5	punct	_	_
-5	Σαβὰ	Σαβὰ	PROPN	_	_	0	root	_	Gloss=Seba
+5	Σαβὰ	Σαβὰ	PROPN	_	Gender=Masc	0	root	_	Gloss=Seba
 6	καὶ	καί	CCONJ	_	_	7	cc	_	Gloss=and,also,even,then,next
-7	Εὐϊλὰ	Εὐϊλὰ	PROPN	_	_	5	conj	_	Gloss=Havilah
+7	Εὐϊλὰ	Εὐϊλὰ	PROPN	_	Gender=Masc	5	conj	_	Gloss=Havilah
 8	καὶ	καί	CCONJ	_	_	9	cc	_	Gloss=and,also,even,then,next
-9	Σαβαθὰ	Σαβαθὰ	PROPN	_	_	5	conj	_	Gloss=Sabtah
+9	Σαβαθὰ	Σαβαθὰ	PROPN	_	Gender=Masc	5	conj	_	Gloss=Sabtah
 10	καὶ	καί	CCONJ	_	_	11	cc	_	Gloss=and,also,even,then,next
-11	Ῥεγμὰ	Ῥεγμὰ	PROPN	_	_	5	conj	_	Gloss=Raamah
+11	Ῥεγμὰ	Ῥεγμὰ	PROPN	_	Gender=Masc	5	conj	_	Gloss=Raamah
 12	καὶ	καί	CCONJ	_	_	13	cc	_	Gloss=and,also,even,then,next
-13	Σαβαθακά	Σαβαθακά	PROPN	_	_	5	conj	_	Gloss=Sabtechah|SpaceAfter=No
+13	Σαβαθακά	Σαβαθακά	PROPN	_	Gender=Masc	5	conj	_	Gloss=Sabtechah|SpaceAfter=No
 14	.	.	PUNCT	_	_	15	punct	_	_
 15	υἱοὶ	υἱός	NOUN	_	Case=Nom,Voc|Gender=Masc|Number=Plur	19	nsubj	_	Gloss=sons
 16	δὲ	δέ	CCONJ	_	_	19	cc	_	Gloss=but,and,however
 17	Ῥεγμά	Ῥεγμά	PROPN	_	Case=Gen	15	nmod:poss	_	Gloss=Raamah|SpaceAfter=No
 18	·	·	PUNCT	_	_	19	punct	_	_
-19	Σαβὰ	Σαβὰ	PROPN	_	_	5	conj	_	Gloss=Sheba
+19	Σαβὰ	Σαβὰ	PROPN	_	Gender=Masc	5	conj	_	Gloss=Sheba
 20	καὶ	καί	CCONJ	_	_	21	cc	_	Gloss=and,also,even,then,next
-21	Δαδάν	Δαδάν	PROPN	_	_	19	conj	_	Gloss=Dedan|SpaceAfter=No
+21	Δαδάν	Δαδάν	PROPN	_	Gender=Masc	19	conj	_	Gloss=Dedan|SpaceAfter=No
 22	.	.	PUNCT	_	_	21	punct	_	_
 
 # sent_id = lxx/genesis10_v8
@@ -6635,16 +6635,16 @@
 1	υἱοὶ	υἱός	NOUN	_	Case=Nom,Voc|Gender=Masc|Number=Plur	4	nsubj	_	Gloss=sons
 2	Σήμ	Σήμ	PROPN	_	Case=Gen|Gender=Masc|Number=Sing	1	nmod:poss	_	Gloss=Shem|SpaceAfter=No
 3	·	·	PUNCT	_	_	4	punct	_	_
-4	Αἰλὰμ	Αἰλὰμ	PROPN	_	_	0	root	_	Gloss=Elam
+4	Αἰλὰμ	Αἰλὰμ	PROPN	_	Gender=Masc	0	root	_	Gloss=Elam
 5	καὶ	καί	CCONJ	_	_	7	cc	_	Gloss=and,also,even,then,next
 6	καὶ	καί	CCONJ	_	_	7	cc	_	Gloss=and,also,even,then,next
 7	Ἀρφαξὰδ	Ἀρφαξάδ	PROPN	_	Gender=Masc|Number=Sing	4	conj	_	Gloss=Arphaxad
 8	καὶ	καί	CCONJ	_	_	9	cc	_	Gloss=and,also,even,then,next
-9	Λοὺδ	Λοὺδ	PROPN	_	_	4	conj	_	Gloss=Lud
+9	Λοὺδ	Λοὺδ	PROPN	_	Gender=Masc	4	conj	_	Gloss=Lud
 10	καὶ	καί	CCONJ	_	_	11	cc	_	Gloss=and,also,even,then,next
-11	Ἀρὰμ	Ἀρὰμ	PROPN	_	_	4	conj	_	Gloss=Aram,Ram
+11	Ἀρὰμ	Ἀρὰμ	PROPN	_	Gender=Masc	4	conj	_	Gloss=Aram,Ram
 12	καὶ	καί	CCONJ	_	_	13	cc	_	Gloss=and,also,even,then,next
-13	Καϊνᾶν	Καϊνᾶν	PROPN	_	_	4	conj	_	Gloss=Cainan|SpaceAfter=No
+13	Καϊνᾶν	Καϊνᾶν	PROPN	_	Gender=Masc	4	conj	_	Gloss=Cainan|SpaceAfter=No
 14	.	.	PUNCT	_	_	13	punct	_	_
 
 # sent_id = lxx/genesis10_v23
@@ -6652,13 +6652,13 @@
 2	υἱοὶ	υἱός	NOUN	_	Case=Nom,Voc|Gender=Masc|Number=Plur	5	nsubj	_	Gloss=sons
 3	Ἀράμ	Ἀράμ	PROPN	_	Case=Gen|Gender=Masc|Number=Sing	2	nmod:poss	_	Gloss=Aram|SpaceAfter=No
 4	·	·	PUNCT	_	_	5	punct	_	_
-5	Ὢς	Ὢς	PROPN	_	_	0	root	_	Gloss=Uz
+5	Ὢς	Ὢς	PROPN	_	Gender=Masc	0	root	_	Gloss=Uz
 6	καὶ	καί	CCONJ	_	_	7	cc	_	Gloss=and,also,even,then,next
-7	Οὒλ	Οὒλ	PROPN	_	_	5	conj	_	Gloss=Hul
+7	Οὒλ	Οὒλ	PROPN	_	Gender=Masc	5	conj	_	Gloss=Hul
 8	καὶ	καί	CCONJ	_	_	9	cc	_	Gloss=and,also,even,then,next
-9	Γαθὲρ	Γαθὲρ	PROPN	_	_	5	conj	_	Gloss=Gether
+9	Γαθὲρ	Γαθὲρ	PROPN	_	Gender=Masc	5	conj	_	Gloss=Gether
 10	καὶ	καί	CCONJ	_	_	11	cc	_	Gloss=and,also,even,then,next
-11	Μοσόχ	Μοσόχ	PROPN	_	_	5	conj	_	Gloss=Mash|SpaceAfter=No
+11	Μοσόχ	Μοσόχ	PROPN	_	Gender=Masc	5	conj	_	Gloss=Mash|SpaceAfter=No
 12	.	.	PUNCT	_	_	11	punct	_	_
 
 # sent_id = lxx/genesis10_v24
@@ -17175,15 +17175,15 @@
 28	δὲ	δέ	CCONJ	_	_	31	cc	_	Gloss=but,and,however
 29	Μαδιάμ	Μαδιάμ	PROPN	_	Case=Gen|Gender=Fem|Number=Sing	27	nmod:poss	_	Gloss=Midian|SpaceAfter=No
 30	·	·	PUNCT	_	_	31	punct	_	_
-31	Γαιφὰ	Γαιφὰ	PROPN	_	_	3	conj	_	Gloss=Ephah
+31	Γαιφὰ	Γαιφὰ	PROPN	_	Gender=Masc	3	conj	_	Gloss=Ephah
 32	καὶ	καί	CCONJ	_	_	33	cc	_	Gloss=and,also,even,then,next
-33	Ἀφέρ	Ἀφέρ	PROPN	_	_	31	conj	_	Gloss=Epher
+33	Ἀφέρ	Ἀφέρ	PROPN	_	Gender=Masc	31	conj	_	Gloss=Epher
 34	καὶ	καί	CCONJ	_	_	35	cc	_	Gloss=and,also,even,then,next
 35	Ἐνὼχ	Ἐνώχ	PROPN	_	Gender=Masc|Number=Sing	31	conj	_	Gloss=Hanoch
 36	καὶ	καί	CCONJ	_	_	37	cc	_	Gloss=and,also,even,then,next
-37	Ἀβιρά	Ἀβιρά	PROPN	_	_	31	conj	_	Gloss=Abidah,Abira
+37	Ἀβιρά	Ἀβιρά	PROPN	_	Gender=Masc	31	conj	_	Gloss=Abidah,Abira
 38	καὶ	καί	CCONJ	_	_	39	cc	_	Gloss=and,also,even,then,next
-39	Ἐλραγά	Ἐλραγά	PROPN	_	_	31	conj	_	Gloss=Eldaah|SpaceAfter=No
+39	Ἐλραγά	Ἐλραγά	PROPN	_	Gender=Masc	31	conj	_	Gloss=Eldaah|SpaceAfter=No
 40	.	.	PUNCT	_	_	41	punct	_	_
 41	πάντες	πᾶς	ADJ	_	Case=Nom|Gender=Masc|Number=Plur	44	nsubj	_	Gloss=all,every
 42	οὗτοι	οὗτος	PRON	_	Case=Nom|Gender=Masc|Number=Plur|PronType=Dem	41	appos	_	Gloss=these
@@ -27106,7 +27106,7 @@
 6	·	·	PUNCT	_	_	7	punct	_	_
 7	Δὰν	Δάν	PROPN	_	Gender=Masc|Number=Sing	0	root	_	Gloss=Dan
 8	καὶ	καί	CCONJ	_	_	9	cc	_	Gloss=and,also,even,then,next
-9	Νεφθαλί	Νεφθαλί	PROPN	_	_	7	conj	_	Gloss=Naphtali|SpaceAfter=No
+9	Νεφθαλί	Νεφθαλί	PROPN	_	Gender=Masc	7	conj	_	Gloss=Naphtali|SpaceAfter=No
 10	.	.	PUNCT	_	_	9	punct	_	_
 
 # sent_id = lxx/genesis35_v26
@@ -36384,11 +36384,11 @@
 4	·	·	PUNCT	_	_	5	punct	_	_
 5	Ἐνὼχ	Ἐνώχ	PROPN	_	Gender=Masc|Number=Sing	0	root	_	Gloss=Hanoch
 6	καὶ	καί	CCONJ	_	_	7	cc	_	Gloss=and,also,even,then,next
-7	Φαλλούς	Φαλλούς	PROPN	_	_	5	conj	_	Gloss=Pallu|SpaceAfter=No
+7	Φαλλούς	Φαλλούς	PROPN	_	Gender=Masc	5	conj	_	Gloss=Pallu|SpaceAfter=No
 8	,	,	PUNCT	_	_	9	punct	_	_
-9	Ἀσρὼν	Ἀσρὼν	PROPN	_	_	5	conj	_	Gloss=Hezrοn
+9	Ἀσρὼν	Ἀσρὼν	PROPN	_	Gender=Masc	5	conj	_	Gloss=Hezrοn
 10	καὶ	καί	CCONJ	_	_	11	cc	_	Gloss=and,also,even,then,next
-11	Χαρμί	Χαρμί	PROPN	_	_	5	conj	_	Gloss=Carmi|SpaceAfter=No
+11	Χαρμί	Χαρμί	PROPN	_	Gender=Masc	5	conj	_	Gloss=Carmi|SpaceAfter=No
 12	.	.	PUNCT	_	_	11	punct	_	_
 
 # sent_id = lxx/genesis46_v10
@@ -36396,15 +36396,15 @@
 2	δὲ	δέ	CCONJ	_	_	5	cc	_	Gloss=but,and,however
 3	Συμεών	Συμεών	PROPN	_	Case=Gen|Gender=Masc|Number=Sing	1	nmod:poss	_	Gloss=Simeon|SpaceAfter=No
 4	·	·	PUNCT	_	_	5	punct	_	_
-5	Ἰεμουὲλ	Ἰεμουὲλ	PROPN	_	_	0	root	_	Gloss=Jemuel
+5	Ἰεμουὲλ	Ἰεμουὲλ	PROPN	_	Gender=Masc	0	root	_	Gloss=Jemuel
 6	καὶ	καί	CCONJ	_	_	7	cc	_	Gloss=and,also,even,then,next
-7	Ἰαμὶν	Ἰαμὶν	PROPN	_	_	5	conj	_	Gloss=Jamin
+7	Ἰαμὶν	Ἰαμὶν	PROPN	_	Gender=Masc	5	conj	_	Gloss=Jamin
 8	καὶ	καί	CCONJ	_	_	9	cc	_	Gloss=and,also,even,then,next
-9	Ἀὼδ	Ἀὼδ	PROPN	_	_	5	conj	_	Gloss=Ohad
+9	Ἀὼδ	Ἀὼδ	PROPN	_	Gender=Masc	5	conj	_	Gloss=Ohad
 10	καὶ	καί	CCONJ	_	_	11	cc	_	Gloss=and,also,even,then,next
-11	Ἰαχὶν	Ἰαχὶν	PROPN	_	_	5	conj	_	Gloss=Jachin
+11	Ἰαχὶν	Ἰαχὶν	PROPN	_	Gender=Masc	5	conj	_	Gloss=Jachin
 12	καὶ	καί	CCONJ	_	_	13	cc	_	Gloss=and,also,even,then,next
-13	Σαὰρ	Σαὰρ	PROPN	_	_	5	conj	_	Gloss=Zohar
+13	Σαὰρ	Σαὰρ	PROPN	_	Gender=Masc	5	conj	_	Gloss=Zohar
 14	καὶ	καί	CCONJ	_	_	15	cc	_	Gloss=and,also,even,then,next
 15	Σαοὺλ	Σαούλ	PROPN	_	Case=Nom|Gender=Masc|Number=Sing	5	conj	_	Gloss=Shaul
 16	υἱὸς	υἱός	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	15	appos	_	Gloss=son
@@ -36417,11 +36417,11 @@
 2	δὲ	δέ	CCONJ	_	_	5	cc	_	Gloss=but,and,however
 3	Λευί	Λευί	PROPN	_	Case=Gen	1	nmod:poss	_	Gloss=Levi|SpaceAfter=No
 4	·	·	PUNCT	_	_	5	punct	_	_
-5	Γηρσών	Γηρσών	PROPN	_	_	0	root	_	Gloss=Gershon|SpaceAfter=No
+5	Γηρσών	Γηρσών	PROPN	_	Gender=Masc	0	root	_	Gloss=Gershon|SpaceAfter=No
 6	,	,	PUNCT	_	_	7	punct	_	_
-7	Καὰθ	Καὰθ	PROPN	_	_	5	conj	_	Gloss=Kohath
+7	Καὰθ	Καὰθ	PROPN	_	Gender=Masc	5	conj	_	Gloss=Kohath
 8	καὶ	καί	CCONJ	_	_	9	cc	_	Gloss=and,also,even,then,next
-9	Μεραρί	Μεραρί	PROPN	_	_	5	conj	_	Gloss=Merari|SpaceAfter=No
+9	Μεραρί	Μεραρί	PROPN	_	Gender=Masc	5	conj	_	Gloss=Merari|SpaceAfter=No
 10	.	.	PUNCT	_	_	9	punct	_	_
 
 # sent_id = lxx/genesis46_v12
@@ -36431,13 +36431,13 @@
 4	·	·	PUNCT	_	_	5	punct	_	_
 5	Ἢρ	Ἤρ	PROPN	_	Gender=Masc|Number=Sing	0	root	_	Gloss=Er
 6	καὶ	καί	CCONJ	_	_	7	cc	_	Gloss=and,also,even,then,next
-7	Αὐνὰν	Αὐνὰν	PROPN	_	_	5	conj	_	Gloss=Onan
+7	Αὐνὰν	Αὐνὰν	PROPN	_	Gender=Masc	5	conj	_	Gloss=Onan
 8	καὶ	καί	CCONJ	_	_	9	cc	_	Gloss=and,also,even,then,next
-9	Σηλὼμ	Σηλὼμ	PROPN	_	_	5	conj	_	Gloss=Shelah
+9	Σηλὼμ	Σηλὼμ	PROPN	_	Gender=Masc	5	conj	_	Gloss=Shelah
 10	καὶ	καί	CCONJ	_	_	11	cc	_	Gloss=and,also,even,then,next
-11	Φαρὲς	Φαρὲς	PROPN	_	_	5	conj	_	Gloss=Perez
+11	Φαρὲς	Φαρὲς	PROPN	_	Gender=Masc	5	conj	_	Gloss=Perez
 12	καὶ	καί	CCONJ	_	_	13	cc	_	Gloss=and,also,even,then,next
-13	Ζάρα	Ζάρα	PROPN	_	_	5	conj	_	Gloss=Zerah
+13	Ζάρα	Ζάρα	PROPN	_	Gender=Masc	5	conj	_	Gloss=Zerah
 14	ἀπέθανεν	ἀποθνήσκω	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	5	conj	_	Gloss=to-die
 15	δὲ	δέ	CCONJ	_	_	14	cc	_	Gloss=but,and,however
 16	Ἢρ	Ἤρ	PROPN	_	Case=Nom|Gender=Masc|Number=Sing	14	nsubj	_	Gloss=Er
@@ -36460,13 +36460,13 @@
 1	υἱοὶ	υἱός	NOUN	_	Case=Nom,Voc|Gender=Masc|Number=Plur	4	nsubj	_	Gloss=sons
 2	δὲ	δέ	CCONJ	_	_	4	cc	_	Gloss=but,and,however
 3	Ἰσσαχὰρ	Ἰσσαχὰρ	PROPN	_	Case=Gen	1	nmod:poss	_	Gloss=Issachar
-4	Θωλὰ	Θωλὰ	PROPN	_	_	0	root	_	Gloss=Tola
+4	Θωλὰ	Θωλὰ	PROPN	_	Gender=Masc	0	root	_	Gloss=Tola
 5	καὶ	καί	CCONJ	_	_	6	cc	_	Gloss=and,also,even,then,next
-6	Φουὰ	Φουὰ	PROPN	_	_	4	conj	_	Gloss=Puvah
+6	Φουὰ	Φουὰ	PROPN	_	Gender=Masc	4	conj	_	Gloss=Puvah
 7	καὶ	καί	CCONJ	_	_	8	cc	_	Gloss=and,also,even,then,next
-8	Ἰασοὺβ	Ἰασοὺβ	PROPN	_	_	4	conj	_	Gloss=Job
+8	Ἰασοὺβ	Ἰασοὺβ	PROPN	_	Gender=Masc	4	conj	_	Gloss=Job
 9	καὶ	καί	CCONJ	_	_	10	cc	_	Gloss=and,also,even,then,next
-10	Ζαμβράμ	Ζαμβράμ	PROPN	_	_	4	conj	_	Gloss=Shimron|SpaceAfter=No
+10	Ζαμβράμ	Ζαμβράμ	PROPN	_	Gender=Masc	4	conj	_	Gloss=Shimron|SpaceAfter=No
 11	.	.	PUNCT	_	_	10	punct	_	_
 
 # sent_id = lxx/genesis46_v14
@@ -36474,11 +36474,11 @@
 2	δὲ	δέ	CCONJ	_	_	5	cc	_	Gloss=but,and,however
 3	Ζαβουλών	Ζαβουλών	PROPN	_	Case=Gen|Gender=Masc|Number=Sing	1	nmod:poss	_	Gloss=Zebulun|SpaceAfter=No
 4	·	·	PUNCT	_	_	5	punct	_	_
-5	Σερὲδ	Σερὲδ	PROPN	_	_	0	root	_	Gloss=Sered
+5	Σερὲδ	Σερὲδ	PROPN	_	Gender=Masc	0	root	_	Gloss=Sered
 6	καὶ	καί	CCONJ	_	_	7	cc	_	Gloss=and,also,even,then,next
-7	Ἀλλὼν	Ἀλλὼν	PROPN	_	_	5	conj	_	Gloss=Elon
+7	Ἀλλὼν	Ἀλλὼν	PROPN	_	Gender=Masc	5	conj	_	Gloss=Elon
 8	καὶ	καί	CCONJ	_	_	9	cc	_	Gloss=and,also,even,then,next
-9	Ἀλοήλ	Ἀλοήλ	PROPN	_	_	5	conj	_	Gloss=Jahleel|SpaceAfter=No
+9	Ἀλοήλ	Ἀλοήλ	PROPN	_	Gender=Masc	5	conj	_	Gloss=Jahleel|SpaceAfter=No
 10	.	.	PUNCT	_	_	9	punct	_	_
 
 # sent_id = lxx/genesis46_v15
@@ -36518,19 +36518,19 @@
 2	δὲ	δέ	CCONJ	_	_	5	cc	_	Gloss=but,and,however
 3	Γάδ	Γάδ	PROPN	_	Case=Gen|Gender=Masc|Number=Sing	1	nmod:poss	_	Gloss=Gad|SpaceAfter=No
 4	·	·	PUNCT	_	_	5	punct	_	_
-5	Σαφὼν	Σαφὼν	PROPN	_	_	0	root	_	Gloss=Ziphion
+5	Σαφὼν	Σαφὼν	PROPN	_	Gender=Masc	0	root	_	Gloss=Ziphion
 6	καὶ	καί	CCONJ	_	_	7	cc	_	Gloss=and,also,even,then,next
-7	Ἀγγὶς	Ἀγγὶς	PROPN	_	_	5	conj	_	Gloss=Haggi
+7	Ἀγγὶς	Ἀγγὶς	PROPN	_	Gender=Masc	5	conj	_	Gloss=Haggi
 8	καὶ	καί	CCONJ	_	_	9	cc	_	Gloss=and,also,even,then,next
-9	Σαυνὶς	Σαυνὶς	PROPN	_	_	5	conj	_	Gloss=Shuni
+9	Σαυνὶς	Σαυνὶς	PROPN	_	Gender=Masc	5	conj	_	Gloss=Shuni
 10	καὶ	καί	CCONJ	_	_	11	cc	_	Gloss=and,also,even,then,next
-11	Θασοβὰν	Θασοβὰν	PROPN	_	_	5	conj	_	Gloss=Ezbon
+11	Θασοβὰν	Θασοβὰν	PROPN	_	Gender=Masc	5	conj	_	Gloss=Ezbon
 12	καὶ	καί	CCONJ	_	_	13	cc	_	Gloss=and,also,even,then,next
-13	Ἀηδὶς	Ἀηδὶς	PROPN	_	_	5	conj	_	Gloss=Eri
+13	Ἀηδὶς	Ἀηδὶς	PROPN	_	Gender=Masc	5	conj	_	Gloss=Eri
 14	καὶ	καί	CCONJ	_	_	15	cc	_	Gloss=and,also,even,then,next
-15	Ἀροηδὶς	Ἀροηδὶς	PROPN	_	_	5	conj	_	Gloss=Arodi
+15	Ἀροηδὶς	Ἀροηδὶς	PROPN	_	Gender=Masc	5	conj	_	Gloss=Arodi
 16	καὶ	καί	CCONJ	_	_	17	cc	_	Gloss=and,also,even,then,next
-17	Ἀροηλίς	Ἀροηλίς	PROPN	_	_	5	conj	_	Gloss=Areli|SpaceAfter=No
+17	Ἀροηλίς	Ἀροηλίς	PROPN	_	Gender=Masc	5	conj	_	Gloss=Areli|SpaceAfter=No
 18	.	.	PUNCT	_	_	17	punct	_	_
 
 # sent_id = lxx/genesis46_v17
@@ -36538,13 +36538,13 @@
 2	δὲ	δέ	CCONJ	_	_	5	cc	_	Gloss=but,and,however
 3	Ἀσήρ	Ἀσήρ	PROPN	_	Case=Gen|Gender=Masc|Number=Sing	1	nmod:poss	_	Gloss=Asher|SpaceAfter=No
 4	·	·	PUNCT	_	_	5	punct	_	_
-5	Ἰεμνὰ	Ἰεμνὰ	PROPN	_	_	0	root	_	Gloss=Jimnah
+5	Ἰεμνὰ	Ἰεμνὰ	PROPN	_	Gender=Masc	0	root	_	Gloss=Jimnah
 6	καὶ	καί	CCONJ	_	_	7	cc	_	Gloss=and,also,even,then,next
-7	Ἰεσουὰ	Ἰεσουὰ	PROPN	_	_	5	conj	_	Gloss=Ishuah
+7	Ἰεσουὰ	Ἰεσουὰ	PROPN	_	Gender=Masc	5	conj	_	Gloss=Ishuah
 8	καὶ	καί	CCONJ	_	_	9	cc	_	Gloss=and,also,even,then,next
-9	Ἰεοὺλ	Ἰεοὺλ	PROPN	_	_	5	conj	_	Gloss=Isui
+9	Ἰεοὺλ	Ἰεοὺλ	PROPN	_	Gender=Masc	5	conj	_	Gloss=Isui
 10	καὶ	καί	CCONJ	_	_	11	cc	_	Gloss=and,also,even,then,next
-11	Βαριά	Βαριά	PROPN	_	_	5	conj	_	Gloss=Beriah|SpaceAfter=No
+11	Βαριά	Βαριά	PROPN	_	Gender=Masc	5	conj	_	Gloss=Beriah|SpaceAfter=No
 12	,	,	PUNCT	_	_	13	punct	_	_
 13	καὶ	καί	CCONJ	_	_	14	cc	_	Gloss=and,also,even,then,next
 14	Σάρα	Σάρα	PROPN	_	Case=Nom|Gender=Fem|Number=Sing	5	conj	_	Gloss=Serah
@@ -36555,9 +36555,9 @@
 19	δὲ	δέ	CCONJ	_	_	22	cc	_	Gloss=but,and,however
 20	Βαριά	Βαριά	PROPN	_	Case=Gen	18	nmod:poss	_	Gloss=Beriah|SpaceAfter=No
 21	·	·	PUNCT	_	_	22	punct	_	_
-22	Χοβὸρ	Χοβὸρ	PROPN	_	_	5	conj	_	Gloss=Heber
+22	Χοβὸρ	Χοβὸρ	PROPN	_	Gender=Masc	5	conj	_	Gloss=Heber
 23	καὶ	καί	CCONJ	_	_	24	cc	_	Gloss=and,also,even,then,next
-24	Μελχιήλ	Μελχιήλ	PROPN	_	_	22	conj	_	Gloss=Malchiel|SpaceAfter=No
+24	Μελχιήλ	Μελχιήλ	PROPN	_	Gender=Masc	22	conj	_	Gloss=Malchiel|SpaceAfter=No
 25	.	.	PUNCT	_	_	24	punct	_	_
 
 # sent_id = lxx/genesis46_v18
@@ -36649,15 +36649,15 @@
 49	ἀδελφοῦ	ἀδελφός	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	48	appos	_	Gloss=brother
 50	Μανασσῆ	Μανασσῆ	PROPN	_	Case=Gen|Gender=Masc|Number=Sing	49	nmod:poss	_	Gloss=Manasseh|SpaceAfter=No
 51	·	·	PUNCT	_	_	52	punct	_	_
-52	Σουταλαὰμ	Σουταλαὰμ	PROPN	_	_	1	conj	_	Gloss=Shuthelah
+52	Σουταλαὰμ	Σουταλαὰμ	PROPN	_	Gender=Masc	1	conj	_	Gloss=Shuthelah
 53	καὶ	καί	CCONJ	_	_	54	cc	_	Gloss=and,also,even,then,next
-54	Ταάμ	Ταάμ	PROPN	_	_	52	conj	_	Gloss=Taam|SpaceAfter=No
+54	Ταάμ	Ταάμ	PROPN	_	Gender=Masc	52	conj	_	Gloss=Taam|SpaceAfter=No
 55	.	.	PUNCT	_	_	56	punct	_	_
 56	υἱοὶ	υἱός	NOUN	_	Case=Nom,Voc|Gender=Masc|Number=Plur	60	nsubj	_	Gloss=sons
 57	δὲ	δέ	CCONJ	_	_	60	cc	_	Gloss=but,and,however
 58	Σουταλαάμ	Σουταλαάμ	PROPN	_	Case=Gen	56	nmod:poss	_	Gloss=Shuthelah|SpaceAfter=No
 59	·	·	PUNCT	_	_	60	punct	_	_
-60	Ἐδέμ	Ἐδέμ	PROPN	_	_	1	conj	_	Gloss=Eden,Edem|SpaceAfter=No
+60	Ἐδέμ	Ἐδέμ	PROPN	_	Gender=Masc	1	conj	_	Gloss=Eden,Edem|SpaceAfter=No
 61	.	.	PUNCT	_	_	60	punct	_	_
 
 # sent_id = lxx/genesis46_v21
@@ -36665,11 +36665,11 @@
 2	δὲ	δέ	CCONJ	_	_	5	cc	_	Gloss=but,and,however
 3	Βενιαμίν	Βενιαμίν	PROPN	_	Case=Gen|Gender=Masc|Number=Sing	1	nmod:poss	_	Gloss=Benjamin|SpaceAfter=No
 4	·	·	PUNCT	_	_	5	punct	_	_
-5	Βαλὰ	Βαλὰ	PROPN	_	_	0	root	_	Gloss=Belah
+5	Βαλὰ	Βαλὰ	PROPN	_	Gender=Masc	0	root	_	Gloss=Belah
 6	καὶ	καί	CCONJ	_	_	7	cc	_	Gloss=and,also,even,then,next
-7	Χοβὼρ	Χοβὼρ	PROPN	_	_	5	conj	_	Gloss=Becher
+7	Χοβὼρ	Χοβὼρ	PROPN	_	Gender=Masc	5	conj	_	Gloss=Becher
 8	καὶ	καί	CCONJ	_	_	9	cc	_	Gloss=and,also,even,then,next
-9	Ἀσβήλ	Ἀσβήλ	PROPN	_	_	5	conj	_	Gloss=Ashbel|SpaceAfter=No
+9	Ἀσβήλ	Ἀσβήλ	PROPN	_	Gender=Masc	5	conj	_	Gloss=Ashbel|SpaceAfter=No
 10	.	.	PUNCT	_	_	11	punct	_	_
 11	ἐγένοντο	γίνομαι	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Mid	5	conj	_	Gloss=to-become,come-to-be
 12	δὲ	δέ	CCONJ	_	_	11	cc	_	Gloss=but,and,however
@@ -36725,13 +36725,13 @@
 2	υἱοὶ	υἱός	NOUN	_	Case=Nom,Voc|Gender=Masc|Number=Plur	5	nsubj	_	Gloss=sons
 3	Νεφθαλί	Νεφθαλί	PROPN	_	Case=Gen	2	nmod:poss	_	Gloss=Naphtali|SpaceAfter=No
 4	·	·	PUNCT	_	_	5	punct	_	_
-5	Ἀσιηλὶ	Ἀσιηλὶ	PROPN	_	_	0	root	_	Gloss=Jahzeel
+5	Ἀσιηλὶ	Ἀσιηλὶ	PROPN	_	Gender=Masc	0	root	_	Gloss=Jahzeel
 6	καὶ	καί	CCONJ	_	_	7	cc	_	Gloss=and,also,even,then,next
-7	Γωϋνὶ	Γωϋνὶ	PROPN	_	_	5	conj	_	Gloss=Guni
+7	Γωϋνὶ	Γωϋνὶ	PROPN	_	Gender=Masc	5	conj	_	Gloss=Guni
 8	καὶ	καί	CCONJ	_	_	9	cc	_	Gloss=and,also,even,then,next
-9	Ἰσσαὰρ	Ἰσσαὰρ	PROPN	_	_	5	conj	_	Gloss=Issaar,Jezer
+9	Ἰσσαὰρ	Ἰσσαὰρ	PROPN	_	Gender=Masc	5	conj	_	Gloss=Issaar,Jezer
 10	καὶ	καί	CCONJ	_	_	11	cc	_	Gloss=and,also,even,then,next
-11	Συλλήμ	Συλλήμ	PROPN	_	_	5	conj	_	Gloss=Shillem|SpaceAfter=No
+11	Συλλήμ	Συλλήμ	PROPN	_	Gender=Masc	5	conj	_	Gloss=Shillem|SpaceAfter=No
 12	.	.	PUNCT	_	_	11	punct	_	_
 
 # sent_id = lxx/genesis46_v25
