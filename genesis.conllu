@@ -2807,7 +2807,7 @@
 11	Μαιήλ	Μαιήλ	PROPN	_	Case=Acc|Gender=Masc|Number=Sing	9	obj	_	Gloss=Mehujael|SpaceAfter=No
 12	·	·	PUNCT	_	_	13	punct	_	_
 13	καὶ	καί	CCONJ	_	_	15	cc	_	Gloss=and,also,even,then,next
-14	Μαιὴλ	Μαιὴλ	PROPN	_	Case=Nom	15	nsubj	_	Gloss=Mehujael
+14	Μαιὴλ	Μαιήλ	PROPN	_	Case=Nom|Number=Sing	15	nsubj	_	Gloss=Mehujael
 15	ἐγέννησεν	γεννάω	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	1	conj	_	Gloss=to-give-birth
 16	τὸν	ὁ	DET	_	Case=Acc|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	17	det	_	Gloss=the
 17	Μαθουσάλα	Μαθουσάλα	PROPN	_	Case=Acc|Gender=Masc|Number=Sing	15	obj	_	Gloss=Methushael|SpaceAfter=No
@@ -6041,7 +6041,7 @@
 17	Χὰμ	Χάμ	PROPN	_	Gender=Masc|Number=Sing	19	dislocated	_	Gloss=Ham
 18	ἦν	εἰμί	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	19	cop	_	Gloss=to-be
 19	πατὴρ	πατήρ	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	11	parataxis	_	Gloss=father
-20	Χαναάν	Χαναάν	PROPN	_	Case=Gen	19	nmod:poss	_	Gloss=Canaan|SpaceAfter=No
+20	Χαναάν	Χαναάν	PROPN	_	Case=Gen|Number=Sing	19	nmod:poss	_	Gloss=Canaan|SpaceAfter=No
 21	.	.	PUNCT	_	_	20	punct	_	_
 
 # sent_id = lxx/genesis09_v19
@@ -6095,7 +6095,7 @@
 3	Χὰμ	Χάμ	PROPN	_	Case=Nom|Gender=Masc|Number=Sing	2	nsubj	_	Gloss=Ham
 4	ὁ	ὁ	DET	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Art	5	det	_	Gloss=the;-oh
 5	πατὴρ	πατήρ	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	3	appos	_	Gloss=father
-6	Χαναὰν	Χαναὰν	PROPN	_	Case=Gen	5	nmod:poss	_	Gloss=Canaan
+6	Χαναὰν	Χαναάν	PROPN	_	Case=Gen|Number=Sing	5	nmod:poss	_	Gloss=Canaan
 7	τὴν	ὁ	DET	_	Case=Acc|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	8	det	_	Gloss=the
 8	γύμνωσιν	γύμνωσις	NOUN	_	_	2	obj	_	Gloss=nakedness|Unknown=###NO,PARSE###
 9	τοῦ	ὁ	DET	_	Case=Gen|Definite=Def|Gender=Masc,Neut|Number=Sing|PronType=Art	10	det	_	Gloss=the
@@ -6176,7 +6176,7 @@
 2	εἶπεν	εἶπον	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	Gloss=to-say|SpaceAfter=No
 3	,	,	PUNCT	_	_	4	punct	_	_
 4	ἐπικατάρατος	ἐπικατάρατος	ADJ	_	Case=Nom|Gender=Fem,Masc|Number=Sing	2	ccomp	_	Gloss=cursed
-5	Χαναάν	Χαναάν	PROPN	_	_	4	nsubj	_	Gloss=Canaan|SpaceAfter=No
+5	Χαναάν	Χαναάν	PROPN	_	Number=Sing	4	nsubj	_	Gloss=Canaan|SpaceAfter=No
 6	·	·	PUNCT	_	_	7	punct	_	_
 7	παῖς	παῖς	NOUN	_	Case=Nom|Gender=Fem,Masc|Number=Sing	4	parataxis	_	Gloss=child,servant
 8	οἰκέτης	οἰκέτης	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	7	appos	_	Gloss=house-servant,domestic
@@ -6199,7 +6199,7 @@
 10	,	,	PUNCT	_	_	11	punct	_	_
 11	καὶ	καί	CCONJ	_	_	14	cc	_	Gloss=and,also,even,then,next
 12	ἔσται	εἰμί	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Mid	14	cop	_	Gloss=to-be
-13	Χαναὰν	Χαναὰν	PROPN	_	_	14	nsubj	_	Gloss=Canaan
+13	Χαναὰν	Χαναάν	PROPN	_	Number=Sing	14	nsubj	_	Gloss=Canaan
 14	παῖς	παῖς	NOUN	_	Case=Nom|Gender=Fem,Masc|Number=Sing	4	conj	_	Gloss=child,servant
 15	αὐτοῦ	αὐτός	PRON	_	Case=Gen|Gender=Masc,Neut|Number=Sing|PronType=Prs	14	nmod:poss	_	Gloss=he,she,it,-self,same
 
@@ -6219,7 +6219,7 @@
 13	,	,	PUNCT	_	_	14	punct	_	_
 14	καὶ	καί	CCONJ	_	_	15	cc	_	Gloss=and,also,even,then,next
 15	γενηθήτω	γίνομαι	VERB	_	Aspect=Perf|Mood=Imp|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Pass	1	conj	_	Gloss=to-become,come-to-be
-16	Χαναὰν	Χαναὰν	PROPN	_	_	15	nsubj:pass	_	Gloss=Canaan
+16	Χαναὰν	Χαναάν	PROPN	_	Number=Sing	15	nsubj:pass	_	Gloss=Canaan
 17	παῖς	παῖς	NOUN	_	Case=Nom|Gender=Fem,Masc|Number=Sing	15	xcomp	_	Gloss=child,servant
 18	αὐτῶν	αὐτός	PRON	_	Case=Gen|Gender=Fem,Masc,Neut|Number=Plur|PronType=Prs	17	nmod:poss	_	Gloss=he,she,it,-self,same|SpaceAfter=No
 19	.	.	PUNCT	_	_	18	punct	_	_
@@ -6281,7 +6281,7 @@
 3	·	·	PUNCT	_	_	4	punct	_	_
 4	Γαμὲρ	Γαμὲρ	PROPN	_	Gender=Masc	0	root	_	Gloss=Gomer
 5	καὶ	καί	CCONJ	_	_	6	cc	_	Gloss=and,also,even,then,next
-6	Μαγὼγ	Μαγὼγ	PROPN	_	Gender=Masc	4	conj	_	Gloss=Magog
+6	Μαγὼγ	Μαγώγ	PROPN	_	Gender=Masc|Number=Sing	4	conj	_	Gloss=Magog
 7	καὶ	καί	CCONJ	_	_	8	cc	_	Gloss=and,also,even,then,next
 8	Μαδαὶ	Μαδαὶ	PROPN	_	Gender=Masc	4	conj	_	Gloss=Madai
 9	καὶ	καί	CCONJ	_	_	10	cc	_	Gloss=and,also,even,then,next
@@ -6291,7 +6291,7 @@
 13	καὶ	καί	CCONJ	_	_	14	cc	_	Gloss=and,also,even,then,next
 14	Θοβέλ	Θοβέλ	PROPN	_	Gender=Masc|Number=Sing	4	conj	_	Gloss=Tubal
 15	καὶ	καί	CCONJ	_	_	16	cc	_	Gloss=and,also,even,then,next
-16	Μοσὸχ	Μοσὸχ	PROPN	_	Gender=Masc	4	conj	_	Gloss=Meshech
+16	Μοσὸχ	Μοσόχ	PROPN	_	Gender=Masc|Number=Sing	4	conj	_	Gloss=Meshech
 17	καὶ	καί	CCONJ	_	_	18	cc	_	Gloss=and,also,even,then,next
 18	Θίρας	Θίρας	PROPN	_	Gender=Masc	4	conj	_	Gloss=Tiras|SpaceAfter=No
 19	.	.	PUNCT	_	_	18	punct	_	_
@@ -6359,7 +6359,7 @@
 8	,	,	PUNCT	_	_	9	punct	_	_
 9	Φοὺδ	Φοὺδ	PROPN	_	Gender=Masc	5	conj	_	Gloss=Put
 10	καὶ	καί	CCONJ	_	_	11	cc	_	Gloss=and,also,even,then,next
-11	Χαναάν	Χαναάν	PROPN	_	Gender=Masc	5	conj	_	Gloss=Canaan|SpaceAfter=No
+11	Χαναάν	Χαναάν	PROPN	_	Gender=Masc|Number=Sing	5	conj	_	Gloss=Canaan|SpaceAfter=No
 12	.	.	PUNCT	_	_	11	punct	_	_
 
 # sent_id = lxx/genesis10_v7
@@ -6416,7 +6416,7 @@
 11	τοῦτο	οὗτος	PRON	_	Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	12	obl	_	Gloss=this
 12	ἐροῦσιν	ἐρέω	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act	3	parataxis	_	Gloss=to-say
 13	ὡς	ὡς	ADP	_	_	14	case	_	Gloss=as
-14	Νεβρὼδ	Νεβρὼδ	PROPN	_	_	15	obl	_	Gloss=Nimrod
+14	Νεβρὼδ	Νεβρώδ	PROPN	_	Gender=Masc|Number=Sing	15	obl	_	Gloss=Nimrod
 15	γίγας	γίγας	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	12	ccomp	_	Gloss=giant
 16	κυνηγὸς	κυνηγός	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	15	appos	_	Gloss=hunter-(with-hounds)
 17	ἐναντίον	ἐναντίον	ADP	_	_	18	case	_	Gloss=before
@@ -6512,7 +6512,7 @@
 30	.	.	PUNCT	_	_	29	punct	_	_
 
 # sent_id = lxx/genesis10_v15+lxx/genesis10_v16+lxx/genesis10_v17+lxx/genesis10_v18
-1	Χαναὰν	Χαναὰν	PROPN	_	Case=Nom	3	nsubj	_	Gloss=Canaan
+1	Χαναὰν	Χαναάν	PROPN	_	Case=Nom|Number=Sing	3	nsubj	_	Gloss=Canaan
 2	δὲ	δέ	CCONJ	_	_	3	cc	_	Gloss=but,and,however
 3	ἐγέννησεν	γεννάω	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	Gloss=to-give-birth
 4	τὸν	ὁ	DET	_	Case=Acc|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	5	det	_	Gloss=the
@@ -6556,7 +6556,7 @@
 42	αἱ	ὁ	DET	_	Case=Nom|Gender=Fem|Number=Plur|PronType=Art	43	det	_	Gloss=the
 43	φυλαὶ	φυλή	NOUN	_	Case=Nom|Gender=Fem|Number=Plur	41	nsubj:pass	_	Gloss=tribes
 44	τῶν	ὁ	DET	_	Case=Gen|Definite=Def|Gender=Fem,Masc,Neut|Number=Plur|PronType=Art	45	det	_	Gloss=the
-45	Χαναναίων	Χαναναίων	PROPN	_	Case=Gen|Number=Plur	43	nmod:poss	_	Gloss=Canaanites|SpaceAfter=No
+45	Χαναναίων	Χαναναῖος	PROPN	_	Case=Gen|Number=Plur	43	nmod:poss	_	Gloss=Canaanites|SpaceAfter=No
 46	,	,	PUNCT	_	_	45	punct	_	_
 
 # sent_id = lxx/genesis10_v19
@@ -6565,7 +6565,7 @@
 3	τὰ	ὁ	DET	_	Case=Nom|Definite=Def|Gender=Neut|Number=Plur|PronType=Art	4	det	_	Gloss=the
 4	ὅρια	ὅριον	NOUN	_	Case=Nom|Gender=Neut|Number=Plur	2	nsubj	_	Gloss=boundaries,borders
 5	τῶν	ὁ	DET	_	Case=Gen|Definite=Def|Gender=Fem,Masc,Neut|Number=Plur|PronType=Art	6	det	_	Gloss=the
-6	Χαναναίων	Χαναναίων	PROPN	_	Case=Gen|Number=Plur	4	nmod:poss	_	Gloss=Canaanites
+6	Χαναναίων	Χαναναῖος	PROPN	_	Case=Gen|Number=Plur	4	nmod:poss	_	Gloss=Canaanites
 7	ἀπὸ	ἀπό	ADP	_	_	8	case	_	Gloss=from,away-from
 8	Σιδῶνος	Σιδῶνος	PROPN	_	_	2	obl	_	Gloss=Sidon
 9	ἕως	ἕως	CCONJ	_	_	10	case	_	Gloss=as-far-as,until,up-to|Outer=Yes
@@ -6642,7 +6642,7 @@
 8	καὶ	καί	CCONJ	_	_	9	cc	_	Gloss=and,also,even,then,next
 9	Λοὺδ	Λοὺδ	PROPN	_	Gender=Masc	4	conj	_	Gloss=Lud
 10	καὶ	καί	CCONJ	_	_	11	cc	_	Gloss=and,also,even,then,next
-11	Ἀρὰμ	Ἀρὰμ	PROPN	_	Gender=Masc	4	conj	_	Gloss=Aram,Ram
+11	Ἀρὰμ	Ἀράμ	PROPN	_	Gender=Masc	4	conj	_	Gloss=Aram,Ram
 12	καὶ	καί	CCONJ	_	_	13	cc	_	Gloss=and,also,even,then,next
 13	Καϊνᾶν	Καϊνᾶν	PROPN	_	Gender=Masc|Number=Sing	4	conj	_	Gloss=Cainan|SpaceAfter=No
 14	.	.	PUNCT	_	_	13	punct	_	_
@@ -6654,11 +6654,11 @@
 4	·	·	PUNCT	_	_	5	punct	_	_
 5	Ὢς	Ὢς	PROPN	_	Gender=Masc	0	root	_	Gloss=Uz
 6	καὶ	καί	CCONJ	_	_	7	cc	_	Gloss=and,also,even,then,next
-7	Οὒλ	Οὒλ	PROPN	_	Gender=Masc	5	conj	_	Gloss=Hul
+7	Οὒλ	Οὔλ	PROPN	_	Gender=Masc|Number=Sing	5	conj	_	Gloss=Hul
 8	καὶ	καί	CCONJ	_	_	9	cc	_	Gloss=and,also,even,then,next
-9	Γαθὲρ	Γαθὲρ	PROPN	_	Gender=Masc	5	conj	_	Gloss=Gether
+9	Γαθὲρ	Γαθέρ	PROPN	_	Gender=Masc|Number=Sing	5	conj	_	Gloss=Gether
 10	καὶ	καί	CCONJ	_	_	11	cc	_	Gloss=and,also,even,then,next
-11	Μοσόχ	Μοσόχ	PROPN	_	Gender=Masc	5	conj	_	Gloss=Mash|SpaceAfter=No
+11	Μοσόχ	Μοσόχ	PROPN	_	Gender=Masc|Number=Sing	5	conj	_	Gloss=Mash|SpaceAfter=No
 12	.	.	PUNCT	_	_	11	punct	_	_
 
 # sent_id = lxx/genesis10_v24
@@ -6721,9 +6721,9 @@
 7	τὸν	ὁ	DET	_	Case=Acc|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	8	det	_	Gloss=the
 8	Σαλὲφ	Σαλέφ	PROPN	_	Case=Acc|Gender=Masc|Number=Sing	5	conj	_	Gloss=Sheleph
 9	καὶ	καί	CCONJ	_	_	10	cc	_	Gloss=and,also,even,then,next
-10	Ἀσαρμὼθ	Ἀσαρμὼθ	PROPN	_	_	5	conj	_	Gloss=Hazarmaveth
+10	Ἀσαρμὼθ	Ἀσαρμώθ	PROPN	_	Gender=Masc|Number=Sing	5	conj	_	Gloss=Hazarmaveth
 11	καὶ	καί	CCONJ	_	_	12	cc	_	Gloss=and,also,even,then,next
-12	Ἰαρὰχ	Ἰαρὰχ	PROPN	_	_	5	conj	_	Gloss=Jerah
+12	Ἰαρὰχ	Ἰαράχ	PROPN	_	Gender=Masc|Number=Sing	5	conj	_	Gloss=Jerah
 13	καὶ	καί	CCONJ	_	_	14	cc	_	Gloss=and,also,even,then,next
 14	Ὁδορρὰ	Ὁδορρὰ	PROPN	_	_	5	conj	_	Gloss=Hadoram
 15	καὶ	καί	CCONJ	_	_	16	cc	_	Gloss=and,also,even,then,next
@@ -6731,18 +6731,18 @@
 17	καὶ	καί	CCONJ	_	_	18	cc	_	Gloss=and,also,even,then,next
 18	Δεκλὰ	Δεκλὰ	PROPN	_	_	5	conj	_	Gloss=Diklah
 19	καὶ	καί	CCONJ	_	_	20	cc	_	Gloss=and,also,even,then,next
-20	Εὐὰλ	Εὐὰλ	PROPN	_	_	5	conj	_	Gloss=Obal|SpaceAfter=No
+20	Εὐὰλ	Εὐάλ	PROPN	_	Gender=Masc|Number=Sing	5	conj	_	Gloss=Obal|SpaceAfter=No
 21	]	]	PUNCT	_	_	22	punct	_	_
 22	καὶ	καί	CCONJ	_	_	23	cc	_	Gloss=and,also,even,then,next
-23	Ἀβιμεὴλ	Ἀβιμεὴλ	PROPN	_	_	5	conj	_	Gloss=Abimael
+23	Ἀβιμεὴλ	Ἀβιμεήλ	PROPN	_	Gender=Masc|Number=Sing	5	conj	_	Gloss=Abimael
 24	καὶ	καί	CCONJ	_	_	25	cc	_	Gloss=and,also,even,then,next
 25	Σαβεὺ	Σαβεὺ	PROPN	_	_	5	conj	_	Gloss=Sheba
 26	καὶ	καί	CCONJ	_	_	27	cc	_	Gloss=and,also,even,then,next
-27	Οὐφὶρ	Οὐφὶρ	PROPN	_	_	3	conj	_	Gloss=Ophir
+27	Οὐφὶρ	Οὐφίρ	PROPN	_	Gender=Masc|Number=Sing	3	conj	_	Gloss=Ophir
 28	καὶ	καί	CCONJ	_	_	29	cc	_	Gloss=and,also,even,then,next
 29	Εὐϊλὰ	Εὐϊλὰ	PROPN	_	_	5	conj	_	Gloss=Havilah
 30	καὶ	καί	CCONJ	_	_	31	cc	_	Gloss=and,also,even,then,next
-31	Ἰωβάβ	Ἰωβάβ	PROPN	_	_	5	conj	_	Gloss=Jobab|SpaceAfter=No
+31	Ἰωβάβ	Ἰωβάβ	PROPN	_	Gender=Masc|Number=Sing	5	conj	_	Gloss=Jobab|SpaceAfter=No
 32	.	.	PUNCT	_	_	33	punct	_	_
 33	πάντες	πᾶς	ADJ	_	Case=Nom|Gender=Masc|Number=Plur	35	nsubj	_	Gloss=all,every
 34	οὗτοι	οὗτος	PRON	_	Case=Nom|Gender=Masc|Number=Plur|PronType=Dem	33	det	_	Gloss=these
@@ -7511,7 +7511,7 @@
 37	εἰς	εἰς	ADP	_	_	39	case	_	Gloss=into,unto,for
 38	τὴν	ὁ	DET	_	Case=Acc|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	39	det	_	Gloss=the
 39	γῆν	γῆ	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	36	obl	_	Gloss=earth,land
-40	Χαναὰν	Χαναὰν	PROPN	_	Case=Gen	39	nmod:poss	_	Gloss=Canaan
+40	Χαναὰν	Χαναάν	PROPN	_	Case=Gen|Number=Sing	39	nmod:poss	_	Gloss=Canaan
 41	καὶ	καί	CCONJ	_	_	42	cc	_	Gloss=and,also,even,then,next
 42	ἦλθεν	ἔρχομαι	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	2	conj	_	Gloss=to-come,go
 43	ἕως	ἕως	ADP	_	_	44	case	_	Gloss=as-far-as,until,up-to
@@ -7687,12 +7687,12 @@
 36	πορευθῆναι	πορεύομαι	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Pass	35	xcomp	_	Gloss=to-proceed,go,depart
 37	εἰς	εἰς	ADP	_	_	38	case	_	Gloss=into,unto,for
 38	γῆν	γῆ	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	36	obl	_	Gloss=earth,land
-39	Χαναὰν	Χαναὰν	PROPN	_	Case=Gen	38	nmod:poss	_	Gloss=Canaan
+39	Χαναὰν	Χαναάν	PROPN	_	Case=Gen|Number=Sing	38	nmod:poss	_	Gloss=Canaan
 40	καὶ	καί	CCONJ	_	_	41	cc	_	Gloss=and,also,even,then,next
 41	ἦλθον	ἔρχομαι	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	2	conj	_	Gloss=to-come,go
 42	εἰς	εἰς	ADP	_	_	43	case	_	Gloss=into,unto,for
 43	γῆν	γῆ	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	41	obl	_	Gloss=earth,land
-44	Χαναάν	Χαναάν	PROPN	_	Case=Gen	43	nmod:poss	_	Gloss=Canaan|SpaceAfter=No
+44	Χαναάν	Χαναάν	PROPN	_	Case=Gen|Number=Sing	43	nmod:poss	_	Gloss=Canaan|SpaceAfter=No
 45	.	.	PUNCT	_	_	44	punct	_	_
 
 # sent_id = lxx/genesis12_v6
@@ -7717,7 +7717,7 @@
 19	·	·	PUNCT	_	_	20	punct	_	_
 20	οἱ	ὁ	DET	_	Case=Nom|Gender=Masc|Number=Plur|PronType=Art	22	det	_	Gloss=the
 21	δὲ	δέ	CCONJ	_	_	24	cc	_	Gloss=but,and,however
-22	Χαναναῖοι	Χαναναῖοι	PROPN	_	Case=Nom|Gender=Masc|Number=Plur	24	nsubj	_	Gloss=Canaanites
+22	Χαναναῖοι	Χαναναῖος	PROPN	_	Case=Nom|Gender=Masc|Number=Plur	24	nsubj	_	Gloss=Canaanites
 23	τότε	τότ᾿	ADV	_	_	24	advmod	_	Gloss=then
 24	κατῴκουν	κατοικέω	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	2	conj	_	Gloss=to-dwell
 25	τὴν	ὁ	DET	_	Case=Acc|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	26	det	_	Gloss=the
@@ -7762,7 +7762,7 @@
 6	ὄρος	ὄρος	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	2	obl	_	Gloss=mountain
 7	κατ᾿	κατά	ADP	_	_	8	case	_	Gloss=+G=down;-+A=according-to
 8	ἀνατολὰς	ἀνατολή	NOUN	_	Case=Acc|Gender=Fem|Number=Plur	6	nmod	_	Gloss=east
-9	Βαιθὴλ	Βαιθὴλ	PROPN	_	Case=Gen	8	nmod:poss	_	Gloss=Bethel
+9	Βαιθὴλ	Βαιθήλ	PROPN	_	Case=Gen	8	nmod:poss	_	Gloss=Bethel
 10	καὶ	καί	CCONJ	_	_	11	cc	_	Gloss=and,also,even,then,next
 11	ἔστησεν	ἵστημι	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	2	conj	_	Gloss=to-stand,set,erect
 12	ἐκεῖ	ἐκεῖ	ADV	_	_	11	advmod	_	Gloss=there
@@ -7770,7 +7770,7 @@
 14	σκηνὴν	σκηνή	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	11	obj	_	Gloss=tent
 15	αὐτοῦ	αὐτός	PRON	_	Case=Gen|Gender=Masc,Neut|Number=Sing|PronType=Prs	14	nmod:poss	_	Gloss=he,she,it,-self,same|SpaceAfter=No
 16	,	,	PUNCT	_	_	17	punct	_	_
-17	Βαιθὴλ	Βαιθὴλ	PROPN	_	_	19	nsubj	_	Gloss=Bethel
+17	Βαιθὴλ	Βαιθήλ	PROPN	_	_	19	nsubj	_	Gloss=Bethel
 18	κατὰ	κατά	ADP	_	_	19	case	_	Gloss=+G=down-from/upon;-+A=according-to,along
 19	θάλασσαν	θάλασσα	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	2	parataxis	_	Gloss=sea
 20	καὶ	καί	CCONJ	_	_	23	cc	_	Gloss=and,also,even,then,next
@@ -8123,7 +8123,7 @@
 7	τὴν	ὁ	DET	_	Case=Acc|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	8	det	_	Gloss=the
 8	ἔρημον	ἔρημος	NOUN	_	_	4	obl	_	Gloss=wilderness|Unknown=###NO,PARSE###
 9	ἕως	ἕως	ADP	_	_	10	case	_	Gloss=as-far-as,until,up-to
-10	Βαιθὴλ	Βαιθὴλ	PROPN	_	_	8	nmod	_	Gloss=Bethel
+10	Βαιθὴλ	Βαιθήλ	PROPN	_	_	8	nmod	_	Gloss=Bethel
 11	ἕως	ἕως	CCONJ	_	_	13	case	_	Gloss=as-far-as,until,up-to
 12	τοῦ	ὁ	DET	_	Case=Gen|Definite=Def|Gender=Masc,Neut|Number=Sing|PronType=Art	13	det	_	Gloss=the
 13	τόπου	τόπος	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	10	appos	_	Gloss=place|SpaceAfter=No
@@ -8138,7 +8138,7 @@
 22	,	,	PUNCT	_	_	23	punct	_	_
 23	ἀνὰ	ἀνά	ADP	_	_	24	case	_	Gloss=up,again
 24	μέσον	μέσος	ADJ	_	Case=Acc|Gender=Masc,Neut|Number=Sing	13	acl:relcl	_	Gloss=between,middle,among
-25	Βαιθὴλ	Βαιθὴλ	PROPN	_	Case=Gen	24	nmod:poss	_	Gloss=Bethel
+25	Βαιθὴλ	Βαιθήλ	PROPN	_	Case=Gen	24	nmod:poss	_	Gloss=Bethel
 26	καὶ	καί	CCONJ	_	_	28	cc	_	Gloss=and,also,even,then,next
 27	ἀνὰ	ἀνά	ADP	_	_	28	case	_	Gloss=up,again
 28	μέσον	μέσος	ADJ	_	Case=Acc|Gender=Masc,Neut|Number=Sing	25	conj	_	Gloss=between,middle,among
@@ -8228,7 +8228,7 @@
 21	·	·	PUNCT	_	_	22	punct	_	_
 22	οἱ	ὁ	DET	_	Case=Nom|Gender=Masc|Number=Plur|PronType=Art	24	det	_	Gloss=the
 23	δὲ	δέ	CCONJ	_	_	29	cc	_	Gloss=but,and,however
-24	Χαναναῖοι	Χαναναῖοι	PROPN	_	Case=Nom|Gender=Masc|Number=Plur	29	nsubj	_	Gloss=Canaanites
+24	Χαναναῖοι	Χαναναῖος	PROPN	_	Case=Nom|Gender=Masc|Number=Plur	29	nsubj	_	Gloss=Canaanites
 25	καὶ	καί	CCONJ	_	_	27	cc	_	Gloss=and,also,even,then,next
 26	οἱ	ὁ	DET	_	Case=Nom|Gender=Masc|Number=Plur|PronType=Art	27	det	_	Gloss=the
 27	Φερεζαῖοι	Φερεζαῖοι	PROPN	_	Case=Nom|Gender=Masc|Number=Plur	24	conj	_	Gloss=Perizzites
@@ -8381,7 +8381,7 @@
 3	κατῴκησεν	κατοικέω	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	Gloss=to-dwell
 4	ἐν	ἐν	ADP	_	_	5	case	_	Gloss=in,on,by,with,to
 5	γῇ	γῆ	NOUN	_	Case=Dat|Gender=Fem|Number=Sing	3	obl	_	Gloss=earth,ground,land
-6	Χαναάν	Χαναάν	PROPN	_	Case=Gen	5	nmod:poss	_	Gloss=Canaan|SpaceAfter=No
+6	Χαναάν	Χαναάν	PROPN	_	Case=Gen|Number=Sing	5	nmod:poss	_	Gloss=Canaan|SpaceAfter=No
 7	,	,	PUNCT	_	_	8	punct	_	_
 8	Λὼτ	Λώτ	PROPN	_	Case=Nom|Gender=Masc|Number=Sing	10	nsubj	_	Gloss=Lot
 9	δὲ	δέ	CCONJ	_	_	10	cc	_	Gloss=but,and,however
@@ -8557,7 +8557,7 @@
 8	βασιλέως	βασιλεύς	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	7	appos	_	Gloss=king
 9	Σενναάρ	Σενναάρ	PROPN	_	Case=Gen	8	nmod:poss	_	Gloss=Shinar|SpaceAfter=No
 10	,	,	PUNCT	_	_	11	punct	_	_
-11	Ἀριὼχ	Ἀριὼχ	PROPN	_	Case=Nom	1	conj	_	Gloss=Arioch
+11	Ἀριὼχ	Ἀριώχ	PROPN	_	Case=Nom|Gender=Masc|Number=Sing	1	conj	_	Gloss=Arioch
 12	βασιλεὺς	βασιλεύς	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	11	appos	_	Gloss=king
 13	Ἑλλασὰρ	Ἑλλασὰρ	PROPN	_	Case=Gen	12	nmod:poss	_	Gloss=Ellasar
 14	καὶ	καί	CCONJ	_	_	15	cc	_	Gloss=and,also,even,then,next
@@ -8671,7 +8671,7 @@
 39	ἐν	ἐν	ADP	_	_	41	case	_	Gloss=in,on,by,with,to
 40	τοῖς	ὁ	DET	_	Case=Dat|Definite=Def|Gender=Masc,Neut|Number=Plur|PronType=Art	41	det	_	Gloss=the
 41	ὄρεσιν	ὄρος	NOUN	_	Case=Dat|Gender=Neut|Number=Plur	37	acl:relcl	_	Gloss=mountains
-42	Σηὶρ	Σηὶρ	PROPN	_	Case=Dat	41	appos	_	Gloss=Seir
+42	Σηὶρ	Σηίρ	PROPN	_	Case=Dat|Gender=Masc	41	appos	_	Gloss=Seir
 43	ἕως	ἕως	CCONJ	_	_	45	case	_	Gloss=as-far-as,until,up-to
 44	τῆς	ὁ	DET	_	Case=Gen|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	45	det	_	Gloss=the
 45	τερεμίνθου	τερέμινθος	NOUN	_	Case=Gen|Gender=Fem|Number=Sing	37	nmod	_	Gloss=turpentine-tree
@@ -8760,7 +8760,7 @@
 43	βασιλέα	βασιλεύς	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	42	appos	_	Gloss=king
 44	Σενναὰρ	Σενναὰρ	PROPN	_	Case=Gen	43	nmod:poss	_	Gloss=Shinar,Sennaar,Senaar
 45	καὶ	καί	CCONJ	_	_	46	cc	_	Gloss=and,also,even,then,next
-46	Ἀριὼχ	Ἀριὼχ	PROPN	_	Case=Acc	34	conj	_	Gloss=Arioch
+46	Ἀριὼχ	Ἀριώχ	PROPN	_	Case=Acc|Gender=Masc|Number=Sing	34	conj	_	Gloss=Arioch
 47	βασιλέα	βασιλεύς	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	46	appos	_	Gloss=king
 48	Ἑλλασάρ	Ἑλλασάρ	PROPN	_	Case=Gen	47	nmod:poss	_	Gloss=Ellasar|SpaceAfter=No
 49	,	,	PUNCT	_	_	50	punct	_	_
@@ -9614,7 +9614,7 @@
 51	Ἀμορραίους	Ἀμορραίους	PROPN	_	Case=Acc|Gender=Masc|Number=Plur	33	conj	_	Gloss=Amorites
 52	καὶ	καί	CCONJ	_	_	54	cc	_	Gloss=and,also,even,then,next
 53	τοὺς	ὁ	DET	_	Case=Acc|Definite=Def|Gender=Masc|Number=Plur|PronType=Art	54	det	_	Gloss=the
-54	Χαναναίους	Χαναναίους	PROPN	_	Case=Acc|Gender=Masc|Number=Plur	33	conj	_	Gloss=Canaanites
+54	Χαναναίους	Χαναναῖος	PROPN	_	Case=Acc|Gender=Masc|Number=Plur	33	conj	_	Gloss=Canaanites
 55	καὶ	καί	CCONJ	_	_	57	cc	_	Gloss=and,also,even,then,next
 56	τοὺς	ὁ	DET	_	Case=Acc|Definite=Def|Gender=Masc|Number=Plur|PronType=Art	57	det	_	Gloss=the
 57	Εὐαίους	Εὐαίους	PROPN	_	Case=Acc|Gender=Masc|Number=Plur	33	conj	_	Gloss=Hivites
@@ -9703,7 +9703,7 @@
 19	Ἅβραμ	Ἅβραμ	PROPN	_	Gender=Masc|Number=Sing	18	nsubj	_	Gloss=Abram
 20	ἐν	ἐν	ADP	_	_	21	case	_	Gloss=in,on,by,with,to
 21	γῇ	γῆ	NOUN	_	Case=Dat|Gender=Fem|Number=Sing	18	obl	_	Gloss=earth,ground,land
-22	Χαναάν	Χαναάν	PROPN	_	Case=Gen	21	nmod:poss	_	Gloss=Canaan|SpaceAfter=No
+22	Χαναάν	Χαναάν	PROPN	_	Case=Gen|Number=Sing	21	nmod:poss	_	Gloss=Canaan|SpaceAfter=No
 23	—	—	PUNCT	_	_	24	punct	_	_
 24	καὶ	καί	CCONJ	_	_	25	cc	_	Gloss=and,also,even,then,next
 25	ἔδωκεν	δίδωμι	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	2	conj	_	Gloss=to-give
@@ -10022,7 +10022,7 @@
 16	καὶ	καί	CCONJ	_	_	18	cc	_	Gloss=and,also,even,then,next
 17	ἀνὰ	ἀνά	ADP	_	_	18	case	_	Gloss=up,again
 18	μέσον	μέσος	ADJ	_	Case=Acc|Gender=Masc,Neut|Number=Sing	14	conj	_	Gloss=between,middle,among
-19	Βαράδ	Βαράδ	PROPN	_	Case=Gen	18	nmod:poss	_	Gloss=Bered|SpaceAfter=No
+19	Βαράδ	Βαράδ	PROPN	_	Case=Gen|Gender=Masc|Number=Sing	18	nmod:poss	_	Gloss=Bered|SpaceAfter=No
 20	.	.	PUNCT	_	_	19	punct	_	_
 
 # sent_id = lxx/genesis16_v15
@@ -10251,7 +10251,7 @@
 16	πᾶσαν	πᾶς	ADJ	_	Case=Acc|Gender=Fem|Number=Sing	18	amod	_	Gloss=every,all
 17	τὴν	ὁ	DET	_	Case=Acc|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	18	det	_	Gloss=the
 18	γῆν	γῆ	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	11	appos	_	Gloss=earth,land
-19	Χαναάν	Χαναάν	PROPN	_	Case=Gen	18	nmod:poss	_	Gloss=Canaan|SpaceAfter=No
+19	Χαναάν	Χαναάν	PROPN	_	Case=Gen|Number=Sing	18	nmod:poss	_	Gloss=Canaan|SpaceAfter=No
 20	,	,	PUNCT	_	_	21	punct	_	_
 21	εἰς	εἰς	ADP	_	_	22	case	_	Gloss=into,unto,for
 22	κατάσχεσιν	κατάσχεσις	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	2	obl	_	Gloss=possession
@@ -12663,7 +12663,7 @@
 8	τὸ	ὁ	DET	_	Case=Acc|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	9	det	_	Gloss=the
 9	ὄνομα	ὄνομα	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	7	obj	_	Gloss=name
 10	αὐτοῦ	αὐτός	PRON	_	Case=Gen|Gender=Masc,Neut|Number=Sing|PronType=Prs	9	nmod:poss	_	Gloss=he,she,it,-self,same
-11	Μωὰβ	Μωὰβ	PROPN	_	_	7	xcomp	_	Gloss=Moab
+11	Μωὰβ	Μωάβ	PROPN	_	Gender=Masc|Number=Sing	7	xcomp	_	Gloss=Moab
 12	λέγουσα	λέγω	VERB	_	Aspect=Imp|Case=Nom|Gender=Fem|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	7	advcl	_	Gloss=to-say|SpaceAfter=No
 13	,	,	PUNCT	_	_	14	punct	_	_
 14	ἐκ	ἐκ	ADP	_	_	16	case	_	Gloss=out,out-of
@@ -13769,12 +13769,12 @@
 8	εἶπεν	εἶπον	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	1	conj	_	Gloss=to-say
 9	Ἀβιμέλεχ	Ἀβιμέλεχ	PROPN	_	Case=Nom|Gender=Masc|Number=Sing	8	nsubj	_	Gloss=Abimelech,Elimelech
 10	καὶ	καί	CCONJ	_	_	11	cc	_	Gloss=and,also,even,then,next
-11	Ὁχοζάθ	Ὁχοζάθ	PROPN	_	_	9	conj	_	Gloss=Ahuzzath
+11	Ὁχοζάθ	Ὁχοζάθ	PROPN	_	Gender=Masc|Number=Sing	9	conj	_	Gloss=Ahuzzath
 12	ὁ	ὁ	DET	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Art	13	det	_	Gloss=the;-oh
 13	νυμφαγωγὸς	νυμφαγωγός	NOUN	_	Case=Nom|Gender=Fem,Masc|Number=Sing	11	appos	_	Gloss=groomsman
 14	αὐτοῦ	αὐτός	PRON	_	Case=Gen|Gender=Masc,Neut|Number=Sing|PronType=Prs	13	nmod:poss	_	Gloss=he,she,it,-self,same
 15	καὶ	καί	CCONJ	_	_	16	cc	_	Gloss=and,also,even,then,next
-16	Φικόλ	Φικόλ	PROPN	_	_	9	conj	_	Gloss=Phichol
+16	Φικόλ	Φικόλ	PROPN	_	Gender=Masc|Number=Sing	9	conj	_	Gloss=Phichol
 17	ὁ	ὁ	DET	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Art	18	det	_	Gloss=the;-oh
 18	ἀρχιστράτηγος	ἀρχιστράτηγος	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	16	appos	_	Gloss=chief-commander
 19	τῆς	ὁ	DET	_	Case=Gen|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	20	det	_	Gloss=the
@@ -14004,12 +14004,12 @@
 11	δὲ	δέ	CCONJ	_	_	10	cc	_	Gloss=but,and,however
 12	Ἀβιμέλεχ	Ἀβιμέλεχ	PROPN	_	Case=Nom|Gender=Masc|Number=Sing	10	nsubj	_	Gloss=Abimelech,Elimelech
 13	καὶ	καί	CCONJ	_	_	14	cc	_	Gloss=and,also,even,then,next
-14	Ὁχοζὰθ	Ὁχοζὰθ	PROPN	_	_	12	conj	_	Gloss=Ahuzzath
+14	Ὁχοζὰθ	Ὁχοζάθ	PROPN	_	Gender=Masc|Number=Sing	12	conj	_	Gloss=Ahuzzath
 15	ὁ	ὁ	DET	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Art	16	det	_	Gloss=the;-oh
 16	νυμφαγωγὸς	νυμφαγωγός	NOUN	_	Case=Nom|Gender=Fem,Masc|Number=Sing	14	appos	_	Gloss=groomsman
 17	αὐτοῦ	αὐτός	PRON	_	Case=Gen|Gender=Masc,Neut|Number=Sing|PronType=Prs	16	nmod:poss	_	Gloss=he,she,it,-self,same
 18	καὶ	καί	CCONJ	_	_	19	cc	_	Gloss=and,also,even,then,next
-19	Φικὸλ	Φικὸλ	PROPN	_	_	12	conj	_	Gloss=Phichol
+19	Φικὸλ	Φικόλ	PROPN	_	Gender=Masc|Number=Sing	12	conj	_	Gloss=Phichol
 20	ὁ	ὁ	DET	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Art	21	det	_	Gloss=the;-oh
 21	ἀρχιστράτηγος	ἀρχιστράτηγος	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	19	appos	_	Gloss=chief-commander
 22	τῆς	ὁ	DET	_	Case=Gen|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	23	det	_	Gloss=the
@@ -14742,7 +14742,7 @@
 17	)	)	PUNCT	_	_	18	punct	_	_
 18	ἐν	ἐν	ADP	_	_	19	case	_	Gloss=in,on,by,with,to
 19	γῇ	γῆ	NOUN	_	Case=Dat|Gender=Fem|Number=Sing	2	obl	_	Gloss=earth,ground,land
-20	Χαναάν	Χαναάν	PROPN	_	Case=Gen	19	nmod:poss	_	Gloss=Canaan|SpaceAfter=No
+20	Χαναάν	Χαναάν	PROPN	_	Case=Gen|Number=Sing	19	nmod:poss	_	Gloss=Canaan|SpaceAfter=No
 21	.	.	PUNCT	_	_	22	punct	_	_
 22	ἦλθεν	ἔρχομαι	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	2	conj	_	Gloss=to-come,go
 23	δὲ	δέ	CCONJ	_	_	22	cc	_	Gloss=but,and,however
@@ -15210,7 +15210,7 @@
 26	ἐν	ἐν	ADP	_	_	28	case	_	Gloss=in,on,by,with,to
 27	τῇ	ὁ	DET	_	Case=Dat|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	28	det	_	Gloss=the
 28	γῇ	γῆ	NOUN	_	Case=Dat|Gender=Fem|Number=Sing	3	obl	_	Gloss=earth,ground,land
-29	Χαναάν	Χαναάν	PROPN	_	Case=Gen	28	nmod:poss	_	Gloss=Canaan|SpaceAfter=No
+29	Χαναάν	Χαναάν	PROPN	_	Case=Gen|Number=Sing	28	nmod:poss	_	Gloss=Canaan|SpaceAfter=No
 30	.	.	PUNCT	_	_	29	punct	_	_
 
 # sent_id = lxx/genesis23_v20
@@ -15309,7 +15309,7 @@
 24	τῶν	ὁ	DET	_	Case=Gen|Definite=Def|Gender=Fem,Masc,Neut|Number=Plur|PronType=Art	25	det	_	Gloss=the
 25	θυγατέρων	θυγάτηρ	NOUN	_	Case=Gen|Gender=Fem|Number=Plur	17	obl	_	Gloss=daughters
 26	τῶν	ὁ	DET	_	Case=Gen|Definite=Def|Gender=Fem,Masc,Neut|Number=Plur|PronType=Art	27	det	_	Gloss=the
-27	Χαναναίων	Χαναναίων	PROPN	_	Case=Gen|Number=Plur	25	nmod:poss	_	Gloss=Canaanites|SpaceAfter=No
+27	Χαναναίων	Χαναναῖος	PROPN	_	Case=Gen|Number=Plur	25	nmod:poss	_	Gloss=Canaanites|SpaceAfter=No
 28	,	,	PUNCT	_	_	29	punct	_	_
 29	μεθ᾿	μετά	ADP	_	_	30	case	_	Gloss=+G=with,+A=after
 30	ὧν	ὅς	PRON	_	Case=Gen|Gender=Fem,Masc,Neut|Number=Plur|PronType=Rel	32	obl	_	Gloss=who,which,that,what
@@ -16259,7 +16259,7 @@
 16	τῶν	ὁ	DET	_	Case=Gen|Definite=Def|Gender=Fem,Masc,Neut|Number=Plur|PronType=Art	17	det	_	Gloss=the
 17	θυγατέρων	θυγάτηρ	NOUN	_	Case=Gen|Gender=Fem|Number=Plur	10	obl	_	Gloss=daughters
 18	τῶν	ὁ	DET	_	Case=Gen|Definite=Def|Gender=Fem,Masc,Neut|Number=Plur|PronType=Art	19	det	_	Gloss=the
-19	Χαναναίων	Χαναναίων	PROPN	_	Case=Gen|Number=Plur	17	nmod:poss	_	Gloss=Canaanites|SpaceAfter=No
+19	Χαναναίων	Χαναναῖος	PROPN	_	Case=Gen|Number=Plur	17	nmod:poss	_	Gloss=Canaanites|SpaceAfter=No
 20	,	,	PUNCT	_	_	21	punct	_	_
 21	ἐν	ἐν	ADP	_	_	22	case	_	Gloss=in,on,by,with,to
 22	οἷς	ὅς	PRON	_	Case=Dat|Gender=Masc,Neut|Number=Plur|PronType=Rel	24	obl	_	Gloss=who,which
@@ -17152,7 +17152,7 @@
 5	Σαβὰ	Σαβὰ	PROPN	_	Case=Acc|Gender=Masc|Number=Sing	3	obj	_	Gloss=Sheba
 6	καὶ	καί	CCONJ	_	_	8	cc	_	Gloss=and,also,even,then,next
 7	τὸν	ὁ	DET	_	Case=Acc|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	8	det	_	Gloss=the
-8	Θαιμὰν	Θαιμὰν	PROPN	_	Case=Acc|Gender=Masc|Number=Sing	5	conj	_	Gloss=Teman
+8	Θαιμὰν	Θαιμάν	PROPN	_	Case=Acc|Gender=Masc|Number=Sing	5	conj	_	Gloss=Teman
 9	καὶ	καί	CCONJ	_	_	11	cc	_	Gloss=and,also,even,then,next
 10	τὸν	ὁ	DET	_	Case=Acc|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	11	det	_	Gloss=the
 11	Δαιδὰν	Δαιδὰν	PROPN	_	Case=Acc|Gender=Masc|Number=Sing	5	conj	_	Gloss=Dedan
@@ -17406,9 +17406,9 @@
 
 # sent_id = lxx/genesis25_v15
 1	καὶ	καί	CCONJ	_	_	2	cc	_	Gloss=and,also,even,then,next
-2	Χοδδάδ	Χοδδάδ	PROPN	_	_	0	root	_	Gloss=Hadar
+2	Χοδδάδ	Χοδδάδ	PROPN	_	Gender=Masc|Number=Sing	0	root	_	Gloss=Hadar
 3	καὶ	καί	CCONJ	_	_	4	cc	_	Gloss=and,also,even,then,next
-4	Θαιμὰν	Θαιμὰν	PROPN	_	_	2	conj	_	Gloss=Tema
+4	Θαιμὰν	Θαιμάν	PROPN	_	Number=Sing	2	conj	_	Gloss=Tema
 5	καὶ	καί	CCONJ	_	_	6	cc	_	Gloss=and,also,even,then,next
 6	Ἰετοὺρ	Ἰετοὺρ	PROPN	_	_	2	conj	_	Gloss=Jetur
 7	καὶ	καί	CCONJ	_	_	8	cc	_	Gloss=and,also,even,then,next
@@ -18581,12 +18581,12 @@
 6	ἀπὸ	ἀπό	ADP	_	_	7	case	_	Gloss=from,away-from
 7	Γεράρων	Γεράρων	PROPN	_	_	3	obl	_	Gloss=Gerar
 8	καὶ	καί	CCONJ	_	_	9	cc	_	Gloss=and,also,even,then,next
-9	Ὁχοζὰθ	Ὁχοζὰθ	PROPN	_	_	3	conj	_	Gloss=Ahuzzath
+9	Ὁχοζὰθ	Ὁχοζάθ	PROPN	_	Gender=Masc|Number=Sing	3	conj	_	Gloss=Ahuzzath
 10	ὁ	ὁ	DET	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Art	11	det	_	Gloss=the;-oh
 11	νυμφαγωγὸς	νυμφαγωγός	NOUN	_	Case=Nom|Gender=Fem,Masc|Number=Sing	9	appos	_	Gloss=groomsman
 12	αὐτοῦ	αὐτός	PRON	_	Case=Gen|Gender=Masc,Neut|Number=Sing|PronType=Prs	11	nmod:poss	_	Gloss=he,she,it,-self,same
 13	καὶ	καί	CCONJ	_	_	14	cc	_	Gloss=and,also,even,then,next
-14	Φικὸλ	Φικὸλ	PROPN	_	_	9	conj	_	Gloss=Phichol
+14	Φικὸλ	Φικόλ	PROPN	_	Gender=Masc|Number=Sing	9	conj	_	Gloss=Phichol
 15	ὁ	ὁ	DET	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Art	16	det	_	Gloss=the;-oh
 16	ἀρχιστράτηγος	ἀρχιστράτηγος	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	14	appos	_	Gloss=chief-commander
 17	τῆς	ὁ	DET	_	Case=Gen|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	18	det	_	Gloss=the
@@ -20114,7 +20114,7 @@
 16	ἐκ	ἐκ	ADP	_	_	18	case	_	Gloss=out,out-of
 17	τῶν	ὁ	DET	_	Case=Gen|Definite=Def|Gender=Fem,Masc,Neut|Number=Plur|PronType=Art	18	det	_	Gloss=the
 18	θυγατέρων	θυγάτηρ	NOUN	_	Case=Gen|Gender=Fem|Number=Plur	14	obl	_	Gloss=daughters
-19	Χαναάν	Χαναάν	PROPN	_	Case=Gen	18	nmod:poss	_	Gloss=Canaan|SpaceAfter=No
+19	Χαναάν	Χαναάν	PROPN	_	Case=Gen|Number=Sing	18	nmod:poss	_	Gloss=Canaan|SpaceAfter=No
 20	.	.	PUNCT	_	_	19	punct	_	_
 
 # sent_id = lxx/genesis28_v2
@@ -20266,7 +20266,7 @@
 31	ἀπὸ	ἀπό	ADP	_	_	33	case	_	Gloss=from,away-from
 32	τῶν	ὁ	DET	_	Case=Gen|Definite=Def|Gender=Fem,Masc,Neut|Number=Plur|PronType=Art	33	det	_	Gloss=the
 33	θυγατέρων	θυγάτηρ	NOUN	_	Case=Gen|Gender=Fem|Number=Plur	29	obl	_	Gloss=daughters
-34	Χαναάν	Χαναάν	PROPN	_	Case=Gen	33	nmod:poss	_	Gloss=Canaan|SpaceAfter=No
+34	Χαναάν	Χαναάν	PROPN	_	Case=Gen|Number=Sing	33	nmod:poss	_	Gloss=Canaan|SpaceAfter=No
 35	,	,	PUNCT	_	_	34	punct	_	_
 
 # sent_id = lxx/genesis28_v7
@@ -20296,7 +20296,7 @@
 6	εἰσιν	εἰμί	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	5	cop	_	Gloss=are
 7	αἱ	ὁ	DET	_	Case=Nom|Gender=Fem|Number=Plur|PronType=Art	8	det	_	Gloss=the
 8	θυγατέρες	θυγάτηρ	NOUN	_	Case=Nom|Gender=Fem|Number=Plur	5	nsubj	_	Gloss=daughters
-9	Χαναὰν	Χαναὰν	PROPN	_	Case=Gen	8	nmod:poss	_	Gloss=Canaan
+9	Χαναὰν	Χαναάν	PROPN	_	Case=Gen|Number=Sing	8	nmod:poss	_	Gloss=Canaan
 10	ἐναντίον	ἐναντίον	ADP	_	_	11	case	_	Gloss=before
 11	Ἰσαὰκ	Ἰσαάκ	PROPN	_	Case=Gen|Gender=Masc|Number=Sing	5	obl	_	Gloss=Isaac
 12	τοῦ	ὁ	DET	_	Case=Gen|Definite=Def|Gender=Masc,Neut|Number=Sing|PronType=Art	13	det	_	Gloss=the
@@ -21516,7 +21516,7 @@
 12	τὸ	ὁ	DET	_	Case=Acc|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	13	det	_	Gloss=the
 13	ὄνομα	ὄνομα	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	10	obj	_	Gloss=name
 14	αὐτοῦ	αὐτός	PRON	_	Case=Gen|Gender=Masc,Neut|Number=Sing|PronType=Prs	13	nmod:poss	_	Gloss=he,she,it,-self,same
-15	Ῥουβὴν	Ῥουβὴν	PROPN	_	Gender=Masc|Number=Sing	10	xcomp	_	Gloss=Reuben
+15	Ῥουβὴν	Ῥουβήν	PROPN	_	Gender=Masc|Number=Sing	10	xcomp	_	Gloss=Reuben
 16	λέγουσα	λέγω	VERB	_	Aspect=Imp|Case=Nom|Gender=Fem|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	10	advcl	_	Gloss=to-say|SpaceAfter=No
 17	,	,	PUNCT	_	_	18	punct	_	_
 18	διότι	διότι	CCONJ	_	_	19	mark	_	Gloss=because
@@ -21819,7 +21819,7 @@
 19	τὸ	ὁ	DET	_	Case=Acc|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	20	det	_	Gloss=the
 20	ὄνομα	ὄνομα	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	18	obj	_	Gloss=name
 21	αὐτοῦ	αὐτός	PRON	_	Case=Gen|Gender=Masc,Neut|Number=Sing|PronType=Prs	20	nmod:poss	_	Gloss=he,she,it,-self,same
-22	Νεφθαλί	Νεφθαλί	PROPN	_	_	18	xcomp	_	Gloss=Naphtali|SpaceAfter=No
+22	Νεφθαλί	Νεφθαλί	PROPN	_	Gender=Masc|Number=Sing	18	xcomp	_	Gloss=Naphtali|SpaceAfter=No
 23	.	.	PUNCT	_	_	22	punct	_	_
 
 # sent_id = lxx/genesis30_v9
@@ -21919,7 +21919,7 @@
 # sent_id = lxx/genesis30_v14
 1	ἐπορεύθη	πορεύομαι	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Pass	0	root	_	Gloss=to-proceed,depart
 2	δὲ	δέ	CCONJ	_	_	1	cc	_	Gloss=but,and,however
-3	Ῥουβὴν	Ῥουβὴν	PROPN	_	Gender=Masc|Number=Sing	1	nsubj:pass	_	Gloss=Reuben
+3	Ῥουβὴν	Ῥουβήν	PROPN	_	Gender=Masc|Number=Sing	1	nsubj:pass	_	Gloss=Reuben
 4	ἐν	ἐν	ADP	_	_	5	case	_	Gloss=in,on,by,with,to
 5	ἡμέραις	ἡμέρα	NOUN	_	Case=Dat|Gender=Fem|Number=Plur	1	obl:tmod	_	Gloss=days
 6	θερισμοῦ	θερισμός	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	5	nmod:poss	_	Gloss=harvest
@@ -23264,7 +23264,7 @@
 28	αὐτοῦ	αὐτός	PRON	_	Case=Gen|Gender=Masc,Neut|Number=Sing|PronType=Prs	27	nmod:poss	_	Gloss=he,she,it,-self,same
 29	εἰς	εἰς	ADP	_	_	30	case	_	Gloss=into,unto,for
 30	γῆν	γῆ	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	25	appos	_	Gloss=earth,land
-31	Χαναάν	Χαναάν	PROPN	_	Case=Gen	30	nmod:poss	_	Gloss=Canaan|SpaceAfter=No
+31	Χαναάν	Χαναάν	PROPN	_	Case=Gen|Number=Sing	30	nmod:poss	_	Gloss=Canaan|SpaceAfter=No
 32	.	.	PUNCT	_	_	31	punct	_	_
 
 # sent_id = lxx/genesis31_v19
@@ -24319,7 +24319,7 @@
 11	αὐτοῦ	αὐτός	PRON	_	Case=Gen|Gender=Masc,Neut|Number=Sing|PronType=Prs	10	nmod:poss	_	Gloss=he,she,it,-self,same
 12	εἰς	εἰς	ADP	_	_	13	case	_	Gloss=into,unto,for
 13	γῆν	γῆ	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	1	obl	_	Gloss=earth,land
-14	Σηὶρ	Σηὶρ	PROPN	_	Case=Gen	13	nmod:poss	_	Gloss=Seir
+14	Σηὶρ	Σηίρ	PROPN	_	Case=Gen|Gender=Masc	13	nmod:poss	_	Gloss=Seir
 15	εἰς	εἰς	ADP	_	_	16	case	_	Gloss=into,unto,for
 16	χώραν	χώρα	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	13	appos	_	Gloss=country
 17	Ἐδὼμ	Ἐδώμ	PROPN	_	Case=Gen|Gender=Masc|Number=Sing	16	nmod:poss	_	Gloss=Edom
@@ -25477,7 +25477,7 @@
 33	κύριόν	κύριος	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	30	obl	_	Gloss=lord
 34	μου	ἐγώ	PRON	_	Case=Gen|Number=Sing|Person=1|PronType=Prs	33	nmod:poss	_	Gloss=me,my
 35	εἰς	εἰς	ADP	_	_	36	case	_	Gloss=into,unto,for
-36	Σηίρ	Σηίρ	PROPN	_	Case=Acc	33	appos	_	Gloss=Seir|SpaceAfter=No
+36	Σηίρ	Σηίρ	PROPN	_	Case=Acc|Gender=Masc	33	appos	_	Gloss=Seir|SpaceAfter=No
 37	.	.	PUNCT	_	_	36	punct	_	_
 
 # sent_id = lxx/genesis33_v15
@@ -25526,7 +25526,7 @@
 10	ὁδὸν	ὁδός	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	1	obl	_	Gloss=road,way
 11	αὐτοῦ	αὐτός	PRON	_	Case=Gen|Gender=Masc,Neut|Number=Sing|PronType=Prs	10	nmod:poss	_	Gloss=he,she,it,-self,same
 12	εἰς	εἰς	ADP	_	_	13	case	_	Gloss=into,unto,for
-13	Σηίρ	Σηίρ	PROPN	_	Case=Acc	10	appos	_	Gloss=Seir|SpaceAfter=No
+13	Σηίρ	Σηίρ	PROPN	_	Case=Acc|Gender=Masc	10	appos	_	Gloss=Seir|SpaceAfter=No
 14	.	.	PUNCT	_	_	13	punct	_	_
 
 # sent_id = lxx/genesis33_v17
@@ -25572,7 +25572,7 @@
 10	ἐστιν	εἰμί	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	12	cop	_	Gloss=to-be
 11	ἐν	ἐν	ADP	_	_	12	case	_	Gloss=in,on,by,with,to
 12	γῇ	γῆ	NOUN	_	Case=Dat|Gender=Fem|Number=Sing	6	acl:relcl	_	Gloss=earth,ground,land
-13	Χαναάν	Χαναάν	PROPN	_	Case=Gen	12	nmod:poss	_	Gloss=Canaan|SpaceAfter=No
+13	Χαναάν	Χαναάν	PROPN	_	Case=Gen|Number=Sing	12	nmod:poss	_	Gloss=Canaan|SpaceAfter=No
 14	,	,	PUNCT	_	_	15	punct	_	_
 15	ὅτε	ὅτε	CCONJ	_	_	16	case	_	Gloss=after-that,when,while
 16	ἦλθεν	ἔρχομαι	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	2	advcl	_	Gloss=to-come,go
@@ -26423,7 +26423,7 @@
 20	ἔν	ἔν	ADP	_	_	23	case	_	Gloss=in,on,by,with,to
 21	τε	τε	CCONJ	_	_	23	cc	_	Gloss=and,both,if|Unknown=particle/Conjunction
 22	τοῖς	ὁ	DET	_	Case=Dat|Definite=Def|Gender=Masc,Neut|Number=Plur|PronType=Art	23	det	_	Gloss=the
-23	Χαναναίοις	Χαναναίοις	PROPN	_	Case=Dat|Number=Plur	16	obl	_	Gloss=Canaanites
+23	Χαναναίοις	Χαναναῖος	PROPN	_	Case=Dat|Gender=Masc|Number=Plur	16	obl	_	Gloss=Canaanites
 24	καὶ	καί	CCONJ	_	_	26	cc	_	Gloss=and,also,even,then,next
 25	τοῖς	ὁ	DET	_	Case=Dat|Definite=Def|Gender=Masc,Neut|Number=Plur|PronType=Art	26	det	_	Gloss=the
 26	Φερεζαίοις	Φερεζαίοις	PROPN	_	Case=Dat|Number=Plur	23	conj	_	Gloss=Perizzites|SpaceAfter=No
@@ -26478,7 +26478,7 @@
 10	εἰς	εἰς	ADP	_	_	12	case	_	Gloss=into,unto,for
 11	τὸν	ὁ	DET	_	Case=Acc|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	12	det	_	Gloss=the
 12	τόπον	τόπος	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	9	obl	_	Gloss=place
-13	Βαιθὴλ	Βαιθὴλ	PROPN	_	Case=Gen	12	nmod:poss	_	Gloss=Bethel
+13	Βαιθὴλ	Βαιθήλ	PROPN	_	Case=Gen	12	nmod:poss	_	Gloss=Bethel
 14	καὶ	καί	CCONJ	_	_	15	cc	_	Gloss=and,also,even,then,next
 15	οἴκει	οἰκέω	VERB	_	Aspect=Imp|Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	9	conj	_	Gloss=to-dwell
 16	ἐκεῖ	ἐκεῖ	ADV	_	_	15	advmod	_	Gloss=there
@@ -26541,7 +26541,7 @@
 2	ἀναστάντες	ἀνίστημι	VERB	_	Aspect=Perf|Case=Nom|Gender=Masc|Number=Plur|VerbForm=Part|Voice=Act	3	advcl	_	Gloss=to-arise
 3	ἀναβῶμεν	ἀναβαίνω	VERB	_	Aspect=Perf|Mood=Sub|Number=Plur|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	Gloss=to-ascend,mount
 4	εἰς	εἰς	ADP	_	_	5	case	_	Gloss=into,unto,for
-5	Βαιθὴλ	Βαιθὴλ	PROPN	_	Case=Acc	3	obl	_	Gloss=Bethel
+5	Βαιθὴλ	Βαιθήλ	PROPN	_	Case=Acc	3	obl	_	Gloss=Bethel
 6	καὶ	καί	CCONJ	_	_	7	cc	_	Gloss=and,also,even,then,next
 7	ποιήσωμεν	ποιέω	VERB	_	Aspect=Perf|Mood=Sub|Number=Plur|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	3	conj	_	Gloss=to-do,make
 8	ἐκεῖ	ἐκεῖ	ADV	_	_	7	advmod	_	Gloss=there
@@ -26650,7 +26650,7 @@
 8	ἐστιν	εἰμί	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	10	cop	_	Gloss=to-be
 9	ἐν	ἐν	ADP	_	_	10	case	_	Gloss=in,on,by,with,to
 10	γῇ	γῆ	NOUN	_	Case=Dat|Gender=Fem|Number=Sing	5	acl:relcl	_	Gloss=earth,ground,land
-11	Χαναάν	Χαναάν	PROPN	_	Case=Gen	10	nmod:poss	_	Gloss=Canaan|SpaceAfter=No
+11	Χαναάν	Χαναάν	PROPN	_	Case=Gen|Number=Sing	10	nmod:poss	_	Gloss=Canaan|SpaceAfter=No
 12	,	,	PUNCT	_	_	13	punct	_	_
 13	ἥ	ὅς	PRON	_	Case=Nom|Gender=Fem|Number=Sing|PronType=Rel	15	nsubj	_	Gloss=who,which,that;-+enclitic=the
 14	ἐστιν	εἰμί	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	15	cop	_	Gloss=to-be
@@ -26707,7 +26707,7 @@
 5	τροφὸς	τροφός	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	3	appos	_	Gloss=wet-nurse
 6	Ῥεβέκκας	Ῥεβέκκα	PROPN	_	Case=Gen|Gender=Fem|Number=Sing	5	nmod:poss	_	Gloss=Rebecca
 7	κατώτερον	κατώτερος	ADJ	_	Case=Acc,Nom|Degree=Cmp|Gender=Neut|Number=Sing	8	amod	_	Gloss=beneath
-8	Βαιθὴλ	Βαιθὴλ	PROPN	_	_	1	obl	_	Gloss=Bethel
+8	Βαιθὴλ	Βαιθήλ	PROPN	_	_	1	obl	_	Gloss=Bethel
 9	ὑπὸ	ὑπό	ADP	_	_	11	case	_	Gloss=+-G-=-by-(agency);-+-A-=-under
 10	τὴν	ὁ	DET	_	Case=Acc|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	11	det	_	Gloss=the
 11	βάλανον	βάλανος	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	1	obl	_	Gloss=acorn-tree,oak|SpaceAfter=No
@@ -26905,7 +26905,7 @@
 2	δὲ	δέ	CCONJ	_	_	6	cc	_	Gloss=but,and,however
 3	Ἰακὼβ	Ἰακώβ	PROPN	_	Gender=Masc|Number=Sing	1	nsubj	_	Gloss=Jacob
 4	ἐκ	ἐκ	ADP	_	_	5	case	_	Gloss=out,out-of
-5	Βαιθὴλ	Βαιθὴλ	PROPN	_	_	1	obl	_	Gloss=Bethel
+5	Βαιθὴλ	Βαιθήλ	PROPN	_	_	1	obl	_	Gloss=Bethel
 6	ἔπηξεν	πήγνυμι	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	Gloss=to-pitch-(a-tent)
 7	τὴν	ὁ	DET	_	Case=Acc|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	8	det	_	Gloss=the
 8	σκηνὴν	σκηνή	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	6	obj	_	Gloss=tent
@@ -26913,7 +26913,7 @@
 10	ἐπέκεινα	ἐπέκεινα	ADP	_	_	12	case	_	Gloss=beyond
 11	τοῦ	ὁ	DET	_	Case=Gen|Definite=Def|Gender=Masc,Neut|Number=Sing|PronType=Art	12	det	_	Gloss=the
 12	πύργου	πύργος	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	6	obl	_	Gloss=tower
-13	Γαδέρ	Γαδέρ	PROPN	_	Case=Gen	12	nmod:poss	_	Gloss=Geder|SpaceAfter=No
+13	Γαδέρ	Γαδέρ	PROPN	_	Case=Gen|Gender=Masc|Number=Sing	12	nmod:poss	_	Gloss=Geder|SpaceAfter=No
 14	]	]	PUNCT	_	_	15	punct	_	SpaceAfter=No
 15	.	.	PUNCT	_	_	16	punct	_	_
 16	ἐγένετο	γίνομαι	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Mid	6	conj	_	Gloss=to-become,come-to-be
@@ -27037,7 +27037,7 @@
 9	ἐκείνῃ	ἐκεῖνος	PRON	_	Case=Dat|Gender=Fem|Number=Sing|PronType=Dem	8	det	_	Gloss=that|SpaceAfter=No
 10	,	,	PUNCT	_	_	11	punct	_	_
 11	ἐπορεύθη	πορεύομαι	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Pass	1	conj	_	Gloss=to-proceed,depart
-12	Ῥουβὴν	Ῥουβὴν	PROPN	_	Gender=Masc|Number=Sing	11	nsubj:pass	_	Gloss=Reuben
+12	Ῥουβὴν	Ῥουβήν	PROPN	_	Gender=Masc|Number=Sing	11	nsubj:pass	_	Gloss=Reuben
 13	καὶ	καί	CCONJ	_	_	14	cc	_	Gloss=and,also,even,then,next
 14	ἐκοιμήθη	κοιμάω	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Pass	1	conj	_	Gloss=to-put-to-bed
 15	μετὰ	μετά	ADP	_	_	16	case	_	Gloss=+G=with;-+A=after
@@ -27106,7 +27106,7 @@
 6	·	·	PUNCT	_	_	7	punct	_	_
 7	Δὰν	Δάν	PROPN	_	Gender=Masc|Number=Sing	0	root	_	Gloss=Dan
 8	καὶ	καί	CCONJ	_	_	9	cc	_	Gloss=and,also,even,then,next
-9	Νεφθαλί	Νεφθαλί	PROPN	_	Gender=Masc	7	conj	_	Gloss=Naphtali|SpaceAfter=No
+9	Νεφθαλί	Νεφθαλί	PROPN	_	Gender=Masc|Number=Sing	7	conj	_	Gloss=Naphtali|SpaceAfter=No
 10	.	.	PUNCT	_	_	9	punct	_	_
 
 # sent_id = lxx/genesis35_v26
@@ -27154,7 +27154,7 @@
 19	)	)	PUNCT	_	_	20	punct	_	_
 20	ἐν	ἐν	ADP	_	_	21	case	_	Gloss=in,on,by,with,to
 21	γῇ	γῆ	NOUN	_	Case=Dat|Gender=Fem|Number=Sing	10	nmod	_	Gloss=earth,ground,land
-22	Χαναάν	Χαναάν	PROPN	_	Case=Gen	21	nmod:poss	_	Gloss=Canaan|SpaceAfter=No
+22	Χαναάν	Χαναάν	PROPN	_	Case=Gen|Number=Sing	21	nmod:poss	_	Gloss=Canaan|SpaceAfter=No
 23	,	,	PUNCT	_	_	24	punct	_	_
 24	οὗ	ὅς	PRON	_	Case=Gen|Gender=Masc,Neut|Number=Sing|PronType=Rel	25	obl	_	Gloss=where;-who,which,that
 25	παρῴκησεν	παροικέω	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	22	advcl:relcl	_	Gloss=to-dwell
@@ -27226,7 +27226,7 @@
 7	τῶν	ὁ	DET	_	Case=Gen|Definite=Def|Gender=Fem,Masc,Neut|Number=Plur|PronType=Art	8	det	_	Gloss=the
 8	θυγατέρων	θυγάτηρ	NOUN	_	Case=Gen|Gender=Fem|Number=Plur	3	obl	_	Gloss=daughters
 9	τῶν	ὁ	DET	_	Case=Gen|Definite=Def|Gender=Fem,Masc,Neut|Number=Plur|PronType=Art	10	det	_	Gloss=the
-10	Χαναναίων	Χαναναίων	PROPN	_	Case=Gen|Number=Plur	8	nmod:poss	_	Gloss=Canaanites|SpaceAfter=No
+10	Χαναναίων	Χαναναῖος	PROPN	_	Case=Gen|Number=Plur	8	nmod:poss	_	Gloss=Canaanites|SpaceAfter=No
 11	,	,	PUNCT	_	_	12	punct	_	_
 12	τὴν	ὁ	DET	_	Case=Acc|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	13	det	_	Gloss=the
 13	Ἀδὰ	Ἀδὰ	PROPN	_	Case=Acc|Gender=Fem|Number=Sing	3	obj	_	Gloss=Adah
@@ -27274,7 +27274,7 @@
 2	Ἐλιβέμα	Ἐλιβέμα	PROPN	_	Case=Nom|Gender=Masc|Number=Sing	3	nsubj	_	Gloss=Aholibamah
 3	ἔτεκεν	τίκτω	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	Gloss=to-give-birth-to
 4	τὸν	ὁ	DET	_	Case=Acc|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	5	det	_	Gloss=the
-5	Ἰεοὺς	Ἰεοὺς	PROPN	_	Case=Acc|Gender=Masc|Number=Sing	3	obj	_	Gloss=Jeush
+5	Ἰεοὺς	Ἰεούς	PROPN	_	Case=Acc|Gender=Masc|Number=Sing	3	obj	_	Gloss=Jeush
 6	καὶ	καί	CCONJ	_	_	8	cc	_	Gloss=and,also,even,then,next
 7	τὸν	ὁ	DET	_	Case=Acc|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	8	det	_	Gloss=the
 8	Ἰεγλὸμ	Ἰεγλόμ	PROPN	_	Case=Acc|Gender=Masc|Number=Sing	5	conj	_	Gloss=Jaalam
@@ -27290,7 +27290,7 @@
 18	αὐτῷ	αὐτός	PRON	_	Case=Dat|Gender=Masc,Neut|Number=Sing|PronType=Prs	17	iobj	_	Gloss=he,she,it,-self,same
 19	ἐν	ἐν	ADP	_	_	20	case	_	Gloss=in,on,by,with,to
 20	γῇ	γῆ	NOUN	_	Case=Dat|Gender=Fem|Number=Sing	17	obl	_	Gloss=earth,ground,land
-21	Χαναάν	Χαναάν	PROPN	_	Case=Gen	20	nmod:poss	_	Gloss=Canaan|SpaceAfter=No
+21	Χαναάν	Χαναάν	PROPN	_	Case=Gen|Number=Sing	20	nmod:poss	_	Gloss=Canaan|SpaceAfter=No
 22	.	.	PUNCT	_	_	21	punct	_	_
 
 # sent_id = lxx/genesis36_v6
@@ -27331,13 +27331,13 @@
 35	περιεποιήσατο	περιποιέω	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Mid	34	acl:relcl	_	Gloss=to-purchase
 36	ἐν	ἐν	ADP	_	_	37	case	_	Gloss=in,on,by,with,to
 37	γῇ	γῆ	NOUN	_	Case=Dat|Gender=Fem|Number=Sing	35	obl	_	Gloss=earth,ground,land
-38	Χαναάν	Χαναάν	PROPN	_	Case=Gen	37	nmod:poss	_	Gloss=Canaan|SpaceAfter=No
+38	Χαναάν	Χαναάν	PROPN	_	Case=Gen|Number=Sing	37	nmod:poss	_	Gloss=Canaan|SpaceAfter=No
 39	,	,	PUNCT	_	_	40	punct	_	_
 40	καὶ	καί	CCONJ	_	_	41	cc	_	Gloss=and,also,even,then,next
 41	ἐπορεύθη	πορεύομαι	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Pass	1	conj	_	Gloss=to-proceed,depart
 42	ἐκ	ἐκ	ADP	_	_	43	case	_	Gloss=out,out-of
 43	γῆς	γῆ	NOUN	_	Case=Gen|Gender=Fem|Number=Sing	41	obl	_	Gloss=earth,land
-44	Χαναὰν	Χαναὰν	PROPN	_	Case=Gen	43	nmod:poss	_	Gloss=Canaan
+44	Χαναὰν	Χαναάν	PROPN	_	Case=Gen|Number=Sing	43	nmod:poss	_	Gloss=Canaan
 45	ἀπὸ	ἀπό	ADP	_	_	46	case	_	Gloss=from,away-from
 46	προσώπου	πρόσωπον	NOUN	_	Case=Gen|Gender=Neut|Number=Sing	41	obl	_	Gloss=face
 47	Ἰακὼβ	Ἰακώβ	PROPN	_	Case=Gen|Gender=Masc|Number=Sing	46	nmod:poss	_	Gloss=Jacob
@@ -27382,7 +27382,7 @@
 4	ἐν	ἐν	ADP	_	_	6	case	_	Gloss=in,on,by,with,to
 5	τῷ	ὁ	DET	_	Case=Dat|Definite=Def|Gender=Masc,Neut|Number=Sing|PronType=Art	6	det	_	Gloss=the
 6	ὄρει	ὄρος	NOUN	_	Case=Dat|Gender=Neut|Number=Sing	1	obl	_	Gloss=mountain
-7	Σηὶρ	Σηὶρ	PROPN	_	Case=Gen	6	nmod:poss	_	Gloss=Seir
+7	Σηὶρ	Σηίρ	PROPN	_	Case=Gen|Gender=Masc	6	nmod:poss	_	Gloss=Seir
 8	(	(	PUNCT	_	_	9	punct	_	SpaceAfter=No
 9	Ἡσαῦ	Ἡσαῦ	PROPN	_	Gender=Masc|Number=Sing	12	dislocated	_	Gloss=Esau
 10	αὐτός	αὐτός	PRON	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Prs	12	nsubj	_	Gloss=he,she,it,-self,same
@@ -27401,7 +27401,7 @@
 8	ἐν	ἐν	ADP	_	_	10	case	_	Gloss=in,on,by,with,to
 9	τῷ	ὁ	DET	_	Case=Dat|Definite=Def|Gender=Masc,Neut|Number=Sing|PronType=Art	10	det	_	Gloss=the
 10	ὄρει	ὄρος	NOUN	_	Case=Dat|Gender=Neut|Number=Sing	4	obl	_	Gloss=mountain
-11	Σηίρ	Σηίρ	PROPN	_	Case=Gen	10	nmod:poss	_	Gloss=Seir|SpaceAfter=No
+11	Σηίρ	Σηίρ	PROPN	_	Case=Gen|Gender=Masc	10	nmod:poss	_	Gloss=Seir|SpaceAfter=No
 12	,	,	PUNCT	_	_	11	punct	_	_
 
 # sent_id = lxx/genesis36_v10
@@ -27415,7 +27415,7 @@
 8	·	·	PUNCT	_	_	9	punct	_	_
 9	Ἑλιφὰς	Ἑλιφάς	PROPN	_	Case=Nom|Gender=Masc|Number=Sing	4	parataxis	_	Gloss=Eliphaz
 10	υἱὸς	υἱός	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	9	appos	_	Gloss=son
-11	Ἀδὰς	Ἀδὰς	PROPN	_	Case=Gen	10	nmod:poss	_	Gloss=Adah
+11	Ἀδὰς	Ἀδάς	PROPN	_	Case=Gen	10	nmod:poss	_	Gloss=Adah
 12	γυναικὸς	γυνή	NOUN	_	Case=Gen|Gender=Fem|Number=Sing	11	appos	_	Gloss=wife,woman
 13	Ἡσαῦ	Ἡσαῦ	PROPN	_	Case=Gen|Gender=Masc|Number=Sing	12	nmod:poss	_	Gloss=Esau
 14	καὶ	καί	CCONJ	_	_	15	cc	_	Gloss=and,also,even,then,next
@@ -27432,7 +27432,7 @@
 3	υἱοὶ	υἱός	NOUN	_	Case=Nom|Gender=Masc|Number=Plur	1	nsubj	_	Gloss=sons
 4	Ἑλιφάς	Ἑλιφάς	PROPN	_	Case=Gen|Gender=Masc|Number=Sing	3	nmod:poss	_	Gloss=Eliphaz|SpaceAfter=No
 5	·	·	PUNCT	_	_	1	punct	_	_
-6	Θαιμάν	Θαιμάν	PROPN	_	Case=Acc	1	obj	_	Gloss=Teman|SpaceAfter=No
+6	Θαιμάν	Θαιμάν	PROPN	_	Case=Acc|Number=Sing	1	obj	_	Gloss=Teman|SpaceAfter=No
 7	,	,	PUNCT	_	_	8	punct	_	_
 8	Ὠμάρ	Ὠμάρ	PROPN	_	_	6	conj	_	Gloss=Omar|SpaceAfter=No
 9	,	,	PUNCT	_	_	10	punct	_	_
@@ -27441,7 +27441,7 @@
 12	Γοθόμ	Γοθόμ	PROPN	_	_	6	conj	_	Gloss=Gatam|SpaceAfter=No
 13	·	·	PUNCT	_	_	14	punct	_	_
 14	καὶ	καί	CCONJ	_	_	15	cc	_	Gloss=and,also,even,then,next
-15	Κενὲζ	Κενὲζ	PROPN	_	_	6	conj	_	Gloss=Kenaz
+15	Κενὲζ	Κενέζ	PROPN	_	Gender=Masc|Number=Sing	6	conj	_	Gloss=Kenaz
 
 # sent_id = lxx/genesis36_v12
 1	Θαμνὰ	Θαμνὰ	PROPN	_	_	4	nsubj	_	Gloss=Timna
@@ -27461,7 +27461,7 @@
 15	·	·	PUNCT	_	_	16	punct	_	_
 16	οὗτοι	οὗτος	PRON	_	Case=Nom|Gender=Masc|Number=Plur|PronType=Dem	17	nsubj	_	Gloss=these
 17	υἱοὶ	υἱός	NOUN	_	Case=Nom,Voc|Gender=Masc|Number=Plur	4	parataxis	_	Gloss=sons
-18	Ἀδὰς	Ἀδὰς	PROPN	_	Case=Gen	17	nmod:poss	_	Gloss=Adah
+18	Ἀδὰς	Ἀδάς	PROPN	_	Case=Gen	17	nmod:poss	_	Gloss=Adah
 19	γυναικὸς	γυνή	NOUN	_	Case=Gen|Gender=Fem|Number=Sing	18	appos	_	Gloss=wife,woman
 20	Ἡσαῦ	Ἡσαῦ	PROPN	_	Case=Gen|Gender=Masc|Number=Sing	19	nmod:poss	_	Gloss=Esau|SpaceAfter=No
 21	.	.	PUNCT	_	_	20	punct	_	_
@@ -27472,7 +27472,7 @@
 3	υἱοὶ	υἱός	NOUN	_	Case=Nom,Voc|Gender=Masc|Number=Plur	0	root	_	Gloss=sons
 4	Ῥαγουήλ	Ῥαγουήλ	PROPN	_	Case=Gen|Gender=Masc|Number=Sing	3	nmod:poss	_	Gloss=Reuel|SpaceAfter=No
 5	·	·	PUNCT	_	_	6	punct	_	_
-6	Ναχόθ	Ναχόθ	PROPN	_	_	3	parataxis	_	Gloss=Nahath|SpaceAfter=No
+6	Ναχόθ	Ναχόθ	PROPN	_	Gender=Masc|Number=Sing	3	parataxis	_	Gloss=Nahath|SpaceAfter=No
 7	,	,	PUNCT	_	_	8	punct	_	_
 8	Ζαρέ	Ζαρέ	PROPN	_	_	6	conj	_	Gloss=Zerah|SpaceAfter=No
 9	,	,	PUNCT	_	_	10	punct	_	_
@@ -27509,7 +27509,7 @@
 17	τῷ	ὁ	DET	_	Case=Dat|Definite=Def|Gender=Masc,Neut|Number=Sing|PronType=Art	18	det	_	Gloss=the
 18	Ἡσαῦ	Ἡσαῦ	PROPN	_	Case=Dat|Gender=Masc|Number=Sing	15	iobj	_	Gloss=Esau
 19	τὸν	ὁ	DET	_	Case=Acc|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	20	det	_	Gloss=the
-20	Ἰεοὺς	Ἰεοὺς	PROPN	_	Case=Acc|Gender=Masc|Number=Sing	15	obj	_	Gloss=Jeush
+20	Ἰεοὺς	Ἰεούς	PROPN	_	Case=Acc|Gender=Masc|Number=Sing	15	obj	_	Gloss=Jeush
 21	καὶ	καί	CCONJ	_	_	23	cc	_	Gloss=and,also,even,then,next
 22	τὸν	ὁ	DET	_	Case=Acc|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	23	det	_	Gloss=the
 23	Ἰεγλὸμ	Ἰεγλόμ	PROPN	_	Case=Acc|Gender=Masc|Number=Sing	20	conj	_	Gloss=Jaalam
@@ -27531,7 +27531,7 @@
 9	Ἡσαῦ	Ἡσαῦ	PROPN	_	Case=Gen|Gender=Masc|Number=Sing	8	nmod:poss	_	Gloss=Esau|SpaceAfter=No
 10	·	·	PUNCT	_	_	11	punct	_	_
 11	ἡγεμὼν	ἡγεμών	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	2	parataxis	_	Gloss=chief,prince
-12	Θαιμάν	Θαιμάν	PROPN	_	Case=Nom	11	appos	_	Gloss=Teman|SpaceAfter=No
+12	Θαιμάν	Θαιμάν	PROPN	_	Case=Nom|Number=Sing	11	appos	_	Gloss=Teman|SpaceAfter=No
 13	,	,	PUNCT	_	_	14	punct	_	_
 14	ἡγεμὼν	ἡγεμών	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	11	conj	_	Gloss=chief,prince
 15	Ὠμάρ	Ὠμάρ	PROPN	_	Case=Nom	14	appos	_	Gloss=Omar|SpaceAfter=No
@@ -27540,7 +27540,7 @@
 18	Σωφάρ	Σωφάρ	PROPN	_	Case=Nom	17	appos	_	Gloss=Zepho|SpaceAfter=No
 19	,	,	PUNCT	_	_	20	punct	_	_
 20	ἡγεμὼν	ἡγεμών	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	11	conj	_	Gloss=chief,prince
-21	Κενέζ	Κενέζ	PROPN	_	Case=Nom	20	appos	_	Gloss=Kenaz|SpaceAfter=No
+21	Κενέζ	Κενέζ	PROPN	_	Case=Nom|Gender=Masc|Number=Sing	20	appos	_	Gloss=Kenaz|SpaceAfter=No
 22	,	,	PUNCT	_	_	23	punct	_	_
 23	ἡγεμὼν	ἡγεμών	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	11	conj	_	Gloss=chief,prince
 24	Κορέ	Κορέ	PROPN	_	Case=Nom|Gender=Masc|Number=Sing	23	appos	_	Gloss=Korah|SpaceAfter=No
@@ -27572,7 +27572,7 @@
 6	Ἡσαῦ	Ἡσαῦ	PROPN	_	Case=Gen|Gender=Masc|Number=Sing	5	nmod:poss	_	Gloss=Esau|SpaceAfter=No
 7	·	·	PUNCT	_	_	8	punct	_	_
 8	ἡγεμὼν	ἡγεμών	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	3	parataxis	_	Gloss=chief,prince
-9	Ναχόθ	Ναχόθ	PROPN	_	Case=Nom	8	appos	_	Gloss=Nahath|SpaceAfter=No
+9	Ναχόθ	Ναχόθ	PROPN	_	Case=Nom|Gender=Masc|Number=Sing	8	appos	_	Gloss=Nahath|SpaceAfter=No
 10	,	,	PUNCT	_	_	11	punct	_	_
 11	ἡγεμὼν	ἡγεμών	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	8	conj	_	Gloss=chief,prince
 12	Ζαρέ	Ζαρέ	PROPN	_	Case=Nom	11	appos	_	Gloss=Zerah|SpaceAfter=No
@@ -27606,7 +27606,7 @@
 6	Ἡσαῦ	Ἡσαῦ	PROPN	_	Case=Gen|Gender=Masc|Number=Sing	5	nmod:poss	_	Gloss=Esau|SpaceAfter=No
 7	·	·	PUNCT	_	_	8	punct	_	_
 8	ἡγεμὼν	ἡγεμών	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	3	parataxis	_	Gloss=chief,prince
-9	Ἰεούς	Ἰεούς	PROPN	_	Case=Nom	8	appos	_	Gloss=Jeush|SpaceAfter=No
+9	Ἰεούς	Ἰεούς	PROPN	_	Case=Nom|Number=Sing	8	appos	_	Gloss=Jeush|SpaceAfter=No
 10	,	,	PUNCT	_	_	11	punct	_	_
 11	ἡγεμὼν	ἡγεμών	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	8	conj	_	Gloss=chief,prince
 12	Ἰεγλόμ	Ἰεγλόμ	PROPN	_	Case=Nom	11	appos	_	Gloss=Jaalam|SpaceAfter=No
@@ -27639,7 +27639,7 @@
 1	Οὗτοι	οὗτος	PRON	_	Case=Nom|Gender=Masc|Number=Plur|PronType=Dem	3	nsubj	_	Gloss=these
 2	δὲ	δέ	CCONJ	_	_	3	cc	_	Gloss=but,and,however
 3	υἱοὶ	υἱός	NOUN	_	Case=Nom,Voc|Gender=Masc|Number=Plur	0	root	_	Gloss=sons
-4	Σηὶρ	Σηὶρ	PROPN	_	Case=Gen	3	nmod:poss	_	Gloss=Seir
+4	Σηὶρ	Σηίρ	PROPN	_	Case=Gen|Gender=Masc	3	nmod:poss	_	Gloss=Seir
 5	τοῦ	ὁ	DET	_	Case=Gen|Definite=Def|Gender=Masc,Neut|Number=Sing|PronType=Art	6	det	_	Gloss=the
 6	Χορραίου	Χορραίου	PROPN	_	Case=Gen|Number=Sing	4	amod	_	Gloss=Horite
 7	τοῦ	ὁ	DET	_	Case=Gen|Definite=Def|Gender=Masc,Neut|Number=Sing|PronType=Art	8	nsubj	_	Gloss=the
@@ -27659,7 +27659,7 @@
 1	καὶ	καί	CCONJ	_	_	2	cc	_	Gloss=and,also,even,then,next
 2	Δησὼν	Δησὼν	PROPN	_	_	0	root	_	Gloss=Dishon
 3	καὶ	καί	CCONJ	_	_	4	cc	_	Gloss=and,also,even,then,next
-4	Ἀσὰρ	Ἀσὰρ	PROPN	_	_	2	conj	_	Gloss=Ezer
+4	Ἀσὰρ	Ἀσάρ	PROPN	_	_	2	conj	_	Gloss=Ezer
 5	καὶ	καί	CCONJ	_	_	6	cc	_	Gloss=and,also,even,then,next
 6	Ῥισών	Ῥισών	PROPN	_	_	2	conj	_	Gloss=Rishon,Dishan|SpaceAfter=No
 7	·	·	PUNCT	_	_	8	punct	_	_
@@ -27669,7 +27669,7 @@
 11	Χορραίου	Χορραίου	PROPN	_	Case=Gen|Gender=Masc|Number=Sing	9	nmod:poss	_	Gloss=Horite
 12	τοῦ	ὁ	DET	_	Case=Gen|Definite=Def|Gender=Masc,Neut|Number=Sing|PronType=Art	13	det	_	Gloss=the
 13	υἱοῦ	υἱός	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	11	appos	_	Gloss=son
-14	Σηὶρ	Σηὶρ	PROPN	_	Case=Gen	13	nmod:poss	_	Gloss=Seir
+14	Σηὶρ	Σηίρ	PROPN	_	Case=Gen|Gender=Masc	13	nmod:poss	_	Gloss=Seir
 15	ἐν	ἐν	ADP	_	_	17	case	_	Gloss=in,on,by,with,to
 16	τῇ	ὁ	DET	_	Case=Dat|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	17	det	_	Gloss=the
 17	γῇ	γῆ	NOUN	_	Case=Dat|Gender=Fem|Number=Sing	9	obl	_	Gloss=earth,ground,land
@@ -27682,7 +27682,7 @@
 3	υἱοὶ	υἱός	NOUN	_	Case=Nom|Gender=Masc|Number=Plur	1	nsubj	_	Gloss=sons
 4	Λωτάν	Λωτάν	PROPN	_	Case=Gen	3	nmod:poss	_	Gloss=Lotan|SpaceAfter=No
 5	·	·	PUNCT	_	_	1	punct	_	_
-6	Χορρὶ	Χορρὶ	PROPN	_	Case=Acc	1	obj	_	Gloss=Hori
+6	Χορρὶ	Χορρί	PROPN	_	Case=Acc|Gender=Masc	1	obj	_	Gloss=Hori
 7	καὶ	καί	CCONJ	_	_	8	cc	_	Gloss=and,also,even,then,next
 8	Αἱμάν	Αἱμάν	PROPN	_	Gender=Masc|Number=Sing	6	conj	_	Gloss=Hemam|SpaceAfter=No
 9	·	·	PUNCT	_	_	10	punct	_	_
@@ -27700,11 +27700,11 @@
 5	·	·	PUNCT	_	_	6	punct	_	_
 6	Γωλὼν	Γωλὼν	PROPN	_	_	3	parataxis	_	Gloss=Alvan
 7	καὶ	καί	CCONJ	_	_	8	cc	_	Gloss=and,also,even,then,next
-8	Μαναχὰθ	Μαναχὰθ	PROPN	_	_	6	conj	_	Gloss=Manahath
+8	Μαναχὰθ	Μαναχάθ	PROPN	_	Gender=Masc|Number=Sing	6	conj	_	Gloss=Manahath
 9	καὶ	καί	CCONJ	_	_	10	cc	_	Gloss=and,also,even,then,next
-10	Γαιβήλ	Γαιβήλ	PROPN	_	_	6	conj	_	Gloss=Ebal|SpaceAfter=No
+10	Γαιβήλ	Γαιβήλ	PROPN	_	Gender=Masc|Number=Sing	6	conj	_	Gloss=Ebal|SpaceAfter=No
 11	,	,	PUNCT	_	_	12	punct	_	_
-12	Σῶφ	Σῶφ	PROPN	_	_	6	conj	_	Gloss=Shepho
+12	Σῶφ	Σῶφ	PROPN	_	Gender=Masc|Number=Sing	6	conj	_	Gloss=Shepho
 13	καὶ	καί	CCONJ	_	_	14	cc	_	Gloss=and,also,even,then,next
 14	Ὠμάν	Ὠμάν	PROPN	_	_	6	conj	_	Gloss=Onam|SpaceAfter=No
 15	.	.	PUNCT	_	_	14	punct	_	_
@@ -27801,7 +27801,7 @@
 # sent_id = lxx/genesis36_v29+lxx/genesis36_v30
 1	οὗτοι	οὗτος	PRON	_	Case=Nom|Gender=Masc|Number=Plur|PronType=Dem	2	nsubj	_	Gloss=these
 2	ἡγεμόνες	ἡγεμών	NOUN	_	Case=Nom|Gender=Masc|Number=Plur	0	root	_	Gloss=rulers,chiefs
-3	Χορρί	Χορρί	PROPN	_	Case=Gen	2	nmod:poss	_	Gloss=Hori,Horites|SpaceAfter=No
+3	Χορρί	Χορρί	PROPN	_	Case=Gen|Gender=Masc	2	nmod:poss	_	Gloss=Hori,Horites|SpaceAfter=No
 4	·	·	PUNCT	_	_	5	punct	_	_
 5	ἡγεμὼν	ἡγεμών	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	2	parataxis	_	Gloss=chief,prince
 6	Λωτάν	Λωτάν	PROPN	_	Case=Nom	5	appos	_	Gloss=Lotan|SpaceAfter=No
@@ -27826,7 +27826,7 @@
 25	.	.	PUNCT	_	_	26	punct	_	_
 26	οὗτοι	οὗτος	PRON	_	Case=Nom|Gender=Masc|Number=Plur|PronType=Dem	27	nsubj	_	Gloss=these
 27	ἡγεμόνες	ἡγεμών	NOUN	_	Case=Nom|Gender=Masc|Number=Plur	5	parataxis	_	Gloss=rulers,chiefs
-28	Χορρὶ	Χορρὶ	PROPN	_	Case=Gen	27	nmod:poss	_	Gloss=Hori,Horites
+28	Χορρὶ	Χορρί	PROPN	_	Case=Gen|Gender=Masc	27	nmod:poss	_	Gloss=Hori,Horites
 29	ἐν	ἐν	ADP	_	_	31	case	_	Gloss=in,on,by,with,to
 30	ταῖς	ὁ	DET	_	Case=Dat|Definite=Def|Gender=Fem|Number=Plur|PronType=Art	31	det	_	Gloss=the
 31	ἡγεμονίαις	ἡγεμονία	NOUN	_	Case=Dat|Gender=Fem|Number=Plur	27	obl	_	Gloss=governments,principalities
@@ -27880,7 +27880,7 @@
 6	ἐβασίλευσεν	βασιλεύω	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	1	conj	_	Gloss=to-rule,reign
 7	ἀντ᾿	ἀντί	ADP	_	_	8	case	_	Gloss=against,opposite,instead-of
 8	αὐτοῦ	αὐτός	PRON	_	Case=Gen|Gender=Masc,Neut|Number=Sing|PronType=Prs	6	obl	_	Gloss=he,she,it,-self,same
-9	Ἰωβὰβ	Ἰωβὰβ	PROPN	_	Case=Nom|Gender=Masc	6	nsubj	_	Gloss=Jobab
+9	Ἰωβὰβ	Ἰωβάβ	PROPN	_	Case=Nom|Gender=Masc|Number=Sing	6	nsubj	_	Gloss=Jobab
 10	υἱὸς	υἱός	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	9	appos	_	Gloss=son
 11	Ζάρα	Ζάρα	PROPN	_	Case=Gen	10	nmod:poss	_	Gloss=Zerah
 12	ἐκ	ἐκ	ADP	_	_	13	case	_	Gloss=out,out-of
@@ -27890,13 +27890,13 @@
 # sent_id = lxx/genesis36_v34
 1	ἀπέθανεν	ἀποθνήσκω	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	Gloss=to-die
 2	δὲ	δέ	CCONJ	_	_	1	cc	_	Gloss=but,and,however
-3	Ἰωβάβ	Ἰωβάβ	PROPN	_	Case=Nom	1	nsubj	_	Gloss=Jobab|SpaceAfter=No
+3	Ἰωβάβ	Ἰωβάβ	PROPN	_	Case=Nom|Gender=Masc|Number=Sing	1	nsubj	_	Gloss=Jobab|SpaceAfter=No
 4	,	,	PUNCT	_	_	5	punct	_	_
 5	καὶ	καί	CCONJ	_	_	6	cc	_	Gloss=and,also,even,then,next
 6	ἐβασίλευσεν	βασιλεύω	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	1	conj	_	Gloss=to-rule,reign
 7	ἀντ᾿	ἀντί	ADP	_	_	8	case	_	Gloss=against,opposite,instead-of
 8	αὐτοῦ	αὐτός	PRON	_	Case=Gen|Gender=Masc,Neut|Number=Sing|PronType=Prs	6	obl	_	Gloss=he,she,it,-self,same
-9	Ἀσὸμ	Ἀσὸμ	PROPN	_	Case=Nom	6	nsubj	_	Gloss=Husham
+9	Ἀσὸμ	Ἀσόμ	PROPN	_	Case=Nom|Gender=Masc|Number=Sing	6	nsubj	_	Gloss=Husham
 10	ἐκ	ἐκ	ADP	_	_	12	case	_	Gloss=out,out-of
 11	τῆς	ὁ	DET	_	Case=Gen|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	12	det	_	Gloss=the
 12	γῆς	γῆ	NOUN	_	Case=Gen|Gender=Fem|Number=Sing	9	nmod	_	Gloss=earth,land
@@ -27906,22 +27906,22 @@
 # sent_id = lxx/genesis36_v35
 1	ἀπέθανεν	ἀποθνήσκω	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	Gloss=to-die
 2	δὲ	δέ	CCONJ	_	_	1	cc	_	Gloss=but,and,however
-3	Ἀσόμ	Ἀσόμ	PROPN	_	Case=Nom	1	nsubj	_	Gloss=Husham|SpaceAfter=No
+3	Ἀσόμ	Ἀσόμ	PROPN	_	Case=Nom|Gender=Masc|Number=Sing	1	nsubj	_	Gloss=Husham|SpaceAfter=No
 4	,	,	PUNCT	_	_	5	punct	_	_
 5	καὶ	καί	CCONJ	_	_	6	cc	_	Gloss=and,also,even,then,next
 6	ἐβασίλευσεν	βασιλεύω	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	1	conj	_	Gloss=to-rule,reign
 7	ἀντ᾿	ἀντί	ADP	_	_	8	case	_	Gloss=against,opposite,instead-of
 8	αὐτοῦ	αὐτός	PRON	_	Case=Gen|Gender=Masc,Neut|Number=Sing|PronType=Prs	6	obl	_	Gloss=he,she,it,-self,same
-9	Ἀδὰδ	Ἀδὰδ	PROPN	_	Case=Nom|Gender=Masc	6	nsubj	_	Gloss=Hadad
+9	Ἀδὰδ	Ἀδάδ	PROPN	_	Case=Nom|Gender=Masc|Number=Sing	6	nsubj	_	Gloss=Hadad
 10	υἱὸς	υἱός	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	9	appos	_	Gloss=son
-11	Βαρὰδ	Βαρὰδ	PROPN	_	Case=Gen	10	nmod:poss	_	Gloss=Bedad
+11	Βαρὰδ	Βαράδ	PROPN	_	Case=Gen|Gender=Masc|Number=Sing	10	nmod:poss	_	Gloss=Bedad
 12	ὁ	ὁ	DET	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Art	13	nsubj	_	Gloss=the;-oh
 13	ἐκκόψας	ἐκκόπτω	VERB	_	Aspect=Perf|Case=Nom|Gender=Masc|Number=Sing|VerbForm=Part|Voice=Act	9	acl:relcl	_	Gloss=to-cut-off
 14	Μαδιὰμ	Μαδιάμ	PROPN	_	Gender=Fem|Number=Sing	13	obj	_	Gloss=Midian
 15	ἐν	ἐν	ADP	_	_	17	case	_	Gloss=in,on,by,with,to
 16	τῷ	ὁ	DET	_	Case=Dat|Definite=Def|Gender=Masc,Neut|Number=Sing|PronType=Art	17	det	_	Gloss=the
 17	πεδίῳ	πεδίον	NOUN	_	Case=Dat|Gender=Neut|Number=Sing	13	obl	_	Gloss=plain
-18	Μωάβ	Μωάβ	PROPN	_	Case=Gen	17	nmod:poss	_	Gloss=Moab|SpaceAfter=No
+18	Μωάβ	Μωάβ	PROPN	_	Case=Gen|Gender=Masc|Number=Sing	17	nmod:poss	_	Gloss=Moab|SpaceAfter=No
 19	,	,	PUNCT	_	_	20	punct	_	_
 20	καὶ	καί	CCONJ	_	_	25	cc	_	Gloss=and,also,even,then,next
 21	ὄνομα	ὄνομα	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	25	nsubj	_	Gloss=name
@@ -27934,7 +27934,7 @@
 # sent_id = lxx/genesis36_v36
 1	ἀπέθανεν	ἀποθνήσκω	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	Gloss=to-die
 2	δὲ	δέ	CCONJ	_	_	1	cc	_	Gloss=but,and,however
-3	Ἀδάδ	Ἀδάδ	PROPN	_	Case=Nom	1	nsubj	_	Gloss=Hadad|SpaceAfter=No
+3	Ἀδάδ	Ἀδάδ	PROPN	_	Case=Nom|Gender=Masc|Number=Sing	1	nsubj	_	Gloss=Hadad|SpaceAfter=No
 4	,	,	PUNCT	_	_	5	punct	_	_
 5	καὶ	καί	CCONJ	_	_	6	cc	_	Gloss=and,also,even,then,next
 6	ἐβασίλευσεν	βασιλεύω	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	1	conj	_	Gloss=to-rule,reign
@@ -27989,7 +27989,7 @@
 10	αὐτοῦ	αὐτός	PRON	_	Case=Gen|Gender=Masc,Neut|Number=Sing|PronType=Prs	8	obl	_	Gloss=he,she,it,-self,same
 11	Ἀρὰδ	Ἀρὰδ	PROPN	_	Case=Nom|Gender=Masc	8	nsubj	_	Gloss=Hadar
 12	υἱὸς	υἱός	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	11	appos	_	Gloss=son
-13	Βαράδ	Βαράδ	PROPN	_	Case=Gen	12	nmod:poss	_	Gloss=Bedad|SpaceAfter=No
+13	Βαράδ	Βαράδ	PROPN	_	Case=Gen|Gender=Masc|Number=Sing	12	nmod:poss	_	Gloss=Bedad|SpaceAfter=No
 14	,	,	PUNCT	_	_	15	punct	_	_
 15	καὶ	καί	CCONJ	_	_	20	cc	_	Gloss=and,also,even,then,next
 16	ὄνομα	ὄνομα	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	20	nsubj	_	Gloss=name
@@ -28007,7 +28007,7 @@
 28	θυγάτηρ	θυγάτηρ	NOUN	_	Case=Nom,Voc|Gender=Fem|Number=Sing	27	appos	_	Gloss=daughter
 29	Ματραὶθ	Ματραὶθ	PROPN	_	Case=Gen|Gender=Masc	28	nmod:poss	_	Gloss=Matred
 30	υἱοῦ	υἱός	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	29	appos	_	Gloss=son
-31	Μαιζοόβ	Μαιζοόβ	PROPN	_	Case=Gen	30	nmod:poss	_	Gloss=Mezahab|SpaceAfter=No
+31	Μαιζοόβ	Μαιζοόβ	PROPN	_	Case=Gen|Gender=Masc|Number=Sing	30	nmod:poss	_	Gloss=Mezahab|SpaceAfter=No
 32	.	.	PUNCT	_	_	31	punct	_	_
 
 # sent_id = lxx/genesis36_v40+lxx/genesis36_v41+lxx/genesis36_v42+lxx/genesis36_v43
@@ -28042,7 +28042,7 @@
 29	Γωλά	Γωλά	PROPN	_	Case=Nom	28	appos	_	Gloss=Gola,Alvah|SpaceAfter=No
 30	,	,	PUNCT	_	_	31	punct	_	_
 31	ἡγεμὼν	ἡγεμών	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	25	conj	_	Gloss=chief,prince
-32	Ἰεθὲρ	Ἰεθὲρ	PROPN	_	Case=Nom	31	appos	_	Gloss=Jetheth
+32	Ἰεθὲρ	Ἰεθέρ	PROPN	_	Case=Nom|Gender=Masc|Number=Sing	31	appos	_	Gloss=Jetheth
 33	ἡγεμὼν	ἡγεμών	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	25	conj	_	Gloss=chief,prince
 34	Ἐλιβέμας	Ἐλιβέμα	PROPN	_	Case=Nom|Gender=Masc|Number=Sing	33	appos	_	Gloss=Aholibamah
 35	ἡγεμὼν	ἡγεμών	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	25	conj	_	Gloss=chief,prince
@@ -28051,19 +28051,19 @@
 38	Φινών	Φινών	PROPN	_	Case=Nom	37	appos	_	Gloss=Pinon|SpaceAfter=No
 39	,	,	PUNCT	_	_	40	punct	_	_
 40	ἡγεμὼν	ἡγεμών	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	25	conj	_	Gloss=chief,prince
-41	Κενέζ	Κενέζ	PROPN	_	Case=Nom	40	appos	_	Gloss=Kenaz|SpaceAfter=No
+41	Κενέζ	Κενέζ	PROPN	_	Case=Nom|Gender=Masc|Number=Sing	40	appos	_	Gloss=Kenaz|SpaceAfter=No
 42	,	,	PUNCT	_	_	43	punct	_	_
 43	ἡγεμὼν	ἡγεμών	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	25	conj	_	Gloss=chief,prince
-44	Θαιμάν	Θαιμάν	PROPN	_	Case=Nom	43	appos	_	Gloss=Teman|SpaceAfter=No
+44	Θαιμάν	Θαιμάν	PROPN	_	Case=Nom|Number=Sing	43	appos	_	Gloss=Teman|SpaceAfter=No
 45	,	,	PUNCT	_	_	46	punct	_	_
 46	ἡγεμὼν	ἡγεμών	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	25	conj	_	Gloss=chief,prince
-47	Μαζάρ	Μαζάρ	PROPN	_	Case=Nom	46	appos	_	Gloss=Mibzar|SpaceAfter=No
+47	Μαζάρ	Μαζάρ	PROPN	_	Case=Nom|Gender=Masc|Number=Sing	46	appos	_	Gloss=Mibzar|SpaceAfter=No
 48	,	,	PUNCT	_	_	49	punct	_	_
 49	ἡγεμὼν	ἡγεμών	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	25	conj	_	Gloss=chief,prince
-50	Μεγεδιήλ	Μεγεδιήλ	PROPN	_	Case=Nom	49	appos	_	Gloss=Magdiel|SpaceAfter=No
+50	Μεγεδιήλ	Μεγεδιήλ	PROPN	_	Case=Nom|Gender=Masc|Number=Sing	49	appos	_	Gloss=Magdiel|SpaceAfter=No
 51	,	,	PUNCT	_	_	52	punct	_	_
 52	ἡγεμὼν	ἡγεμών	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	25	conj	_	Gloss=chief,prince
-53	Ζαφωίμ	Ζαφωίμ	PROPN	_	Case=Nom	52	appos	_	Gloss=Zaphoim,Iram|SpaceAfter=No
+53	Ζαφωίμ	Ζαφωίμ	PROPN	_	Case=Nom|Gender=Masc|Number=Sing	52	appos	_	Gloss=Zaphoim,Iram|SpaceAfter=No
 54	.	.	PUNCT	_	_	55	punct	_	_
 55	οὗτοι	οὗτος	PRON	_	Case=Nom|Gender=Masc|Number=Plur|PronType=Dem	56	nsubj	_	Gloss=these
 56	ἡγεμόνες	ἡγεμών	NOUN	_	Case=Nom|Gender=Masc|Number=Plur	3	parataxis	_	Gloss=rulers,chiefs
@@ -28100,7 +28100,7 @@
 13	,	,	PUNCT	_	_	14	punct	_	_
 14	ἐν	ἐν	ADP	_	_	15	case	_	Gloss=in,on,by,with,to
 15	γῇ	γῆ	NOUN	_	Case=Dat|Gender=Fem|Number=Sing	6	appos	_	Gloss=earth,ground,land
-16	Χαναάν	Χαναάν	PROPN	_	Case=Gen	15	nmod:poss	_	Gloss=Canaan|SpaceAfter=No
+16	Χαναάν	Χαναάν	PROPN	_	Case=Gen|Number=Sing	15	nmod:poss	_	Gloss=Canaan|SpaceAfter=No
 17	.	.	PUNCT	_	_	16	punct	_	_
 
 # sent_id = lxx/genesis37_v2
@@ -28601,7 +28601,7 @@
 # sent_id = lxx/genesis37_v21
 1	ἀκούσας	ἀκούω	VERB	_	Aspect=Perf|Case=Nom|Gender=Masc|Number=Sing|VerbForm=Part|Voice=Act	4	advcl	_	Gloss=to-hear
 2	δὲ	δέ	CCONJ	_	_	4	cc	_	Gloss=but,and,however
-3	Ῥουβὴν	Ῥουβὴν	PROPN	_	Gender=Masc|Number=Sing	1	nsubj	_	Gloss=Reuben
+3	Ῥουβὴν	Ῥουβήν	PROPN	_	Gender=Masc|Number=Sing	1	nsubj	_	Gloss=Reuben
 4	ἐξείλατο	ἐξαιρέω	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Mid	0	root	_	Gloss=to-deliver
 5	αὐτὸν	αὐτός	PRON	_	Case=Acc|Gender=Masc|Number=Sing|PronType=Prs	4	obj	_	Gloss=he,she,it,-self,same
 6	ἐκ	ἐκ	ADP	_	_	8	case	_	Gloss=out,out-of
@@ -28833,7 +28833,7 @@
 # sent_id = lxx/genesis37_v29
 1	ἀνέστρεψεν	ἀναστρέφω	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	Gloss=to-return,overturn
 2	δὲ	δέ	CCONJ	_	_	1	cc	_	Gloss=but,and,however
-3	Ῥουβὴν	Ῥουβὴν	PROPN	_	Case=Nom|Gender=Masc|Number=Sing	1	nsubj	_	Gloss=Reuben
+3	Ῥουβὴν	Ῥουβήν	PROPN	_	Case=Nom|Gender=Masc|Number=Sing	1	nsubj	_	Gloss=Reuben
 4	ἐπὶ	ἐπί	ADP	_	_	6	case	_	Gloss=on,upon,against
 5	τὸν	ὁ	DET	_	Case=Acc|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	6	det	_	Gloss=the
 6	λάκκον	λάκκος	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	1	obl	_	Gloss=pit
@@ -29056,11 +29056,11 @@
 4	Ἰούδας	Ἰούδας	PROPN	_	Case=Nom|Gender=Masc|Number=Sing	2	nsubj	_	Gloss=Judah
 5	θυγατέρα	θυγάτηρ	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	2	obj	_	Gloss=daughter
 6	ἀνθρώπου	ἄνθρωπος	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	5	nmod:poss	_	Gloss=man
-7	Χαναναίου	Χαναναίου	PROPN	_	_	6	amod	_	Gloss=Canaanite|SpaceAfter=No
+7	Χαναναίου	Χαναναῖος	PROPN	_	Gender=Masc|Number=Sing	6	amod	_	Gloss=Canaanite|SpaceAfter=No
 8	,	,	PUNCT	_	_	9	punct	_	_
 9	ᾗ	ὅς	PRON	_	Case=Dat|Gender=Fem|Number=Sing|PronType=Rel	11	iobj	_	Gloss=who,which,that
 10	ὄνομα	ὄνομα	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	11	nsubj	_	Gloss=name
-11	Σαυά	Σαυά	PROPN	_	_	5	acl:relcl	_	Gloss=Shua|SpaceAfter=No
+11	Σαυά	Σαυά	PROPN	_	Gender=Masc	5	acl:relcl	_	Gloss=Shua|SpaceAfter=No
 12	,	,	PUNCT	_	_	13	punct	_	_
 13	καὶ	καί	CCONJ	_	_	14	cc	_	Gloss=and,also,even,then,next
 14	ἔλαβεν	λαμβάνω	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	2	conj	_	Gloss=received,taken
@@ -29285,7 +29285,7 @@
 4	ἡμέραι	ἡμέρα	NOUN	_	Case=Nom|Gender=Fem|Number=Plur	1	nsubj:pass	_	Gloss=days
 5	καὶ	καί	CCONJ	_	_	6	cc	_	Gloss=and,also,even,then,next
 6	ἀπέθανεν	ἀποθνήσκω	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	1	conj	_	Gloss=to-die
-7	Σαυὰ	Σαυὰ	PROPN	_	Case=Nom	6	nsubj	_	Gloss=Shua
+7	Σαυὰ	Σαυά	PROPN	_	Case=Nom|Gender=Masc	6	nsubj	_	Gloss=Shua
 8	ἡ	ὁ	DET	_	Case=Nom|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	9	det	_	Gloss=the
 9	γυνὴ	γυνή	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	7	appos	_	Gloss=woman,wife
 10	Ἰούδα	Ἰούδα	PROPN	_	Case=Gen|Gender=Masc|Number=Sing	9	nmod:poss	_	Gloss=Judah|SpaceAfter=No
@@ -32190,7 +32190,7 @@
 4	τὸ	ὁ	DET	_	Case=Acc|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	5	det	_	Gloss=the
 5	ὄνομα	ὄνομα	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	2	obj	_	Gloss=name
 6	Ἰωσὴφ	Ἰωσήφ	PROPN	_	Case=Gen|Gender=Masc|Number=Sing	5	nmod:poss	_	Gloss=Joseph
-7	Ψονθομφανήχ	Ψονθομφανήχ	PROPN	_	_	2	xcomp	_	Gloss=Zaphnath-Paaneah,Psonthomphanech|SpaceAfter=No
+7	Ψονθομφανήχ	Ψονθομφανήχ	PROPN	_	Gender=Masc|Number=Sing	2	xcomp	_	Gloss=Zaphnath-Paaneah,Psonthomphanech|SpaceAfter=No
 8	·	·	PUNCT	_	_	9	punct	_	_
 9	καὶ	καί	CCONJ	_	_	10	cc	_	Gloss=and,also,even,then,next
 10	ἔδωκεν	δίδωμι	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	2	conj	_	Gloss=to-give
@@ -32612,7 +32612,7 @@
 14	λιμὸς	λιμός	NOUN	_	Case=Nom|Gender=Fem,Masc|Number=Sing	16	nsubj	_	Gloss=famine
 15	ἐν	ἐν	ADP	_	_	16	case	_	Gloss=in,on,by,with,to
 16	γῇ	γῆ	NOUN	_	Case=Dat|Gender=Fem|Number=Sing	1	advcl	_	Gloss=earth,ground,land
-17	Χαναάν	Χαναάν	PROPN	_	Case=Gen	16	nmod:poss	_	Gloss=Canaan|SpaceAfter=No
+17	Χαναάν	Χαναάν	PROPN	_	Case=Gen|Number=Sing	16	nmod:poss	_	Gloss=Canaan|SpaceAfter=No
 18	.	.	PUNCT	_	_	17	punct	_	_
 
 # sent_id = lxx/genesis42_v6
@@ -32674,7 +32674,7 @@
 26	,	,	PUNCT	_	_	27	punct	_	_
 27	Ἐκ	ἐκ	ADP	_	_	28	case	_	Gloss=out,out-of
 28	γῆς	γῆ	NOUN	_	Case=Gen|Gender=Fem|Number=Sing	25	ccomp	_	Gloss=earth,land
-29	Χαναὰν	Χαναὰν	PROPN	_	Case=Gen	28	nmod:poss	_	Gloss=Canaan
+29	Χαναὰν	Χαναάν	PROPN	_	Case=Gen|Number=Sing	28	nmod:poss	_	Gloss=Canaan
 30	ἀγοράσαι	ἀγοράζω	VERB	_	Aspect=Perf|Mood=Opt|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	28	orphan	_	Gloss=to-buy
 31	βρώματα	βρῶμα	NOUN	_	Case=Acc|Gender=Neut|Number=Plur	30	obj	_	Gloss=food,provisions|SpaceAfter=No
 32	.	.	PUNCT	_	_	31	punct	_	_
@@ -32784,7 +32784,7 @@
 10	ἀδελφοὶ	ἀδελφός	NOUN	_	Case=Nom,Voc|Gender=Masc|Number=Plur	5	xcomp	_	Gloss=brothers
 11	ἐν	ἐν	ADP	_	_	12	case	_	Gloss=in,on,by,with,to
 12	γῇ	γῆ	NOUN	_	Case=Dat|Gender=Fem|Number=Sing	10	obl	_	Gloss=earth,ground,land
-13	Χαναάν	Χαναάν	PROPN	_	Case=Gen	12	nmod:poss	_	Gloss=Canaan|SpaceAfter=No
+13	Χαναάν	Χαναάν	PROPN	_	Case=Gen|Number=Sing	12	nmod:poss	_	Gloss=Canaan|SpaceAfter=No
 14	,	,	PUNCT	_	_	15	punct	_	_
 15	καὶ	καί	CCONJ	_	_	21	cc	_	Gloss=and,also,even,then,next
 16	ἰδοὺ	ἰδού	INTJ	_	_	21	discourse	_	Gloss=look!,behold!
@@ -33022,7 +33022,7 @@
 # sent_id = lxx/genesis42_v22
 1	ἀποκριθεὶς	ἀποκρίνω	VERB	_	Aspect=Perf|Case=Nom|Gender=Masc|Number=Sing|VerbForm=Part|Voice=Pass	4	advcl	_	Gloss=to-answer
 2	δὲ	δέ	CCONJ	_	_	4	cc	_	Gloss=but,and,however
-3	Ῥουβὴν	Ῥουβὴν	PROPN	_	Gender=Masc|Number=Sing	1	nsubj:pass	_	Gloss=Reuben
+3	Ῥουβὴν	Ῥουβήν	PROPN	_	Gender=Masc|Number=Sing	1	nsubj:pass	_	Gloss=Reuben
 4	εἶπεν	εἶπον	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	Gloss=to-say
 5	αὐτοῖς	αὐτός	PRON	_	Case=Dat|Gender=Masc,Neut|Number=Plur|PronType=Prs	4	iobj	_	Gloss=he,it,-self,same|SpaceAfter=No
 6	,	,	PUNCT	_	_	7	punct	_	_
@@ -33225,7 +33225,7 @@
 7	αὐτῶν	αὐτός	PRON	_	Case=Gen|Gender=Fem,Masc,Neut|Number=Plur|PronType=Prs	6	nmod:poss	_	Gloss=he,she,it,-self,same
 8	εἰς	εἰς	ADP	_	_	9	case	_	Gloss=into,unto,for
 9	γῆν	γῆ	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	1	obl	_	Gloss=earth,land
-10	Χαναὰν	Χαναὰν	PROPN	_	Case=Gen	9	nmod:poss	_	Gloss=Canaan
+10	Χαναὰν	Χαναάν	PROPN	_	Case=Gen|Number=Sing	9	nmod:poss	_	Gloss=Canaan
 11	καὶ	καί	CCONJ	_	_	12	cc	_	Gloss=and,also,even,then,next
 12	ἀπήγγειλαν	ἀπαγγέλλω	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	1	conj	_	Gloss=to-bring-news,report
 13	αὐτῷ	αὐτός	PRON	_	Case=Dat|Gender=Masc,Neut|Number=Sing|PronType=Prs	12	iobj	_	Gloss=he,she,it,-self,same
@@ -33296,7 +33296,7 @@
 22	σήμερον	σήμερον	ADV	_	_	20	obl:tmod	_	Gloss=today,this-day
 23	ἐν	ἐν	ADP	_	_	24	case	_	Gloss=in,on,by,with,to
 24	γῇ	γῆ	NOUN	_	Case=Dat|Gender=Fem|Number=Sing	20	obl	_	Gloss=earth,ground,land
-25	Χαναάν	Χαναάν	PROPN	_	Case=Gen	24	nmod:poss	_	Gloss=Canaan|SpaceAfter=No
+25	Χαναάν	Χαναάν	PROPN	_	Case=Gen|Number=Sing	24	nmod:poss	_	Gloss=Canaan|SpaceAfter=No
 26	.	.	PUNCT	_	_	25	punct	_	_
 
 # sent_id = lxx/genesis42_v33
@@ -33445,7 +33445,7 @@
 # sent_id = lxx/genesis42_v37
 1	εἶπεν	εἶπον	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	Gloss=to-say
 2	δὲ	δέ	CCONJ	_	_	1	cc	_	Gloss=but,and,however
-3	Ῥουβὴν	Ῥουβὴν	PROPN	_	Case=Nom|Gender=Masc|Number=Sing	1	nsubj	_	Gloss=Reuben
+3	Ῥουβὴν	Ῥουβήν	PROPN	_	Case=Nom|Gender=Masc|Number=Sing	1	nsubj	_	Gloss=Reuben
 4	τῷ	ὁ	DET	_	Case=Dat|Definite=Def|Gender=Masc,Neut|Number=Sing|PronType=Art	5	det	_	Gloss=the
 5	πατρὶ	πατήρ	NOUN	_	Case=Dat|Gender=Masc|Number=Sing	1	iobj	_	Gloss=father
 6	αὐτοῦ	αὐτός	PRON	_	Case=Gen|Gender=Masc,Neut|Number=Sing|PronType=Prs	5	nmod:poss	_	Gloss=he,she,it,-self,same
@@ -34701,7 +34701,7 @@
 15	σὲ	σέ	PRON	_	Case=Acc|Number=Sing|Person=2|PronType=Prs	13	obl	_	Gloss=you
 16	ἐκ	ἐκ	ADP	_	_	17	case	_	Gloss=out,out-of
 17	γῆς	γῆ	NOUN	_	Case=Gen|Gender=Fem|Number=Sing	13	obl	_	Gloss=earth,land
-18	Χαναάν	Χαναάν	PROPN	_	Case=Gen	17	nmod:poss	_	Gloss=Canaan|SpaceAfter=No
+18	Χαναάν	Χαναάν	PROPN	_	Case=Gen|Number=Sing	17	nmod:poss	_	Gloss=Canaan|SpaceAfter=No
 19	,	,	PUNCT	_	_	20	punct	_	_
 20	πῶς	πῶς	ADV	_	PronType=Int	22	advmod	_	Gloss=how?-in-what-way?
 21	ἄν	ἄν	PART	_	_	22	mark	_	Gloss=whenever,whoever,whatever
@@ -35873,7 +35873,7 @@
 18	ἀπέλθατε	ἀπέρχομαι	VERB	_	Aspect=Perf|Mood=Imp|Number=Plur|Person=2|Tense=Past|VerbForm=Fin|Voice=Act	13	conj	_	Gloss=to-go-away
 19	εἰς	εἰς	ADP	_	_	20	case	_	Gloss=into,unto,for
 20	γῆν	γῆ	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	18	obl	_	Gloss=earth,land
-21	Χαναὰν	Χαναὰν	PROPN	_	Case=Gen	20	nmod:poss	_	Gloss=Canaan
+21	Χαναὰν	Χαναάν	PROPN	_	Case=Gen|Number=Sing	20	nmod:poss	_	Gloss=Canaan
 
 # sent_id = lxx/genesis45_v18
 1	καὶ	καί	CCONJ	_	_	10	cc	_	Gloss=and,also,even,then,next
@@ -36057,7 +36057,7 @@
 6	ἦλθον	ἔρχομαι	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	2	conj	_	Gloss=to-come,go
 7	εἰς	εἰς	ADP	_	_	8	case	_	Gloss=into,unto,for
 8	γῆν	γῆ	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	6	obl	_	Gloss=earth,land
-9	Χαναὰν	Χαναὰν	PROPN	_	Case=Gen	8	nmod:poss	_	Gloss=Canaan
+9	Χαναὰν	Χαναάν	PROPN	_	Case=Gen|Number=Sing	8	nmod:poss	_	Gloss=Canaan
 10	πρὸς	πρός	ADP	_	_	11	case	_	Gloss=+D=at;-+A=to,toward
 11	Ἰακὼβ	Ἰακώβ	PROPN	_	Case=Acc|Gender=Masc|Number=Sing	6	obl	_	Gloss=Jacob
 12	τὸν	ὁ	DET	_	Case=Acc|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	13	det	_	Gloss=the
@@ -36310,7 +36310,7 @@
 12	ἐκτήσαντο	κτάομαι	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Mid	9	acl:relcl	_	Gloss=to-acquire
 13	ἐν	ἐν	ADP	_	_	14	case	_	Gloss=in,on,by,with,to
 14	γῇ	γῆ	NOUN	_	Case=Dat|Gender=Fem|Number=Sing	12	obl	_	Gloss=earth,ground,land
-15	Χαναάν	Χαναάν	PROPN	_	Case=Gen	14	nmod:poss	_	Gloss=Canaan|SpaceAfter=No
+15	Χαναάν	Χαναάν	PROPN	_	Case=Gen|Number=Sing	14	nmod:poss	_	Gloss=Canaan|SpaceAfter=No
 16	,	,	PUNCT	_	_	17	punct	_	_
 17	εἰσῆλθον	εἰσέρχομαι	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	Gloss=to-enter
 18	εἰς	εἰς	ADP	_	_	19	case	_	Gloss=into,unto,for
@@ -36396,7 +36396,7 @@
 2	δὲ	δέ	CCONJ	_	_	5	cc	_	Gloss=but,and,however
 3	Συμεών	Συμεών	PROPN	_	Case=Gen|Gender=Masc|Number=Sing	1	nmod:poss	_	Gloss=Simeon|SpaceAfter=No
 4	·	·	PUNCT	_	_	5	punct	_	_
-5	Ἰεμουὲλ	Ἰεμουὲλ	PROPN	_	Gender=Masc	0	root	_	Gloss=Jemuel
+5	Ἰεμουὲλ	Ἰεμουέλ	PROPN	_	Gender=Masc|Number=Sing	0	root	_	Gloss=Jemuel
 6	καὶ	καί	CCONJ	_	_	7	cc	_	Gloss=and,also,even,then,next
 7	Ἰαμὶν	Ἰαμὶν	PROPN	_	Gender=Masc	5	conj	_	Gloss=Jamin
 8	καὶ	καί	CCONJ	_	_	9	cc	_	Gloss=and,also,even,then,next
@@ -36445,7 +36445,7 @@
 18	Αὐνὰν	Αὐνάν	PROPN	_	Gender=Masc|Number=Sing	16	conj	_	Gloss=Onan
 19	ἐν	ἐν	ADP	_	_	20	case	_	Gloss=in,on,by,with,to
 20	γῇ	γῆ	NOUN	_	Case=Dat|Gender=Fem|Number=Sing	14	obl	_	Gloss=earth,ground,land
-21	Χαναάν	Χαναάν	PROPN	_	Case=Gen	20	nmod:poss	_	Gloss=Canaan|SpaceAfter=No
+21	Χαναάν	Χαναάν	PROPN	_	Case=Gen|Number=Sing	20	nmod:poss	_	Gloss=Canaan|SpaceAfter=No
 22	·	·	PUNCT	_	_	23	punct	_	_
 23	ἐγένοντο	γίνομαι	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Mid	5	conj	_	Gloss=to-become,come-to-be
 24	δὲ	δέ	CCONJ	_	_	23	cc	_	Gloss=but,and,however
@@ -36453,7 +36453,7 @@
 26	Φαρὲς	Φαρὲς	PROPN	_	Case=Gen	25	nmod:poss	_	Gloss=Perez
 27	Ἀσρὼν	Ἀσρὼν	PROPN	_	Case=Acc	23	obj	_	Gloss=Hezrοn
 28	καὶ	καί	CCONJ	_	_	29	cc	_	Gloss=and,also,even,then,next
-29	Ἰεμουέλ	Ἰεμουέλ	PROPN	_	_	27	conj	_	Gloss=Hamul|SpaceAfter=No
+29	Ἰεμουέλ	Ἰεμουέλ	PROPN	_	Gender=Masc|Number=Sing	27	conj	_	Gloss=Hamul|SpaceAfter=No
 30	.	.	PUNCT	_	_	29	punct	_	_
 
 # sent_id = lxx/genesis46_v13
@@ -36464,7 +36464,7 @@
 5	καὶ	καί	CCONJ	_	_	6	cc	_	Gloss=and,also,even,then,next
 6	Φουὰ	Φουὰ	PROPN	_	Gender=Masc	4	conj	_	Gloss=Puvah
 7	καὶ	καί	CCONJ	_	_	8	cc	_	Gloss=and,also,even,then,next
-8	Ἰασοὺβ	Ἰασοὺβ	PROPN	_	Gender=Masc	4	conj	_	Gloss=Job
+8	Ἰασοὺβ	Ἰασούβ	PROPN	_	Gender=Masc|Number=Sing	4	conj	_	Gloss=Job
 9	καὶ	καί	CCONJ	_	_	10	cc	_	Gloss=and,also,even,then,next
 10	Ζαμβράμ	Ζαμβράμ	PROPN	_	Gender=Masc	4	conj	_	Gloss=Shimron|SpaceAfter=No
 11	.	.	PUNCT	_	_	10	punct	_	_
@@ -36665,7 +36665,7 @@
 2	δὲ	δέ	CCONJ	_	_	5	cc	_	Gloss=but,and,however
 3	Βενιαμίν	Βενιαμίν	PROPN	_	Case=Gen|Gender=Masc|Number=Sing	1	nmod:poss	_	Gloss=Benjamin|SpaceAfter=No
 4	·	·	PUNCT	_	_	5	punct	_	_
-5	Βαλὰ	Βαλὰ	PROPN	_	Gender=Masc	0	root	_	Gloss=Belah
+5	Βαλὰ	Βαλά	PROPN	_	Gender=Masc	0	root	_	Gloss=Belah
 6	καὶ	καί	CCONJ	_	_	7	cc	_	Gloss=and,also,even,then,next
 7	Χοβὼρ	Χοβὼρ	PROPN	_	Gender=Masc	5	conj	_	Gloss=Becher
 8	καὶ	καί	CCONJ	_	_	9	cc	_	Gloss=and,also,even,then,next
@@ -36723,13 +36723,13 @@
 # sent_id = lxx/genesis46_v24
 1	καὶ	καί	CCONJ	_	_	5	cc	_	Gloss=and,also,even,then,next
 2	υἱοὶ	υἱός	NOUN	_	Case=Nom|Gender=Masc|Number=Plur	5	nsubj	_	Gloss=sons
-3	Νεφθαλί	Νεφθαλί	PROPN	_	Case=Gen	2	nmod:poss	_	Gloss=Naphtali|SpaceAfter=No
+3	Νεφθαλί	Νεφθαλί	PROPN	_	Case=Gen|Gender=Masc|Number=Sing	2	nmod:poss	_	Gloss=Naphtali|SpaceAfter=No
 4	·	·	PUNCT	_	_	5	punct	_	_
 5	Ἀσιηλὶ	Ἀσιηλὶ	PROPN	_	Gender=Masc	0	root	_	Gloss=Jahzeel
 6	καὶ	καί	CCONJ	_	_	7	cc	_	Gloss=and,also,even,then,next
 7	Γωϋνὶ	Γωϋνὶ	PROPN	_	Gender=Masc	5	conj	_	Gloss=Guni
 8	καὶ	καί	CCONJ	_	_	9	cc	_	Gloss=and,also,even,then,next
-9	Ἰσσαὰρ	Ἰσσαὰρ	PROPN	_	Gender=Masc	5	conj	_	Gloss=Issaar,Jezer
+9	Ἰσσαὰρ	Ἰσσαάρ	PROPN	_	Gender=Masc|Number=Sing	5	conj	_	Gloss=Issaar,Jezer
 10	καὶ	καί	CCONJ	_	_	11	cc	_	Gloss=and,also,even,then,next
 11	Συλλήμ	Συλλήμ	PROPN	_	Gender=Masc	5	conj	_	Gloss=Shillem|SpaceAfter=No
 12	.	.	PUNCT	_	_	11	punct	_	_
@@ -36919,7 +36919,7 @@
 28	ἦσαν	εἰμί	AUX	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	30	cop	_	Gloss=to-be
 29	ἐν	ἐν	ADP	_	_	30	case	_	Gloss=in,on,by,with,to
 30	γῇ	γῆ	NOUN	_	Case=Dat|Gender=Fem|Number=Sing	18	acl:relcl	_	Gloss=earth,ground,land
-31	Χαναάν	Χαναάν	PROPN	_	Case=Gen	30	nmod:poss	_	Gloss=Canaan|SpaceAfter=No
+31	Χαναάν	Χαναάν	PROPN	_	Case=Gen|Number=Sing	30	nmod:poss	_	Gloss=Canaan|SpaceAfter=No
 32	,	,	PUNCT	_	_	33	punct	_	_
 33	ἥκασιν	ἥκω	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	14	ccomp	_	Gloss=to-come,go
 34	πρός	πρός	ADP	_	_	35	case	_	Gloss=+D=at;-+A=to,toward
@@ -37036,7 +37036,7 @@
 27	ἦλθον	ἔρχομαι	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	7	ccomp	_	Gloss=to-come,go
 28	ἐκ	ἐκ	ADP	_	_	29	case	_	Gloss=out,out-of
 29	γῆς	γῆ	NOUN	_	Case=Gen|Gender=Fem|Number=Sing	27	obl	_	Gloss=earth,land
-30	Χαναὰν	Χαναὰν	PROPN	_	Case=Gen	29	nmod:poss	_	Gloss=Canaan
+30	Χαναὰν	Χαναάν	PROPN	_	Case=Gen|Number=Sing	29	nmod:poss	_	Gloss=Canaan
 31	καὶ	καί	CCONJ	_	_	35	cc	_	Gloss=and,also,even,then,next
 32	ἰδού	ἰδού	INTJ	_	_	35	discourse	_	Gloss=look!,behold!
 33	εἰσιν	εἰμί	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	35	cop	_	Gloss=are
@@ -37121,7 +37121,7 @@
 24	λιμὸς	λιμός	NOUN	_	Case=Nom|Gender=Fem,Masc|Number=Sing	21	nsubj	_	Gloss=famine
 25	ἐν	ἐν	ADP	_	_	26	case	_	Gloss=in,on,by,with,to
 26	γῇ	γῆ	NOUN	_	Case=Dat|Gender=Fem|Number=Sing	21	obl	_	Gloss=earth,ground,land
-27	Χαναάν	Χαναάν	PROPN	_	Case=Gen	26	nmod:poss	_	Gloss=Canaan|SpaceAfter=No
+27	Χαναάν	Χαναάν	PROPN	_	Case=Gen|Number=Sing	26	nmod:poss	_	Gloss=Canaan|SpaceAfter=No
 28	·	·	PUNCT	_	_	29	punct	_	_
 29	νῦν	νῦν	ADV	_	_	31	obl:tmod	_	Gloss=now
 30	οὖν	οὖν	ADV	_	_	31	advmod	_	Gloss=now,therefore
@@ -37398,7 +37398,7 @@
 21	καὶ	καί	CCONJ	_	_	23	cc	_	Gloss=and,also,even,then,next
 22	ἡ	ὁ	DET	_	Case=Nom|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	23	det	_	Gloss=the
 23	γῆ	γῆ	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	19	conj	_	Gloss=earth
-24	Χαναὰν	Χαναὰν	PROPN	_	Case=Gen	23	nmod:poss	_	Gloss=Canaan
+24	Χαναὰν	Χαναάν	PROPN	_	Case=Gen|Number=Sing	23	nmod:poss	_	Gloss=Canaan
 25	ἀπὸ	ἀπό	ADP	_	_	27	case	_	Gloss=from,away-from
 26	τοῦ	ὁ	DET	_	Case=Gen|Definite=Def|Gender=Masc,Neut|Number=Sing|PronType=Art	27	det	_	Gloss=the
 27	λιμοῦ	λιμός	NOUN	_	Case=Gen|Gender=Fem,Masc|Number=Sing	16	obl	_	Gloss=famine|SpaceAfter=No
@@ -37419,7 +37419,7 @@
 12	καὶ	καί	CCONJ	_	_	14	cc	_	Gloss=and,also,even,then,next
 13	ἐν	ἐν	ADP	_	_	14	case	_	Gloss=in,on,by,with,to
 14	γῇ	γῆ	NOUN	_	Case=Dat|Gender=Fem|Number=Sing	10	conj	_	Gloss=earth,ground,land
-15	Χαναὰν	Χαναὰν	PROPN	_	Case=Gen	14	nmod:poss	_	Gloss=Canaan
+15	Χαναὰν	Χαναάν	PROPN	_	Case=Gen|Number=Sing	14	nmod:poss	_	Gloss=Canaan
 16	τοῦ	ὁ	DET	_	Case=Gen|Definite=Def|Gender=Masc,Neut|Number=Sing|PronType=Art	17	det	_	Gloss=the
 17	σίτου	σῖτος	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	1	obl	_	Gloss=grain,wheat|SpaceAfter=No
 18	,	,	PUNCT	_	_	19	punct	_	_
@@ -37453,7 +37453,7 @@
 9	καὶ	καί	CCONJ	_	_	11	cc	_	Gloss=and,also,even,then,next
 10	ἐκ	ἐκ	ADP	_	_	11	case	_	Gloss=out,out-of
 11	γῆς	γῆ	NOUN	_	Case=Gen|Gender=Fem|Number=Sing	7	conj	_	Gloss=earth,land
-12	Χαναάν	Χαναάν	PROPN	_	Case=Gen	11	nmod:poss	_	Gloss=Canaan|SpaceAfter=No
+12	Χαναάν	Χαναάν	PROPN	_	Case=Gen|Number=Sing	11	nmod:poss	_	Gloss=Canaan|SpaceAfter=No
 13	.	.	PUNCT	_	_	14	punct	_	_
 14	ἦλθον	ἔρχομαι	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	2	conj	_	Gloss=to-come,go
 15	δὲ	δέ	CCONJ	_	_	14	cc	_	Gloss=but,and,however
@@ -38095,7 +38095,7 @@
 12	Λουζὰ	Λουζὰ	PROPN	_	Case=Dat	9	obl	_	Gloss=Luz
 13	ἐν	ἐν	ADP	_	_	14	case	_	Gloss=in,on,by,with,to
 14	γῇ	γῆ	NOUN	_	Case=Dat|Gender=Fem|Number=Sing	12	nmod	_	Gloss=earth,ground,land
-15	Χαναὰν	Χαναὰν	PROPN	_	Case=Gen	14	nmod:poss	_	Gloss=Canaan
+15	Χαναὰν	Χαναάν	PROPN	_	Case=Gen|Number=Sing	14	nmod:poss	_	Gloss=Canaan
 16	καὶ	καί	CCONJ	_	_	17	cc	_	Gloss=and,also,even,then,next
 17	εὐλόγησέν	εὐλογέω	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	9	conj	_	Gloss=to-bless
 18	με	ἐγώ	PRON	_	Case=Acc|Number=Sing|Person=1|PronType=Prs	17	obj	_	Gloss=me
@@ -38161,7 +38161,7 @@
 24	καὶ	καί	CCONJ	_	_	25	cc	_	Gloss=and,also,even,then,next
 25	Μανασσῆ	Μανασσῆ	PROPN	_	Gender=Masc|Number=Sing	23	conj	_	Gloss=Manasseh
 26	ὡς	ὡς	ADP	_	_	27	case	_	Gloss=as
-27	Ῥουβὴν	Ῥουβὴν	PROPN	_	Gender=Masc|Number=Sing	31	obl	_	Gloss=Reuben
+27	Ῥουβὴν	Ῥουβήν	PROPN	_	Gender=Masc|Number=Sing	31	obl	_	Gloss=Reuben
 28	καὶ	καί	CCONJ	_	_	29	cc	_	Gloss=and,also,even,then,next
 29	Συμεὼν	Συμεών	PROPN	_	Gender=Masc|Number=Sing	27	conj	_	Gloss=Simeon
 30	ἔσονταί	εἰμί	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Fut|VerbForm=Fin|Voice=Mid	31	cop	_	Gloss=to-be
@@ -38212,7 +38212,7 @@
 14	σου	σύ	PRON	_	Case=Gen|Number=Sing|Person=2|PronType=Prs	13	nmod:poss	_	Gloss=you,your
 15	ἐν	ἐν	ADP	_	_	16	case	_	Gloss=in,on,by,with,to
 16	γῇ	γῆ	NOUN	_	Case=Dat|Gender=Fem|Number=Sing	10	obl	_	Gloss=earth,ground,land
-17	Χαναὰν	Χαναὰν	PROPN	_	Case=Gen	16	nmod:poss	_	Gloss=Canaan
+17	Χαναὰν	Χαναάν	PROPN	_	Case=Gen|Number=Sing	16	nmod:poss	_	Gloss=Canaan
 18	ἐγγίζοντός	ἐγγίζω	VERB	_	Aspect=Imp|Case=Gen|Gender=Masc,Neut|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	10	advcl	_	Gloss=to-draw-near
 19	μου	ἐγώ	PRON	_	Case=Gen|Number=Sing|Person=1|PronType=Prs	18	obl	_	Gloss=me,my
 20	κατὰ	κατά	ADP	_	_	22	case	_	Gloss=+G=down-from/upon;-+A=according-to,along
@@ -39112,7 +39112,7 @@
 13	.	.	PUNCT	_	_	12	punct	_	_
 
 # sent_id = lxx/genesis49_v21
-1	Νεφθαλὶ	Νεφθαλὶ	PROPN	_	_	2	nsubj	_	Gloss=Naphtali
+1	Νεφθαλὶ	Νεφθαλί	PROPN	_	Gender=Masc|Number=Sing	2	nsubj	_	Gloss=Naphtali
 2	στέλεχος	στέλεχος	NOUN	_	Case=Acc,Nom|Gender=Neut|Number=Sing	0	root	_	Gloss=trunk,stem
 3	ἀνειμένον	ἀνίημι	VERB	_	Aspect=Perf|Case=Acc|Gender=Masc,Neut|Number=Sing|VerbForm=Part|Voice=Mid,Pass	2	acl:relcl	_	Gloss=to-loose,spare|SpaceAfter=No
 4	,	,	PUNCT	_	_	5	punct	_	_
@@ -39331,7 +39331,7 @@
 9	ἐν	ἐν	ADP	_	_	11	case	_	Gloss=in,on,by,with,to
 10	τῇ	ὁ	DET	_	Case=Dat|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	11	det	_	Gloss=the
 11	γῇ	γῆ	NOUN	_	Case=Dat|Gender=Fem|Number=Sing	8	obl	_	Gloss=earth,ground,land
-12	Χαναάν	Χαναάν	PROPN	_	Case=Gen	11	nmod:poss	_	Gloss=Canaan|SpaceAfter=No
+12	Χαναάν	Χαναάν	PROPN	_	Case=Gen|Number=Sing	11	nmod:poss	_	Gloss=Canaan|SpaceAfter=No
 13	,	,	PUNCT	_	_	14	punct	_	_
 14	ὃ	ὁ	DET	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Art	15	dislocated	_	Gloss=who,which,that
 15	ἐκτήσατο	κτάομαι	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Mid	11	acl:relcl	_	Gloss=to-acquire
@@ -39525,7 +39525,7 @@
 14	ἐμαυτῷ	ἐμαυτοῦ	PRON	_	Case=Dat|Gender=Masc,Neut|Number=Sing|Person=1|PronType=Prs|Reflex=Yes	13	iobj	_	Gloss=myself
 15	ἐν	ἐν	ADP	_	_	16	case	_	Gloss=in,on,by,with,to
 16	γῇ	γῆ	NOUN	_	Case=Dat|Gender=Fem|Number=Sing	13	obl	_	Gloss=earth,ground,land
-17	Χαναάν	Χαναάν	PROPN	_	Case=Gen	16	nmod:poss	_	Gloss=Canaan|SpaceAfter=No
+17	Χαναάν	Χαναάν	PROPN	_	Case=Gen|Number=Sing	16	nmod:poss	_	Gloss=Canaan|SpaceAfter=No
 18	,	,	PUNCT	_	_	19	punct	_	_
 19	ἐκεῖ	ἐκεῖ	ADV	_	_	21	advmod	_	Gloss=there
 20	με	ἐγώ	PRON	_	Case=Acc|Number=Sing|Person=1|PronType=Prs	21	obj	_	Gloss=me
@@ -39678,7 +39678,7 @@
 4	κάτοικοι	κάτοικος	NOUN	_	Case=Nom|Gender=Masc|Number=Plur	2	nsubj	_	Gloss=inhabitant
 5	τῆς	ὁ	DET	_	Case=Gen|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	6	det	_	Gloss=the
 6	γῆς	γῆ	NOUN	_	Case=Gen|Gender=Fem|Number=Sing	4	nmod:poss	_	Gloss=earth,land
-7	Χαναὰν	Χαναὰν	PROPN	_	Case=Gen	6	nmod:poss	_	Gloss=Canaan
+7	Χαναὰν	Χαναάν	PROPN	_	Case=Gen|Number=Sing	6	nmod:poss	_	Gloss=Canaan
 8	τὸ	ὁ	DET	_	Case=Acc|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	9	det	_	Gloss=the
 9	πένθος	πένθος	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	2	obj	_	Gloss=sorrow
 10	ἐν	ἐν	ADP	_	_	11	case	_	Gloss=in,on,by,with,to
@@ -39732,7 +39732,7 @@
 6	αὐτοῦ	αὐτός	PRON	_	Case=Gen|Gender=Masc,Neut|Number=Sing|PronType=Prs	5	nmod:poss	_	Gloss=he,she,it,-self,same
 7	εἰς	εἰς	ADP	_	_	8	case	_	Gloss=into,unto,for
 8	γῆν	γῆ	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	2	obl	_	Gloss=earth,land
-9	Χαναὰν	Χαναὰν	PROPN	_	Case=Gen	8	nmod:poss	_	Gloss=Canaan
+9	Χαναὰν	Χαναάν	PROPN	_	Case=Gen|Number=Sing	8	nmod:poss	_	Gloss=Canaan
 10	καὶ	καί	CCONJ	_	_	11	cc	_	Gloss=and,also,even,then,next
 11	ἔθαψαν	θάπτω	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	2	conj	_	Gloss=to-bury
 12	αὐτὸν	αὐτός	PRON	_	Case=Acc|Gender=Masc|Number=Sing|PronType=Prs	11	obj	_	Gloss=he,she,it,-self,same
